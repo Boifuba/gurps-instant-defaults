@@ -1,0 +1,389 @@
+/**
+ * GURPS Instant Defaults - Modern Styling
+ * Clean, professional design following Foundry VTT conventions
+ * 
+ * @author Your Name
+ * @version 1.0.0
+ */
+
+/* ==========================================================================
+   Main Dialog Container
+   ========================================================================== */
+
+.gurps-instant-defaults-dialog {
+  font-family: "Signika", sans-serif;
+}
+
+.skill-chooser {
+  padding: 10px;
+  background: var(--color-bg-primary, #f0f0e0);
+  color: var(--color-text-primary, #191813);
+}
+
+/* ==========================================================================
+   Search Section
+   ========================================================================== */
+
+.search-section {
+  margin-bottom: 10px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 14px;
+  border: 1px solid var(--color-border-dark, #7a7971);
+  border-radius: 3px;
+  background: var(--color-bg-primary, #f0f0e0);
+  color: var(--color-text-primary, #191813);
+  box-sizing: border-box;
+  transition: all 0.2s ease;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--color-border-highlight, #ff6400);
+  background: var(--color-bg-secondary, #ffffff);
+  box-shadow: 0 0 0 2px rgba(255, 100, 0, 0.1);
+}
+
+.search-input::placeholder {
+  color: var(--color-text-secondary, #7a7971);
+  opacity: 0.7;
+}
+
+.skill-count {
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--color-text-secondary, #7a7971);
+  text-align: right;
+  font-weight: 500;
+}
+
+/* ==========================================================================
+   Display Toggle Section
+   ========================================================================== */
+
+.display-toggle-section {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+
+.toggle-btn {
+  padding: 6px 12px;
+  font-size: 12px;
+  font-weight: 500;
+  border: 1px solid var(--color-border-dark, #7a7971);
+  border-radius: 3px;
+  background: var(--color-bg-primary, #f0f0e0);
+  color: var(--color-text-primary, #191813);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: "Signika", sans-serif;
+}
+
+.toggle-btn:hover {
+  background: var(--color-bg-hover, #e8e8d8);
+  border-color: var(--color-border-highlight, #ff6400);
+}
+
+.toggle-btn.active {
+  background: var(--color-border-highlight, #ff6400);
+  color: #ffffff;
+  border-color: var(--color-border-highlight, #ff6400);
+}
+
+.toggle-btn.active:hover {
+  background: #e55a00;
+  border-color: #e55a00;
+}
+
+/* ==========================================================================
+   Skills List Container
+   ========================================================================== */
+
+.skills-list {
+  max-height: 346px;
+  overflow-y: auto;
+  border: 1px solid var(--color-border-dark, #7a7971);
+  border-radius: 3px;
+  background: var(--color-bg-primary, #f0f0e0);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Custom scrollbar styling */
+.skills-list::-webkit-scrollbar {
+  width: 8px;
+}
+
+.skills-list::-webkit-scrollbar-track {
+  background: var(--color-bg-secondary, #d5d5c5);
+  border-radius: 4px;
+}
+
+.skills-list::-webkit-scrollbar-thumb {
+  background: var(--color-border-dark, #7a7971);
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+.skills-list::-webkit-scrollbar-thumb:hover {
+  background: var(--color-border-darker, #5a5951);
+}
+
+/* ==========================================================================
+   Individual Skill Rows
+   ========================================================================== */
+
+.skill-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 12px;
+  border-bottom: 1px solid rgba(213, 213, 197, 0.6);
+  transition: background-color 0.2s ease;
+  gap: 16px;
+  cursor: pointer;
+}
+
+.skill-row:last-child {
+  border-bottom: none;
+}
+
+.skill-row:hover {
+  background: var(--color-bg-hover, #e8e8d8);
+}
+
+.skill-row:active {
+  background: var(--color-bg-active, #ddddc8);
+}
+
+/* Skill name section (left side) */
+.skill-name {
+  font-weight: 600;
+  flex: 1;
+  min-width: 0; /* Allows text truncation if needed */
+}
+
+/* Reference section (right side) */
+.skill-reference {
+  font-size: 11px;
+  opacity: 0.8;
+  flex-shrink: 0;
+  text-align: right;
+}
+
+/* ==========================================================================
+   GURPS Link Styling (Module-Specific)
+   ========================================================================== */
+
+/* Primary skill links - Orange gradient buttons */
+.skill-chooser .skill-name .gurpslink {
+  background: linear-gradient(135deg, #ffc401 0%, #ffd900 100%);
+  color: #333 !important;
+  padding: 4px 8px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 12px;
+  display: inline-block;
+  transition: all 0.2s ease;
+  border: none;
+  box-shadow: 0 2px 4px rgba(255, 196, 1, 0.3);
+  cursor: pointer;
+}
+
+.skill-chooser .skill-name .gurpslink:hover {
+  background: linear-gradient(135deg, #e55a00 0%, #ff7020 100%);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(255, 100, 0, 0.4);
+  color: #ffffff !important;
+}
+
+.skill-chooser .skill-name .gurpslink:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(255, 100, 0, 0.2);
+}
+
+/* Reference links - Subtle gray buttons */
+.skill-chooser .skill-reference .gurpslink {
+  background: linear-gradient(135deg, #7a7971 0%, #9a9991 100%) !important;
+  color: #ffffff !important;
+  font-size: 10px !important;
+  padding: 2px 6px !important;
+  margin: 0 2px;
+  opacity: 0.8;
+}
+
+.skill-chooser .skill-reference .gurpslink:hover {
+  background: linear-gradient(135deg, #5a5951 0%, #7a7971 100%) !important;
+  opacity: 1;
+  transform: translateY(-1px);
+}
+
+/* ==========================================================================
+   Help Text Section
+   ========================================================================== */
+
+.help-text {
+  margin-top: 12px;
+  padding: 8px 12px;
+  background: var(--color-bg-secondary, #e8e8d8);
+  border-radius: 4px;
+  border-left: 3px solid var(--color-border-highlight, #ff6400);
+}
+
+.help-text p {
+  margin: 0;
+  font-size: 12px;
+  color: var(--color-text-secondary, #7a7971);
+  line-height: 1.4;
+}
+
+.help-text .fas {
+  margin-right: 6px;
+  color: var(--color-border-highlight, #ff6400);
+}
+
+/* ==========================================================================
+   File Chooser Dialog Styling
+   ========================================================================== */
+
+.file-chooser-container {
+  padding: 16px;
+  font-family: "Signika", sans-serif;
+  background: var(--color-bg-primary, #f0f0e0);
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: var(--color-text-primary, #191813);
+  font-size: 14px;
+}
+
+.notes {
+  font-size: 13px;
+  color: var(--color-text-secondary, #7a7971);
+  margin: 4px 0 8px 0;
+  line-height: 1.4;
+}
+
+.help-section {
+  background: var(--color-bg-secondary, #e8e8d8);
+  border: 1px solid var(--color-border-dark, #7a7971);
+  border-radius: 3px;
+  padding: 12px;
+  margin-top: 16px;
+}
+
+.help-header {
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: var(--color-text-primary, #191813);
+  font-size: 13px;
+}
+
+.help-list {
+  margin: 0;
+  padding-left: 16px;
+  color: var(--color-text-secondary, #7a7971);
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+.help-list li {
+  margin-bottom: 4px;
+}
+
+/* ==========================================================================
+   Responsive Design
+   ========================================================================== */
+
+@media (max-width: 600px) {
+  .gurps-instant-defaults-dialog {
+    width: 95% !important;
+    height: 90% !important;
+  }
+  
+  .skill-chooser {
+    padding: 12px;
+  }
+  
+  .skill-row {
+    padding: 8px 10px;
+    gap: 12px;
+  }
+  
+  .skills-list {
+    max-height: 350px;
+  }
+  
+  .search-input {
+    font-size: 16px; /* Prevents zoom on iOS */
+  }
+  
+  .display-toggle-section {
+    flex-direction: column;
+    gap: 4px;
+  }
+  
+  .toggle-btn {
+    width: 100%;
+  }
+}
+
+/* ==========================================================================
+   Accessibility Improvements
+   ========================================================================== */
+
+/* Focus indicators for keyboard navigation */
+.skill-row:focus {
+  outline: 2px solid var(--color-border-highlight, #ff6400);
+  outline-offset: -2px;
+}
+
+.toggle-btn:focus {
+  outline: 2px solid var(--color-border-highlight, #ff6400);
+  outline-offset: 2px;
+}
+
+.search-input:focus {
+  /* Already handled above */
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  .skill-chooser .gurpslink {
+    border: 1px solid currentColor;
+  }
+  
+  .skill-row {
+    border-bottom-width: 2px;
+  }
+  
+  .toggle-btn {
+    border-width: 2px;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .skill-chooser .gurpslink,
+  .skill-row,
+  .search-input,
+  .toggle-btn {
+    transition: none;
+  }
+  
+  .skill-chooser .gurpslink:hover {
+    transform: none;
+  }
+}

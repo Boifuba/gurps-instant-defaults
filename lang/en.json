@@ -1,0 +1,37 @@
+{
+  "SKILLS": {
+    "ModuleName": "Skills Reference Module",
+    "ButtonTitle": "Open Skills Reference",
+    "DialogTitle": "Skills Reference",
+    "SearchPlaceholder": "Search skills...",
+    "NoSkillsFound": "No skills found matching your search",
+    "SkillNotFound": "Skill not found",
+    "DataNotLoaded": "Skills data not loaded",
+    "LoadingError": "Error loading skills data",
+    "ExportSuccess": "Skills data exported successfully",
+    "Dialog": {
+      "SkillChooser": {
+        "Title": "Skill Chooser",
+        "FilterPlaceholder": "Type to filter skills...",
+        "SkillCount": "skills",
+        "HelpText": "Drag skills to character sheets or right-click for options",
+        "Close": "Close",
+        "ShowName": "Show Name",
+        "ShowOTF": "Show OTF"
+      },
+      "FileChooser": {
+        "Title": "Choose Skills File",
+        "Description": "Select a .skl file to import skills from",
+        "Requirements": "File Requirements:",
+        "Req1": "Must be a valid JSON file with .skl extension",
+        "Req2": "Must contain a 'rows' array with skill data",
+        "Req3": "Each skill must have 'name', 'defaults', and 'reference' properties"
+      }
+    },
+    "Commands": {
+      "Help": "Available commands: /skills, /skills search <term>, /skills <skill name>",
+      "SearchResults": "Skills found:",
+      "NoResults": "No skills found matching"
+    }
+  }
+}

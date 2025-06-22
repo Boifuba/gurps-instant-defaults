@@ -1,0 +1,2217 @@
+[
+    {
+        "name": "Accounting",
+        "skill": "[S:Accounting*| IQ-6 | S:Finance-4 | S:Mathematics*Statistics-5 | S:Merchant-5]",
+        "page": "[PDF:B174]"
+    },
+    {
+        "name": "Acrobatics",
+        "skill": "[S:Acrobatics*| DX-6]",
+        "page": "[PDF:B174]"
+    },
+    {
+        "name": "Acting",
+        "skill": "[S:Acting*| IQ-5 | S:Performance-2 | S:Public*Speaking-5]",
+        "page": "[PDF:B174]"
+    },
+    {
+        "name": "Administration",
+        "skill": "[S:Administration*| IQ-5 | S:Merchant-3]",
+        "page": "[PDF:B174]"
+    },
+    {
+        "name": "Aerobatics",
+        "skill": "[S:Aerobatics*| DX-6]",
+        "page": "[PDF:B174]"
+    },
+    {
+        "name": "Airshipman/TL",
+        "skill": "[S:Airshipman/TL*| IQ-4]",
+        "page": "[PDF:B185]"
+    },
+    {
+        "name": "Animal Handling†",
+        "skill": "[S:Animal*Handling†*| IQ-5]",
+        "page": "[PDF:B174]"
+    },
+    {
+        "name": "Anthropology†",
+        "skill": "[S:Anthropology†*| IQ-6 | S:Paleontology*Paleoanthropology-2 | S:Sociology-3]",
+        "page": "[PDF:B175]"
+    },
+    {
+        "name": "Aquabatics",
+        "skill": "[S:Aquabatics*| DX-6]",
+        "page": "[PDF:B175]"
+    },
+    {
+        "name": "Archaeology",
+        "skill": "[S:Archaeology*| IQ-6]",
+        "page": "[PDF:B174]"
+    },
+    {
+        "name": "Architecture/TL",
+        "skill": "[S:Architecture/TL*| IQ-5 | S:Engineer*Civil-4]",
+        "page": "[PDF:B176]"
+    },
+    {
+        "name": "Area Knowledge (Neighborhood)",
+        "skill": "[S:Area*Knowledge*Neighborhood*| IQ-4 | S:Geography*Regional-3]",
+        "page": "[PDF:B176]"
+    },
+    {
+        "name": "Area Knowledge (Village or Town)",
+        "skill": "[S:Area*Knowledge*Village*or*Town*| IQ-4 | S:Geography*Regional-3]",
+        "page": "[PDF:B176]"
+    },
+    {
+        "name": "Area Knowledge (City)",
+        "skill": "[S:Area*Knowledge*City*| IQ-4 | S:Geography*Regional-3]",
+        "page": "[PDF:B176]"
+    },
+    {
+        "name": "Area Knowledge (Barony, County, Duchy, or Small Nation)",
+        "skill": "[S:Area*Knowledge*Barony,*County,*Duchy,*or*Small*Nation*| IQ-4 | S:Geography*Regional-3]",
+        "page": "[PDF:B176]"
+    },
+    {
+        "name": "Area Knowledge (Large Nation)",
+        "skill": "[S:Area*Knowledge*Large*Nation*| IQ-4 | S:Geography*Regional-3]",
+        "page": "[PDF:B176]"
+    },
+    {
+        "name": "Area Knowledge (Planet)",
+        "skill": "[S:Area*Knowledge*Planet*| IQ-4 | S:Geography*Regional-3]",
+        "page": "[PDF:B176]"
+    },
+    {
+        "name": "Area Knowledge (Interplanetary State)",
+        "skill": "[S:Area*Knowledge*Interplanetary*State*| IQ-4 | S:Geography*Regional-3]",
+        "page": "[PDF:B176]"
+    },
+    {
+        "name": "Area Knowledge (Galaxy)",
+        "skill": "[S:Area*Knowledge*Galaxy*| IQ-4 | S:Geography*Regional-3]",
+        "page": "[PDF:B176]"
+    },
+    {
+        "name": "Armoury/TL (Battlesuits)",
+        "skill": "[S:Armoury/TL*Battlesuits*| IQ-5 | S:Engineer*Battlesuits-4 | S:Armoury/TL*Body*Armor-4]",
+        "page": "[PDF:B176]"
+    },
+    {
+        "name": "Armoury/TL (Body Armor)",
+        "skill": "[S:Armoury/TL*Body*Armor*| IQ-5 | S:Engineer*Body*Armor-4 | S:Smith*Bronze-3 | S:Smith*Iron-3 | S:Machinist-3 | S:Armoury/TL*Battlesuits-4]",
+        "page": "[PDF:B178]"
+    },
+    {
+        "name": "Armoury/TL( Force Shields)",
+        "skill": "[S:Armoury/TL*Force*Shields*| IQ-5 | S:Engineer*Force*Shields-4 | S:Electronics*Repair*Force*Shields]",
+        "page": "[PDF:B178]"
+    },
+    {
+        "name": "Armoury/TL (Heavy Weapons)",
+        "skill": "[S:Armoury/TL*Heavy*Weapons*| IQ-5 | S:Engineer*Heavy*Weapons-4 | S:Armoury/TL*Small*Arms-4]",
+        "page": "[PDF:B178]"
+    },
+    {
+        "name": "Armoury/TL (Melee Weapons)",
+        "skill": "[S:Armoury/TL*Melee*Weapons*| IQ-5 | S:Engineer*Melee*Weapons-4 | S:Smith*Bronze-3 | S:Smith*Iron-3 | S:Machinist-3 | S:Armoury/TL*Missile*Weapons-4]",
+        "page": "[PDF:B178]"
+    },
+    {
+        "name": "Armoury/TL (Missile Weapons)",
+        "skill": "[S:Armoury/TL*Missile*Weapons*| IQ-5 | S:Engineer*Missile*Weapons-4 | S:Armoury/TL*Melee*Weapons-4]",
+        "page": "[PDF:B178]"
+    },
+    {
+        "name": "Armoury/TL (Small Arms)",
+        "skill": "[S:Armoury/TL*Small*Arms*| IQ-5 | S:Engineer*Small*Arms-4 | S:Armoury/TL*Heavy*Weapons-4]",
+        "page": "[PDF:B178]"
+    },
+    {
+        "name": "Armoury/TL (Vehicular Armor)",
+        "skill": "[S:Armoury/TL*Vehicular*Armor*| IQ-5 | S:Engineer*Vehicular*Armor-4]",
+        "page": "[PDF:B178]"
+    },
+    {
+        "name": "Artillery/TL (Beams)",
+        "skill": "[S:Artillery/TL*Beams*| IQ-5]",
+        "page": "[PDF:B178]"
+    },
+    {
+        "name": "Artillery/TL (Bombs)",
+        "skill": "[S:Artillery/TL*Bombs*| IQ-5]",
+        "page": "[PDF:B178]"
+    },
+    {
+        "name": "Artillery/TL (Cannon)",
+        "skill": "[S:Artillery/TL*Cannon*| IQ-5]",
+        "page": "[PDF:B178]"
+    },
+    {
+        "name": "Artillery/TL (Catapult)",
+        "skill": "[S:Artillery/TL*Catapult*| IQ-5]",
+        "page": "[PDF:B178]"
+    },
+    {
+        "name": "Artillery/TL (Guided Missile)",
+        "skill": "[S:Artillery/TL*Guided*Missile*| IQ-5]",
+        "page": "[PDF:B178]"
+    },
+    {
+        "name": "Artillery/TL (Torpedoes)",
+        "skill": "[S:Artillery/TL*Torpedoes*| IQ-5]",
+        "page": "[PDF:B178]"
+    },
+    {
+        "name": "Artist (Body Art)",
+        "skill": "[S:Artist*Body*Art*| IQ-6 | S:Artist*Calligraphy-4 | S:Artist*Drawing-4 | S:Artist*Illumination-4 | S:Artist*Painting-4 | S:Artist*Interior*Decorating-6 | S:Artist*Scene*Design-6 | S:Artist*Woodworking-6 | S:Artist*Illusion-6 | Artist*Pottery-6 | S:Artist*Sculpting-6]",
+        "page": "[PDF:B178]"
+    },
+    {
+        "name": "Artist (Calligraphy)",
+        "skill": "[S:Artist*Calligraphy*| IQ-6 | S:Artist*Body*Art-4 | S:Artist*Drawing-2 | S:Artist*Illumination-2 | S:Artist*Painting-2 | S:Artist*Interior*Decorating-6 | S:Artist*Scene*Design-6 | S:Artist*Woodworking-6 | S:Artist*Illusion-6 | Artist*Pottery-6 | S:Artist*Sculpting-6]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Artist (Drawing)",
+        "skill": "[S:Artist*Drawing*| IQ-6 | S:Artist*Body*Art-4 | S:Artist*Calligraphy-2 | S:Artist*Illumination-2 | S:Artist*Painting-2 | S:Artist*Interior*Decorating-6 | S:Artist*Scene*Design-6 | S:Artist*Woodworking-6 | S:Artist*Illusion-6 | Artist*Pottery-6 | S:Artist*Sculpting-6]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Artist (Illumination)",
+        "skill": "[S:Artist*Illumination*| IQ-6 | S:Artist*Body*Art-4 | S:Artist*Calligraphy-2 | S:Artist*Drawing-2 | S:Artist*Painting-2 | S:Artist*Interior*Decorating-6 | S:Artist*Scene*Design-6 | S:Artist*Woodworking-6 | S:Artist*Illusion-6 | Artist*Pottery-6 | S:Artist*Sculpting-6]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Artist (Painting)",
+        "skill": "[S:Artist*Painting*| IQ-6 | S:Artist*Body*Art-4 | S:Artist*Calligraphy-2 | S:Artist*Drawing-2 | S:Artist*Illumination-2 | S:Artist*Interior*Decorating-6 | S:Artist*Scene*Design-6 | S:Artist*Woodworking-6 | S:Artist*Illusion-6 | Artist*Pottery-6 | S:Artist*Sculpting-6]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Artist (Illusion)",
+        "skill": "[S:Artist*Illusion*| IQ-6 | S:Artist*Body*Art-6 | S:Artist*Calligraphy-6 | S:Artist*Drawing-6 | S:Artist*Illumination-6 | S:Artist*Interior*Decorating-6 | S:Artist*Scene*Design-6 | S:Artist*Woodworking-6 | S:Artist*Painting-6 | Artist*Pottery-6 | S:Artist*Sculpting-6]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Artist (Interior Decorating)",
+        "skill": "[S:Artist*Interior*Decorating*| IQ-6 | S:Artist*Body*Art-6 | S:Artist*Calligraphy-6 | S:Artist*Drawing-6 | S:Artist*Illumination-6 | S:Artist*Painting-6 | S:Artist*Scene*Design-4 | S:Artist*Woodworking-4 | S:Artist*Illusion-6 | Artist*Pottery-6 | S:Artist*Sculpting-6]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Artist (Pottery)",
+        "skill": "[S:Artist*Pottery*| IQ-6 | S:Artist*Body*Art-6 | S:Artist*Calligraphy-6 | S:Artist*Drawing-6 | S:Artist*Illumination-6 | S:Artist*Interior*Decorating-6 | S:Artist*Scene*Design-6 | S:Artist*Woodworking-6 | S:Artist*Painting-6 | Artist*Illusion-6 | S:Artist*Sculpting-6]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Artist (Scene Design)",
+        "skill": "[S:Artist*Scene*Design*| IQ-6 | S:Artist*Body*Art-6 | S:Artist*Calligraphy-6 | S:Artist*Drawing-6 | S:Artist*Illumination-6 | S:Artist*Painting-6 | S:Artist*Interior*Decorating-4 | S:Artist*Woodworking-4 | S:Artist*Illusion-6 | Artist*Pottery-6 | S:Artist*Sculpting-6]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Artist (Woodworking)",
+        "skill": "[S:Artist*Woodworking*| IQ-6 | S:Artist*Body*Art-6 | S:Artist*Calligraphy-6 | S:Artist*Drawing-6 | S:Artist*Illumination-6 | S:Artist*Painting-6 | S:Artist*Interior*Decorating-4 | S:Artist*Scene*Design-4 | S:Artist*Illusion-6 | Artist*Pottery-6 | S:Artist*Sculpting-6]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Artist (Sculpting)",
+        "skill": "[S:Artist*Sculpting*| IQ-6 | S:Artist*Body*Art-6 | S:Artist*Calligraphy-6 | S:Artist*Drawing-6 | S:Artist*Illumination-6 | S:Artist*Interior*Decorating-6 | S:Artist*Scene*Design-6 | S:Artist*Woodworking-6 | S:Artist*Painting-6 | Artist*Pottery-6 | S:Artist*Illusion-6]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Astronomy/TL",
+        "skill": "[S:Astronomy/TL*| IQ-6]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Axe/Mace",
+        "skill": "[S:Axe/Mace*| S:Flail-4 | S:Two*Handed*Axe/Mace-3 | DX-5]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Battlesuit/TL",
+        "skill": "[S:Battlesuit/TL*| DX-5 | S:Diving*Suit-4 | S:NBC*Suit-2 | S:Vacc*Suit-2]",
+        "page": "[PDF:B208]"
+    },
+    {
+        "name": "Beam Weapons/TL (Pistol)",
+        "skill": "[S:Beam*Weapons/TL*Pistol*| DX-4 | S:Beam Weapons/TL*Projector-4 | S:Beam Weapons/TL*Rifle-4]",
+        "page": "[PDF:B192]"
+    },
+    {
+        "name": "Beam Weapons/TL (Projector)",
+        "skill": "[S:Beam*Weapons/TL*Projector*| DX-4 | S:Beam*Weapons/TL*Pistol-4 | S:Beam*Weapons/TL*Rifle-4]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Beam Weapons/TL (Rifle)",
+        "skill": "[S:Beam*Weapons/TL*Rifle*| DX-4 | S:Beam*Weapons/TL*Pistol-4 | S:Beam*Weapons/TL*Projector-4]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Bicycling",
+        "skill": "[S:Bicycling*| DX-4 | S:Driving*Motorcycle-4]",
+        "page": "[PDF:B179]"
+    },
+    {
+        "name": "Biology/TL (Earthlike)",
+        "skill": "[S:Biology/TL*Earthlike*| IQ-6 | S:Naturalist-6 | S:Biology/TL*Gas*Giants-4 | S:Biology/TL*Hostile*Terrestrial-4 | S:Biology/TL*Ice*Dwarfs-4 | S:Biology/TL*Ice*Worlds-4 | S:Biology/TL*Rock*Worlds-4]",
+        "page": "[PDF:B180]"
+    },
+    {
+        "name": "Biology/TL (Gas Giants)",
+        "skill": "[S:Biology/TL*Gas*Giants*| IQ-6 | S:Naturalist-6 | S:Biology/TL*Earthlike-4 | S:Biology/TL*Hostile*Terrestrial-4 | S:Biology/TL*Ice*Dwarfs-4 | S:Biology/TL*Ice*Worlds-4 | S:Biology/TL*Rock*Worlds-4]",
+        "page": "[PDF:B180]"
+    },
+    {
+        "name": "Biology/TL (Hostile Terrestrial)",
+        "skill": "[S:Biology/TL*Hostile*Terrestrial*| IQ-6 | S:Naturalist-6 | S:Biology/TL*Earthlike-4 | S:Biology/TL*Gas*Giants-4 | S:Biology/TL*Ice*Dwarfs-4 | S:Biology/TL*Ice*Worlds-4 | S:Biology/TL*Rock*Worlds-4]",
+        "page": "[PDF:B180]"
+    },
+    {
+        "name": "Biology/TL (Ice Dwarfs)",
+        "skill": "[S:Biology/TL*Ice*Dwarfs*| IQ-6 | S:Naturalist-6 | S:Biology/TL*Earthlike-4 | S:Biology/TL*Gas*Giants-4 | S:Biology/TL*Hostile*Terrestrial-4 | S:Biology/TL*Ice*Worlds-4 | S:Biology/TL*Rock*Worlds-4]",
+        "page": "[PDF:B180]"
+    },
+    {
+        "name": "Biology/TL (Ice Worlds)",
+        "skill": "[S:Biology/TL*IIce*Worlds*| IQ-6 | S:Naturalist-6 | S:Biology/TL*Earthlike-4 | S:Biology/TL*Gas*Giants-4 | S:Biology/TL*Hostile*Terrestrial-4 | S:Biology/TL*Ice*Dwarfs-4 | S:Biology/TL*Rock*Worlds-4]",
+        "page": "[PDF:B180]"
+    },
+    {
+        "name": "Biology/TL (Rock Worlds)",
+        "skill": "[S:Biology/TL*Rock*Worlds*| IQ-6 | S:Naturalist-6 | S:Biology/TL*Earthlike-4 | S:Biology/TL*Gas*Giants-4 | S:Biology/TL*Hostile*Terrestrial-4 | S:Biology/TL*Ice*Dwarfs-4 | S:Biology/TL*IIce*Worlds-4]",
+        "page": "[PDF:B180]"
+    },
+    {
+        "name": "Blowpipe",
+        "skill": "[S:Blowpipe*| DX-6]",
+        "page": "[PDF:B180]"
+    },
+    {
+        "name": "Boating/TL (Large Powerboat)",
+        "skill": "[S:Boating/TL*Large*Powerboat*| DX-5 | IQ-5 | S:Motorboat-2 | S:Sailboat-4 | S:Unpowered-4 |S:Seamanship-4]",
+        "page": "[PDF:B180]"
+    },
+    {
+        "name": "Boating/TL (Motorboat)",
+        "skill": "[S:Boating/TL*Motorboat*| DX-5 | IQ-5 | S:Large*Powerboat-2 | S:Sailboat-3| S:Unpowered-3]",
+        "page": "[PDF:B180]"
+    },
+    {
+        "name": "Boating/TL (Sailboat)",
+        "skill": "[S:Boating/TL*Sailboat*| DX-5 | IQ-5 | S:Large*Powerboat-4 | S:Motorboat-3| S:Unpowered-3]",
+        "page": "[PDF:B180]"
+    },
+    {
+        "name": "Boating/TL (Unpowered)",
+        "skill": "[S:Boating/TL*Unpowered*| DX-5 | IQ-5 | S:Large*Powerboat-4 | S:Motorboat-3| S:Sailboat-3]",
+        "page": "[PDF:B180]"
+    },
+    {
+        "name": "Body Sense",
+        "skill": "[S:Body*Sense*| DX-6 | S:Acrobatics-3]",
+        "page": "[PDF:B181]"
+    },
+    {
+        "name": "Bow",
+        "skill": "[S:Bow*| DX-5]",
+        "page": "[PDF:B181]"
+    },
+    {
+        "name": "Broadsword",
+        "skill": "[S:Broadsword*| S:Force*Sword-4 | S:Rapier-4 | S:Saber-4 | S:Shortsword-2 | S:Two*Handed*Sword-4 | DX-5]",
+        "page": "[PDF:B182]"
+    },
+    {
+        "name": "Camouflage",
+        "skill": "[S:Camouflage*| IQ-4 | S:Survival-2]",
+        "page": "[PDF:B208]"
+    },
+    {
+        "name": "Captivate",
+        "skill": "[S:Captivate]",
+        "page": "[PDF:B183]"
+    },
+    {
+        "name": "Carousing",
+        "skill": "[S:Carousing*| HT-4]",
+        "page": "[PDF:B183]"
+    },
+    {
+        "name": "Carpentry",
+        "skill": "[S:Carpentry*| IQ-4]",
+        "page": "[PDF:B183]"
+    },
+    {
+        "name": "Cartography/TL",
+        "skill": "[S:Cartography/TL*| IQ-5 | S:Geography-2 | S:Mathematics*Surveying-2 | S:Navigation-4]",
+        "page": "[PDF:B183]"
+    },
+    {
+        "name": "Chemistry/TL",
+        "skill": "[S:Chemistry/TL*| IQ-6 | S:Alchemy-3]",
+        "page": "[PDF:B183]"
+    },
+    {
+        "name": "Climbing",
+        "skill": "[S:Climbing*| DX-5]",
+        "page": "[PDF:B183]"
+    },
+    {
+        "name": "Cloak",
+        "skill": "[S:Cloak*| DX-5 | S:Net-4 | S:Shield-4]",
+        "page": "[PDF:B183]"
+    },
+    {
+        "name": "Combat Art (Main Gauche)",
+        "skill": "[S:Combat*Art*Main*Gauche*| DX-5 | S:Main*Gauche-3 | S:Combat*Sport*Main*Gauche-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Rapier)",
+        "skill": "[S:Combat*Art*Rapier*| DX-5 | S:Rapier-3 | S:Combat*Sport*Rapier-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Saber)",
+        "skill": "[S:Combat*Art*Saber*| DX-5 | S:Saber-3 | S:Combat*Sport*Saber-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Smallsword)",
+        "skill": "[S:Combat*Art*Smallsword*| DX-5 | S:Smallsword-3 | S:Combat*Sport*Smallsword-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Flail)",
+        "skill": "[S:Combat*Art*Flail*| DX-6 | S:Flail-3 | S:Combat*Sport*Flail-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Two-Handed Flail)",
+        "skill": "[S:Combat*Art*Two*Handed*Flail*| DX-6 | S:Two*Handed*Flail-3 | S:Combat*Sport*Two*Handed*Flail-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Axe/Mace)",
+        "skill": "[S:Combat*Art*Axe/Mace*| DX-5 | S:Axe/Mace-3 | S:Combat*Sport*Axe/Mace-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Two-Handed Axe/Mace)",
+        "skill": "[S:Combat*Art*Two*Handed*Axe/Mace*| DX-5 | S:Two*Handed*Axe/Mace-3 | S:Combat*Sport*Two*Handed*Axe/Mace-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Polearm)",
+        "skill": "[S:Combat*Art*Polearm*| DX-5 | S:Polearm-3 | S:Combat*Sport*Polearm-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Spear)",
+        "skill": "[S:Combat*Art*Spear*| DX-5 | S:Spear-3 | S:Combat*Sport*Spear-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Staff)",
+        "skill": "[S:Combat*Art*Staff*| DX-5 | S:Staff-3 | S:Combat*Sport*Staff-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Broadsword)",
+        "skill": "[S:Combat*Art*Broadsword*| DX-5 | S:Broadsword-3 | S:Combat*Sport*Broadsword-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Force Sword)",
+        "skill": "[S:Combat*Art*Force*Sword*| DX-5 | S:Force*Sword-3 | S:Combat*Sport*Force*Sword-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Jitte/Sai)",
+        "skill": "[S:Combat*Art*Jitte/Sai*| DX-5 | S:Jitte/Sai-3 | S:Combat*Sport*Jitte/Sai-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Knife)",
+        "skill": "[S:Combat*Art*Knife*| DX-4 | S:Knife-3 | S:Combat*Sport*Knife-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Shortsword)",
+        "skill": "[S:Combat*Art*Shortsword*| DX-4 | S:Shortsword-3 | S:Combat*Sport*Shortsword-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Two-Handed Sword)",
+        "skill": "[S:Combat*Art*Two*Handed*Sword*| DX-5 | S:Two*Handed*Sword-3 | S:Combat*Sport*Two*Handed*Sword-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Force Whip)",
+        "skill": "[S:Combat*Art*Force*Whip*| DX-5 | S:Force*Whip-3 | S:Combat*Sport*Force*Whip-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Kusari)",
+        "skill": "[S:Combat*Art*Kusari*| DX-6 | S:Kusari-3 | S:Combat*Sport*Kusari-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Monowire Whip)",
+        "skill": "[S:Combat*Art*Monowire*Whip*| DX-6 | S:Monowire*Whip-3 | S:Combat*Sport*Monowire*Whip-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Tonfa)",
+        "skill": "[S:Combat*Art*Tonfa*| DX-5 | S:Tonfa-3 | S:Combat*Sport*Tonfa-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Bow)",
+        "skill": "[S:Combat*Art*Bow*| DX-5 | S:Bow-3 | S:Combat*Sport*Bow-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Garrote)",
+        "skill": "[S:Combat*Art*Garrote*| DX-4 | S:Garrote-3 | S:Combat*Sport*Garrote-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Lance)",
+        "skill": "[S:Combat*Art*Lance*| DX-5 | S:Lance-3 | S:Combat*Sport*Lance-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Shield)",
+        "skill": "[S:Combat*Art*Shield*| DX-4 | S:Shield-3 | S:Combat*Sport*Shield-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Blowpipe)",
+        "skill": "[S:Combat*Art*Blowpipe*| DX-6 | S:Blowpipe-3 | S:Combat*Sport*Blowpipe-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Cloak)",
+        "skill": "[S:Combat*Art*Cloak*| DX-5 | S:Cloak-3 | S:Combat*Sport*Cloak-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Crossbow)",
+        "skill": "[S:Combat*Art*Crossbow*| DX-4 | S:Crossbow-3 | S:Combat*Sport*Crossbow-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Sling)",
+        "skill": "[S:Combat*Art*Sling*| DX-6 | S:Sling-3 | S:Combat*Sport*Sling-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Spear Thrower)",
+        "skill": "[S:Combat*Art*Spear*Thrower*| DX-5 | S:Spear*Thrower-3 | S:Combat*Sport*Spear*Thrower-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Throwing)",
+        "skill": "[S:Combat*Art*Throwing*| DX-3 | S:Throwing-3 | S:Combat*Sport*Throwing-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Guns (Pistol))",
+        "skill": "[S:Combat*Art*Guns*Pistol*| DX-4 | S:Guns*Pistol-3 | S:Combat*Sport*Guns*Pistol-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Guns (SMG))",
+        "skill": "[S:Combat*Art*Guns*SMG*| DX-4 | S:Guns*SMG-3 | S:Combat*Sport*Guns*SMG-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Guns (Musket))",
+        "skill": "[S:Combat*Art*Guns*Musket*| DX-4 | S:Guns*Musket-3 | S:Combat*Sport*Guns*Musket-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Guns (Rifle))",
+        "skill": "[S:Combat*Art*Guns*Rifle*| DX-4 | S:Guns*Rifle-3 | S:Combat*Sport*Guns*Rifle-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Guns (Shotgun))",
+        "skill": "[S:Combat*Art*Guns*Shotgun*| DX-4 | S:Guns*Shotgun-3 | S:Combat*Sport*Guns*Shotgun-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Beam Weapons (Pistol))",
+        "skill": "[S:Combat*Art*Beam*Weapons*Pistol*| DX-4 | S:Beam*Weapons*Pistol-3 | S:Combat*Sport*Beam*Weapons*Pistol-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Beam Weapons (Rifle))",
+        "skill": "[S:Combat*Art*Beam*Weapons*Rifle*| DX-4 | S:Beam*Weapons*Rifle-3 | S:Combat*Sport*Beam*Weapons*Rifle-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Artillery (Guided Missile))",
+        "skill": "[S:Combat*Art*Artillery*Guided*Missile*| IQ-5 | S:Artillery*Guided*Missile-3 | S:Combat*Sport*Artillery*Guided*Missile-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Gunner (Catapult))",
+        "skill": "[S:Combat*Art*Gunner*Catapult*| DX-4 | S:Gunner*Catapult-3 | S:Combat*Sport*Gunner*Catapult-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Gunner (Machine Gun))",
+        "skill": "[S:Combat*Art*Gunner*Machine*Gun*| DX-4 | S:Gunner*Machine*Gun-3 | S:Combat*Sport*Gunner*Machine*Gun-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Guns (Grenade Launcher))",
+        "skill": "[S:Combat*Art*Guns*Grenade*Launcher*| DX-4 | S:Guns*Grenade*Launcher-3 | S:Combat*Sport*Guns*Grenade*Launcher-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Guns (LAW))",
+        "skill": "[S:Combat*Art*Guns*LAW*| DX-4 | S:Guns*LAW-3 | S:Combat*Sport*Guns*LAW-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Guns (LMG))",
+        "skill": "[S:Combat*Art*Guns*LMG*| DX-4 | S:Guns*LMG-3 | S:Combat*Sport*Guns*LMG-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Art (Liquid Projector (Flamethrower))",
+        "skill": "[S:Combat*Art*Liquid*Projector*Flamethrower*| DX-4 | S:Liquid*Projector*Flamethrower-3 | S:Combat*Sport*Liquid*Projector*Flamethrower-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Main Gauche)",
+        "skill": "[S:Combat*Sport*Main*Gauche*| DX-5 | S:Main*Gauche-3 | S:Combat*Art*Main*Gauche-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Rapier)",
+        "skill": "[S:Combat*Sport*Rapier*| DX-5 | S:Rapier-3 | S:Combat*Art*Rapier-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Saber)",
+        "skill": "[S:Combat*Sport*Saber*| DX-5 | S:Saber-3 | S:Combat*Art*Saber-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Smallsword)",
+        "skill": "[S:Combat*Sport*Smallsword*| DX-5 | S:Smallsword-3 | S:Combat*Art*Smallsword-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Flail)",
+        "skill": "[S:Combat*Sport*Flail*| DX-6 | S:Flail-3 | S:Combat*Art*Flail-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Two-Handed Flail)",
+        "skill": "[S:Combat*Sport*Two*Handed*Flail*| DX-6 | S:Two*Handed*Flail-3 | S:Combat*Art*Two*Handed*Flail-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Axe/Mace)",
+        "skill": "[S:Combat*Sport*Axe/Mace*| DX-5 | S:Axe/Mace-3 | S:Combat*Art*Axe/Mace-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Two-Handed Axe/Mace)",
+        "skill": "[S:Combat*Sport*Two*Handed*Axe/Mace*| DX-5 | S:Two*Handed*Axe/Mace-3 | S:Combat*Art*Two*Handed*Axe/Mace-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Polearm)",
+        "skill": "[S:Combat*Sport*Polearm*| DX-5 | S:Polearm-3 | S:Combat*Art*Polearm-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Spear)",
+        "skill": "[S:Combat*Sport*Spear*| DX-5 | S:Spear-3 | S:Combat*Art*Spear-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Staff)",
+        "skill": "[S:Combat*Sport*Staff*| DX-5 | S:Staff-3 | S:Combat*Art*Staff-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Broadsword)",
+        "skill": "[S:Combat*Sport*Broadsword*| DX-5 | S:Broadsword-3 | S:Combat*Art*Broadsword-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Force Sword)",
+        "skill": "[S:Combat*Sport*Force*Sword*| DX-5 | S:Force*Sword-3 | S:Combat*Art*Force*Sword-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Jitte/Sai)",
+        "skill": "[S:Combat*Sport*Jitte/Sai*| DX-5 | S:Jitte/Sai-3 | S:Combat*Art*Jitte/Sai-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Knife)",
+        "skill": "[S:Combat*Sport*Knife*| DX-4 | S:Knife-3 | S:Combat*Art*Knife-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Shortsword)",
+        "skill": "[S:Combat*Sport*Shortsword*| DX-4 | S:Shortsword-3 | S:Combat*Art*Shortsword-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Two-Handed Sword)",
+        "skill": "[S:Combat*Sport*Two*Handed*Sword*| DX-5 | S:Two*Handed*Sword-3 | S:Combat*Art*Two*Handed*Sword-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Force Whip)",
+        "skill": "[S:Combat*Sport*Force*Whip*| DX-5 | S:Force*Whip-3 | S:Combat*Art*Force*Whip-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Kusari)",
+        "skill": "[S:Combat*Sport*Kusari*| DX-6 | S:Kusari-3 | S:Combat*Art*Kusari-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Monowire Whip)",
+        "skill": "[S:Combat*Sport*Monowire*Whip*| DX-6 | S:Monowire*Whip-3 | S:Combat*Art*Monowire*Whip-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Tonfa)",
+        "skill": "[S:Combat*Sport*Tonfa*| DX-5 | S:Tonfa-3 | S:Combat*Art*Tonfa-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Bow)",
+        "skill": "[S:Combat*Sport*Bow*| DX-5 | S:Bow-3 | S:Combat*Art*Bow-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Garrote)",
+        "skill": "[S:Combat*Sport*Garrote*| DX-4 | S:Garrote-3 | S:Combat*Art*Garrote-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Lance)",
+        "skill": "[S:Combat*Sport*Lance*| DX-5 | S:Lance-3 | S:Combat*Art*Lance-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Shield)",
+        "skill": "[S:Combat*Sport*Shield*| DX-4 | S:Shield-3 | S:Combat*Art*Shield-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Blowpipe)",
+        "skill": "[S:Combat*Sport*Blowpipe*| DX-6 | S:Blowpipe-3 | S:Combat*Art*Blowpipe-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Cloak)",
+        "skill": "[S:Combat*Sport*Cloak*| DX-5 | S:Cloak-3 | S:Combat*Art*Cloak-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Crossbow)",
+        "skill": "[S:Combat*Sport*Crossbow*| DX-4 | S:Crossbow-3 | S:Combat*Art*Crossbow-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Sling)",
+        "skill": "[S:Combat*Sport*Sling*| DX-6 | S:Sling-3 | S:Combat*Art*Sling-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Spear Thrower)",
+        "skill": "[S:Combat*Sport*Spear*Thrower*| DX-5 | S:Spear*Thrower-3 | S:Combat*Art*Spear*Thrower-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Throwing)",
+        "skill": "[S:Combat*Sport*Throwing*| DX-3 | S:Throwing-3 | S:Combat*Art*Throwing-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Guns (Pistol))",
+        "skill": "[S:Combat*Sport*Guns*Pistol*| DX-4 | S:Guns*Pistol-3 | S:Combat*Art*Guns*Pistol-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Guns (SMG))",
+        "skill": "[S:Combat*Sport*Guns*SMG*| DX-4 | S:Guns*SMG-3 | S:Combat*Art*Guns*SMG-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Guns (Musket))",
+        "skill": "[S:Combat*Sport*Guns*Musket*| DX-4 | S:Guns*Musket-3 | S:Combat*Art*Guns*Musket-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Guns (Rifle))",
+        "skill": "[S:Combat*Sport*Guns*Rifle*| DX-4 | S:Guns*Rifle-3 | S:Combat*Art*Guns*Rifle-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Guns (Shotgun))",
+        "skill": "[S:Combat*Sport*Guns*Shotgun*| DX-4 | S:Guns*Shotgun-3 | S:Combat*Art*Guns*Shotgun-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Beam Weapons (Pistol))",
+        "skill": "[S:Combat*Sport*Beam*Weapons*Pistol*| DX-4 | S:Beam*Weapons*Pistol-3 | S:Combat*Art*Beam*Weapons*Pistol-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Beam Weapons (Rifle))",
+        "skill": "[S:Combat*Sport*Beam*Weapons*Rifle*| DX-4 | S:Beam*Weapons*Rifle-3 | S:Combat*Art*Beam*Weapons*Rifle-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Artillery (Guided Missile))",
+        "skill": "[S:Combat*Sport*Artillery*Guided*Missile*| IQ-5 | S:Artillery*Guided*Missile-3 | S:Combat*Art*Artillery*Guided*Missile-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Gunner (Catapult))",
+        "skill": "[S:Combat*Sport*Gunner*Catapult*| DX-4 | S:Gunner*Catapult-3 | S:Combat*Art*Gunner*Catapult-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Gunner (Machine Gun))",
+        "skill": "[S:Combat*Sport*Gunner*Machine*Gun*| DX-4 | S:Gunner*Machine*Gun-3 | S:Combat*Art*Gunner*Machine*Gun-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Guns (Grenade Launcher))",
+        "skill": "[S:Combat*Sport*Guns*Grenade*Launcher*| DX-4 | S:Guns*Grenade*Launcher-3 | S:Combat*Art*Guns*Grenade*Launcher-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Guns (LAW))",
+        "skill": "[S:Combat*Sport*Guns*LAW*| DX-4 | S:Guns*LAW-3 | S:Combat*Art*Guns*LAW-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Guns (LMG))",
+        "skill": "[S:Combat*Sport*Guns*LMG*| DX-4 | S:Guns*LMG-3 | S:Combat*Art*Guns*LMG-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Combat Sport (Liquid Projector (Flamethrower))",
+        "skill": "[S:Combat*Sport*Liquid*Projector*Flamethrower*| DX-4 | S:Liquid*Projector*Flamethrower-3 | S:Combat*Art*Liquid*Projector*Flamethrower-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Connoisseur (Dance)",
+        "skill": "[S:Connoisseur*Dance*| IQ-5 | S:Dancing-3 | S:Group*Performance*Choreography-3]",
+        "page": "[PDF:B184]"
+    },
+    {
+        "name": "Connoisseur (Literature)",
+        "skill": "[S:Connoisseur*Literature*| IQ-5 | S:Literature-3 | S:Poetry-3 | S:Writing-3]",
+        "page": "[PDF:B185]"
+    },
+    {
+        "name": "Connoisseur (Music)",
+        "skill": "[S:Connoisseur*Music*| IQ-5 | S:Group*Performance*Conducting-3 | S:Musical*Composition-3 | S:Musical*Instrument-3]",
+        "page": "[PDF:B185]"
+    },
+    {
+        "name": "Connoisseur (Visual Arts)",
+        "skill": "[S:Connoisseur*Visual*Arts*| IQ-5 | S:Artist*Paiting-3 | S:Artist*Drawing-3 | Artist*Illumination-3]",
+        "page": "[PDF:B185]"
+    },
+    {
+        "name": "Connoisseur (Wine)",
+        "skill": "[S:Connoisseur*Wine*| IQ-5 | S:Cooking-3]",
+        "page": "[PDF:B185]"
+    },
+    {
+        "name": "Cooking",
+        "skill": "[S:Cooking*| IQ-5 | S:Housekeeping-5]",
+        "page": "[PDF:B185]"
+    },
+    {
+        "name": "Counterfeiting/TL",
+        "skill": "[S:Counterfeiting/TL*| IQ-6 | S:Forgery-2]",
+        "page": "[PDF:B185]"
+    },
+    {
+        "name": "Seamanship/TL",
+        "skill": "[S:Seamanship/TL*| IQ-4]",
+        "page": "[PDF:B185]"
+    },
+    {
+        "name": "Spacer/TL",
+        "skill": "[S:Spacer/TL*| IQ-4]",
+        "page": "[PDF:B185]"
+    },
+    {
+        "name": "Submariner/TL",
+        "skill": "[S:Submariner/TL*| IQ-4]",
+        "page": "[PDF:B185]"
+    },
+    {
+        "name": "Criminology/TL",
+        "skill": "[S:Criminology/TL*| IQ-5 | S:Psychology-4]",
+        "page": "[PDF:B185]"
+    },
+    {
+        "name": "Crossbow",
+        "skill": "[S:Crossbow*| DX-4]",
+        "page": "[PDF:B186]"
+    },
+    {
+        "name": "Current Affairs/TL(Business)",
+        "skill": "[S:Current*Affairs/TL*Business*| IQ-4 | S:Research-4 | S:Current*Affairs/TL*Headline*News-4 | S:Current*Affairs/TL*High*Culture-4 | S:Current*Affairs/TL*People-4 | S:Current*Affairs/TL*Politics-4 | S:Current*Affairs/TL*Popular*Culture-4 | S:Current*Affairs/TL*Regional-4 | S:Current*Affairs/TL*Science*&*Technology-4 | S:Current*Affairs/TL*Sports-4 | S:Current*Affairs/TL*Travel-4]",
+        "page": "[PDF:B186]"
+    },
+    {
+        "name": "Current Affairs/TL(Headline News)",
+        "skill": "[S:Current*Affairs/TL*Headline*News*| IQ-4 | S:Research-4 | S:Current*Affairs/TL*Business-4 | S:Current*Affairs/TL*High*Culture-4 | S:Current*Affairs/TL*People-4 | S:Current*Affairs/TL*Politics-4 | S:Current*Affairs/TL*Popular*Culture-4 | S:Current*Affairs/TL*Regional-4 | S:Current*Affairs/TL*Science*&*Technology-4 | S:Current*Affairs/TL*Sports-4 | S:Current*Affairs/TL*Travel-4]",
+        "page": "[PDF:B186]"
+    },
+    {
+        "name": "Current Affairs/TL(High Culture)",
+        "skill": "[S:Current*Affairs/TL*High*Culture*| IQ-4 | S:Research-4 | S:Current*Affairs/TL*Business-4 | S:Current*Affairs/TL*Headline*News-4 | S:Current*Affairs/TL*People-4 | S:Current*Affairs/TL*Politics-4 | S:Current*Affairs/TL*Popular*Culture-4 | S:Current*Affairs/TL*Regional-4 | S:Current*Affairs/TL*Science*&*Technology-4 | S:Current*Affairs/TL*Sports-4 | S:Current*Affairs/TL*Travel-4]",
+        "page": "[PDF:B186]"
+    },
+    {
+        "name": "Current Affairs/TL(People)",
+        "skill": "[S:Current*Affairs/TL*People*| IQ-4 | S:Research-4 | S:Current*Affairs/TL*Business-4 | S:Current*Affairs/TL*Headline*News-4 | S:Current*Affairs/TL*High*Culture-4 | S:Current*Affairs/TL*Politics-4 | S:Current*Affairs/TL*Popular*Culture-4 | S:Current*Affairs/TL*Regional-4 | S:Current*Affairs/TL*Science*&*Technology-4 | S:Current*Affairs/TL*Sports-4 | S:Current*Affairs/TL*Travel-4]",
+        "page": "[PDF:B186]"
+    },
+    {
+        "name": "Current Affairs/TL(Politics)",
+        "skill": "[S:Current*Affairs/TL*Politics*| IQ-4 | S:Research-4 | S:Current*Affairs/TL*Business-4 | S:Current*Affairs/TL*Headline*News-4 | S:Current*Affairs/TL*High*Culture-4 | S:Current*Affairs/TL*People-4 | S:Current*Affairs/TL*Popular*Culture-4 | S:Current*Affairs/TL*Regional-4 | S:Current*Affairs/TL*Science*&*Technology-4 | S:Current*Affairs/TL*Sports-4 | S:Current*Affairs/TL*Travel-4]",
+        "page": "[PDF:B186]"
+    },
+    {
+        "name": "Current Affairs/TL(Popular Culture)",
+        "skill": "[S:Current*Affairs/TL*Popular*Culture*| IQ-4 | S:Research-4 | S:Current*Affairs/TL*Business-4 | S:Current*Affairs/TL*Headline*News-4 | S:Current*Affairs/TL*High*Culture-4 | S:Current*Affairs/TL*People-4 | S:Current*Affairs/TL*Politics-4 | S:Current*Affairs/TL*Regional-4 | S:Current*Affairs/TL*Science*&*Technology-4 | S:Current*Affairs/TL*Sports-4 | S:Current*Affairs/TL*Travel-4]",
+        "page": "[PDF:B186]"
+    },
+    {
+        "name": "Current Affairs/TL(Regional)",
+        "skill": "[S:Current*Affairs/TL*Regional*| IQ-4 | S:Research-4 | S:Current*Affairs/TL*Business-4 | S:Current*Affairs/TL*Headline*News-4 | S:Current*Affairs/TL*High*Culture-4 | S:Current*Affairs/TL*People-4 | S:Current*Affairs/TL*Politics-4 | S:Current*Affairs/TL*Popular*Culture-4 | S:Current*Affairs/TL*Science*&*Technology-4 | S:Current*Affairs/TL*Sports-4 | S:Current*Affairs/TL*Travel-4]",
+        "page": "[PDF:B186]"
+    },
+    {
+        "name": "Current Affairs/TL(Science & Technology)",
+        "skill": "[S:Current*Affairs/TL*Science*&*Technology*| IQ-4 | S:Research-4 | S:Current*Affairs/TL*Business-4 | S:Current*Affairs/TL*Headline*News-4 | S:Current*Affairs/TL*High*Culture-4 | S:Current*Affairs/TL*People-4 | S:Current*Affairs/TL*Politics-4 | S:Current*Affairs/TL*Popular*Culture-4 | S:Current*Affairs/TL*Regional-4 | S:Current*Affairs/TL*Sports-4 | S:Current*Affairs/TL*Travel-4]",
+        "page": "[PDF:B186]"
+    },
+    {
+        "name": "Current Affairs/TL(Sports)",
+        "skill": "[S:Current*Affairs/TL*Sports*| IQ-4 | S:Research-4 | S:Current*Affairs/TL*Business-4 | S:Current*Affairs/TL*Headline*News-4 | S:Current*Affairs/TL*High*Culture-4 | S:Current*Affairs/TL*People-4 | S:Current*Affairs/TL*Politics-4 | S:Current*Affairs/TL*Popular*Culture-4 | S:Current*Affairs/TL*Regional-4 | S:Current*Affairs/TL*Science*&*Technology-4 | S:Current*Affairs/TL*Travel-4]",
+        "page": "[PDF:B186]"
+    },
+    {
+        "name": "Current Affairs/TL(Travel)",
+        "skill": "[S:Current*Affairs/TL*Travel*| IQ-4 | S:Research-4 | S:Current*Affairs/TL*Business-4 | S:Current*Affairs/TL*Headline*News-4 | S:Current*Affairs/TL*High*Culture-4 | S:Current*Affairs/TL*People-4 | S:Current*Affairs/TL*Politics-4 | S:Current*Affairs/TL*Popular*Culture-4 | S:Current*Affairs/TL*Regional-4 | S:Current*Affairs/TL*Science*&*Technology-4 | S:Current*Affairs/TL*Sports-4]",
+        "page": "[PDF:B186]"
+    },
+    {
+        "name": "Dancing",
+        "skill": "[S:Dancing*| DX-5]",
+        "page": "[PDF:B186]"
+    },
+    {
+        "name": "Detect Lies",
+        "skill": "[S:Detect*Lies*| Per-6 | S:Body*Language-4 | S:Psychology-4]",
+        "page": "[PDF:B187]"
+    },
+    {
+        "name": "Diagnosis/TL",
+        "skill": "[S:Diagnosis/TL*| IQ-6 | S:First*Aid-8 | S:Physician-4 | S:Veterinary-5]",
+        "page": "[PDF:B187]"
+    },
+    {
+        "name": "Diplomacy",
+        "skill": "[S:Diplomacy*| IQ-6 | S:Politics-6]",
+        "page": "[PDF:B187]"
+    },
+    {
+        "name": "Disguise/TL",
+        "skill": "[S:Disguise/TL*| IQ-5 | S:Makeup-3 | \"Special\"]",
+        "page": "[PDF:B187]"
+    },
+    {
+        "name": "Diving Suit/TL",
+        "skill": "[S:Diving*Suit/TL*| DX-5 | S:Battlesuit-4 | S:NBC*Suit-4 | S:Scuba-2 | S:Vacc*Suit-4]",
+        "page": "[PDF:B187]"
+    },
+    {
+        "name": "Dreaming",
+        "skill": "[S:Dreaming*| Will-6]",
+        "page": "[PDF:B192]"
+    },
+    {
+        "name": "Driving/TL (Automobile)",
+        "skill": "[S:Driving/TL*Automobile*| DX-5 | IQ-5 | S:Driving/TL*Heavy*Wheeled-2 | S:Driving/TL*Construction*Equipment-4 | S:Driving/TL*Halftrack-4 | S:Driving/TL*Hovercraft-4 | S:Driving/TL*Locomotive-4 | S:Driving/TL*Mecha-4 | S:Driving/TL*Motorcycle-4 | S:Driving/TL*Tracked-4]",
+        "page": "[PDF:B188]"
+    },
+    {
+        "name": "Driving/TL (Construction Equipment)",
+        "skill": "[S:Driving/TL*Construction*Equipment*| DX-5 | IQ-5 | S:Driving/TL*Heavy*Wheeled-5 | S:Driving/TL*Automobile-5 | S:Driving/TL*Halftrack-5 | S:Driving/TL*Hovercraft-5 | S:Driving/TL*Locomotive-5 | S:Driving/TL*Mecha-5 | S:Driving/TL*Motorcycle-5 | S:Driving/TL*Tracked-5]",
+        "page": "[PDF:B188]"
+    },
+    {
+        "name": "Driving/TL (Halftrack)",
+        "skill": "[S:Driving/TL*Halftrack*| DX-5 | IQ-5 | S:Driving/TL*Tracked-2 | S:Driving/TL*Construction*Equipment-4 | S:Driving/TL*Automobile-4 | S:Driving/TL*Hovercraft-4 | S:Driving/TL*Locomotive-4 | S:Driving/TL*Mecha-4 | S:Driving/TL*Motorcycle-4 | S:Driving/TL*Heavy*Wheeled-4]",
+        "page": "[PDF:B188]"
+    },
+    {
+        "name": "Driving/TL (Heavy Wheeled)",
+        "skill": "[S:Driving/TL*Heavy*Wheeled*| DX-5 | IQ-5 | S:Driving/TL*Automobile-2 | S:Driving/TL*Construction*Equipment-4 | S:Driving/TL*Halftrack-4 | S:Driving/TL*Hovercraft-4 | S:Driving/TL*Locomotive-4 | S:Driving/TL*Mecha-4 | S:Driving/TL*Motorcycle-4 | S:Driving/TL*Tracked-4]",
+        "page": "[PDF:B188]"
+    },
+    {
+        "name": "Driving/TL (Hovercraft)",
+        "skill": "[S:Driving/TL*Hovercraft*| DX-5 | IQ-5 | S:Driving/TL*Heavy*Wheeled-5 | S:Driving/TL*Automobile-5 | S:Driving/TL*Halftrack-5 | S:Driving/TL*Construction*Equipment-5 | S:Driving/TL*Locomotive-5 | S:Driving/TL*Mecha-5 | S:Driving/TL*Motorcycle-5 | S:Driving/TL*Tracked-5]",
+        "page": "[PDF:B188]"
+    },
+    {
+        "name": "Driving/TL (Locomotive)",
+        "skill": "[S:Driving/TL*Locomotive*| DX-5 | IQ-5 | S:Driving/TL*Heavy*Wheeled-5 | S:Driving/TL*Automobile-5 | S:Driving/TL*Halftrack-5 | S:Driving/TL*Construction*Equipment-5 | S:Driving/TL*Hovercraft-5 | S:Driving/TL*Mecha-5 | S:Driving/TL*Motorcycle-5 | S:Driving/TL*Tracked-5]",
+        "page": "[PDF:B188]"
+    },
+    {
+        "name": "Driving/TL (Mecha)",
+        "skill": "[S:Driving/TL*Mecha*| DX-5 | IQ-5 | S:Driving/TL*Heavy*Wheeled-5 | S:Driving/TL*Automobile-5 | S:Driving/TL*Halftrack-5 | S:Driving/TL*Construction*Equipment-5 | S:Driving/TL*Hovercraft-5 | S:Driving/TL*Locomotive-5 | S:Driving/TL*Motorcycle-5 | S:Driving/TL*Tracked-5 | S:Battlesuit/TL-3]",
+        "page": "[PDF:B188]"
+    },
+    {
+        "name": "Driving/TL (Motorcycle)",
+        "skill": "[S:Driving/TL*Motorcycle*| DX-5 | IQ-5 | S:Bicycling-4]",
+        "page": "[PDF:B188]"
+    },
+    {
+        "name": "Driving/TL (Tracked)",
+        "skill": "[S:Driving/TL*Tracked*| DX-5 | IQ-5 | S:Driving/TL*Halftrack-2 | S:Driving/TL*Construction*Equipment-4 | S:Driving/TL*Automobile-4 | S:Driving/TL*Hovercraft-4 | S:Driving/TL*Locomotive-4 | S:Driving/TL*Mecha-4 | S:Driving/TL*Motorcycle-4 | S:Driving/TL*Heavy*Wheeled-4]",
+        "page": "[PDF:B188]"
+    },
+    {
+        "name": "Dropping",
+        "skill": "[S:Dropping*| DX-3 | S:Throwing-4]",
+        "page": "[PDF:B188]"
+    },
+    {
+        "name": "Economics",
+        "skill": "[S:Economics*| IQ-6 | S:Finance-3 | S:Market*Analysis-5 | S:Merchant-6]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electrician/TL",
+        "skill": "[S:Electrician/TL*| IQ-5 | S:Engineer*Electrical-3]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Operation/TL (Communications)",
+        "skill": "[S:Electronics*Operation/TL*Communications*| IQ-5 | S:Electronics*Repair/TL*Communications-3 | S:Engineer*Electronics-3 | S:Electronics*Operation/TL*Electronic*Warfare-4 | S:Electronics*Operation/TL*Force*Shileds-4 | S:Electronics*Operation/TL*Matter*Transmitters-4 | S:Electronics*Operation/TL*Media-4 | S:Electronics*Operation/TL*Medical-4 | S:Electronics*Operation/TL*Parachronic-4 | S:Electronics*Operation/TL*Psychotronics-4 | S:Electronics*Operation/TL*Scientific-4 | S:Electronics*Operation/TL*Security-4 | S:Electronics*Operation/TL*Sensors-4 | S:Electronics*Operation/TL*Sonar-4 | S:Electronics*Operation/TL*Surveillance-4 | S:Electronics*Operation/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Operation/TL (Electronic Warfare)",
+        "skill": "[S:Electronics*Operation/TL*Electronic*Warfare*| IQ-5 | S:Electronics*Repair/TL*Electronic*Warfare-3 | S:Engineer*Electronics-3 | S:Electronics*Operation/TL*Communications-4 | S:Electronics*Operation/TL*Force*Shileds-4 | S:Electronics*Operation/TL*Matter*Transmitters-4 | S:Electronics*Operation/TL*Media-4 | S:Electronics*Operation/TL*Medical-4 | S:Electronics*Operation/TL*Parachronic-4 | S:Electronics*Operation/TL*Psychotronics-4 | S:Electronics*Operation/TL*Scientific-4 | S:Electronics*Operation/TL*Security-4 | S:Electronics*Operation/TL*Sensors-4 | S:Electronics*Operation/TL*Sonar-4 | S:Electronics*Operation/TL*Surveillance-4 | S:Electronics*Operation/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Operation/TL (Force Shileds)",
+        "skill": "[S:Electronics*Operation/TL*Force*Shileds*| IQ-5 | S:Electronics*Repair/TL*Force*Shileds-3 | S:Engineer*Electronics-3 | S:Electronics*Operation/TL*Communications-4 | S:Electronics*Operation/TL*Electronic*Warfare-4 | S:Electronics*Operation/TL*Matter*Transmitters-4 | S:Electronics*Operation/TL*Media-4 | S:Electronics*Operation/TL*Medical-4 | S:Electronics*Operation/TL*Parachronic-4 | S:Electronics*Operation/TL*Psychotronics-4 | S:Electronics*Operation/TL*Scientific-4 | S:Electronics*Operation/TL*Security-4 | S:Electronics*Operation/TL*Sensors-4 | S:Electronics*Operation/TL*Sonar-4 | S:Electronics*Operation/TL*Surveillance-4 | S:Electronics*Operation/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Operation/TL (Matter Transmitters)",
+        "skill": "[S:Electronics*Operation/TL*Matter*Transmitters*| IQ-5 | S:Electronics*Repair/TL*Matter*Transmitters-3 | S:Engineer*Electronics-3 | S:Electronics*Operation/TL*Communications-4 | S:Electronics*Operation/TL*Electronic*Warfare-4 | S:Electronics*Operation/TL*Force*Shileds-4 | S:Electronics*Operation/TL*Media-4 | S:Electronics*Operation/TL*Medical-4 | S:Electronics*Operation/TL*Parachronic-4 | S:Electronics*Operation/TL*Psychotronics-4 | S:Electronics*Operation/TL*Scientific-4 | S:Electronics*Operation/TL*Security-4 | S:Electronics*Operation/TL*Sensors-4 | S:Electronics*Operation/TL*Sonar-4 | S:Electronics*Operation/TL*Surveillance-4 | S:Electronics*Operation/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Operation/TL (Media)",
+        "skill": "[S:Electronics*Operation/TL*Media*| IQ-5 | S:Electronics*Repair /TL*Media-3 | S:Engineer*Electronics-3 | S:Electronics*Operation/TL*Communications-4 | S:Electronics*Operation/TL*Electronic*Warfare-4 | S:Electronics*Operation/TL*Force*Shileds-4 | S:Electronics*Operation/TL*Matter*Transmitters-4 | S:Electronics*Operation/TL*Medical-4 | S:Electronics*Operation/TL*Parachronic-4 | S:Electronics*Operation/TL*Psychotronics-4 | S:Electronics*Operation/TL*Scientific-4 | S:Electronics*Operation/TL*Security-4 | S:Electronics*Operation/TL*Sensors-4 | S:Electronics*Operation/TL*Sonar-4 | S:Electronics*Operation/TL*Surveillance-4 | S:Electronics*Operation/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Operation/TL (Medical)",
+        "skill": "[S:Electronics*Operation/TL*Medical*| IQ-5 | S:Electronics*Repair/TL*Medical-3 | S:Engineer*Electronics-3 | S:Electronics*Operation/TL*Communications-4 | S:Electronics*Operation/TL*Electronic*Warfare-4 | S:Electronics*Operation/TL*Force*Shileds-4 | S:Electronics*Operation/TL*Matter*Transmitters-4 | S:Electronics*Operation/TL*Media-4 | S:Electronics*Operation/TL*Parachronic-4 | S:Electronics*Operation/TL*Psychotronics-4 | S:Electronics*Operation/TL*Scientific-4 | S:Electronics*Operation/TL*Security-4 | S:Electronics*Operation/TL*Sensors-4 | S:Electronics*Operation/TL*Sonar-4 | S:Electronics*Operation/TL*Surveillance-4 | S:Electronics*Operation/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Operation/TL (Parachronic)",
+        "skill": "[S:Electronics*Operation/TL*Parachronic*| IQ-5 | S:Electronics*Repair/TL*Parachronic-3 | S:Engineer*Electronics-3 | S:Electronics*Operation/TL*Communications-4 | S:Electronics*Operation/TL*Electronic*Warfare-4 | S:Electronics*Operation/TL*Force*Shileds-4 | S:Electronics*Operation/TL*Matter*Transmitters-4 | S:Electronics*Operation/TL*Media-4 | S:Electronics*Operation/TL*Medical-4 | S:Electronics*Operation/TL*Psychotronics-4 | S:Electronics*Operation/TL*Scientific-4 | S:Electronics*Operation/TL*Security-4 | S:Electronics*Operation/TL*Sensors-4 | S:Electronics*Operation/TL*Sonar-4 | S:Electronics*Operation/TL*Surveillance-4 | S:Electronics*Operation/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Operation/TL (Scientific)",
+        "skill": "[S:Electronics*Operation/TL*Scientific*| IQ-5 | S:Electronics*Repair/TL*Scientific-3 | S:Engineer*Electronics-3 | S:Electronics*Operation/TL*Communications-4 | S:Electronics*Operation/TL*Electronic*Warfare-4 | S:Electronics*Operation/TL*Force*Shileds-4 | S:Electronics*Operation/TL*Matter*Transmitters-4 | S:Electronics*Operation/TL*Media-4 | S:Electronics*Operation/TL*Medical-4 | S:Electronics*Operation/TL*Psychotronics-4 | S:Electronics*Operation/TL*Parachronic-4 | S:Electronics*Operation/TL*Security-4 | S:Electronics*Operation/TL*Sensors-4 | S:Electronics*Operation/TL*Sonar-4 | S:Electronics*Operation/TL*Surveillance-4 | S:Electronics*Operation/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Operation/TL (Security)",
+        "skill": "[S:Electronics*Operation/TL*Security*| IQ-5 | S:Electronics*Repair/TL*Security-3 | S:Engineer*Electronics-3 | S:Electronics*Operation/TL*Communications-4 | S:Electronics*Operation/TL*Electronic*Warfare-4 | S:Electronics*Operation/TL*Force*Shileds-4 | S:Electronics*Operation/TL*Matter*Transmitters-4 | S:Electronics*Operation/TL*Media-4 | S:Electronics*Operation/TL*Medical-4 | S:Electronics*Operation/TL*Psychotronics-4 | S:Electronics*Operation/TL*Parachronic-4 | S:Electronics*Operation/TL*Scientific-4 | S:Electronics*Operation/TL*Sensors-4 | S:Electronics*Operation/TL*Sonar-4 | S:Electronics*Operation/TL*Surveillance-4 | S:Electronics*Operation/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Operation/TL (Sensors)",
+        "skill": "[S:Electronics*Operation/TL*Sensors*| IQ-5 | S:Electronics*Repair/TL*Sensors-3 | S:Engineer*Electronics-3 | S:Electronics*Operation/TL*Communications-4 | S:Electronics*Operation/TL*Electronic*Warfare-4 | S:Electronics*Operation/TL*Force*Shileds-4 | S:Electronics*Operation/TL*Matter*Transmitters-4 | S:Electronics*Operation/TL*Media-4 | S:Electronics*Operation/TL*Medical-4 | S:Electronics*Operation/TL*Psychotronics-4 | S:Electronics*Operation/TL*Parachronic-4 | S:Electronics*Operation/TL*Scientific-4 | S:Electronics*Operation/TL*Security-4 | S:Electronics*Operation/TL*Sonar-4 | S:Electronics*Operation/TL*Surveillance-4 | S:Electronics*Operation/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Operation/TL (Sonar)",
+        "skill": "[S:Electronics*Operation/TL*Sonar*| IQ-5 | S:Electronics*Repair/TL*Sonar-3 | S:Engineer*Electronics-3 | S:Electronics*Operation/TL*Communications-4 | S:Electronics*Operation/TL*Electronic*Warfare-4 | S:Electronics*Operation/TL*Force*Shileds-4 | S:Electronics*Operation/TL*Matter*Transmitters-4 | S:Electronics*Operation/TL*Media-4 | S:Electronics*Operation/TL*Medical-4 | S:Electronics*Operation/TL*Psychotronics-4 | S:Electronics*Operation/TL*Parachronic-4 | S:Electronics*Operation/TL*Scientific-4 | S:Electronics*Operation/TL*Security-4 | S:Electronics*Operation/TL*Sensors-4 | S:Electronics*Operation/TL*Surveillance-4 | S:Electronics*Operation/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Operation/TL (Surveillance)",
+        "skill": "[S:Electronics*Operation/TL*Surveillance*| IQ-5 | S:Electronics*Repair/TL*Surveillance-3 | S:Engineer*Electronics-3 | S:Electronics*Operation/TL*Communications-4 | S:Electronics*Operation/TL*Electronic*Warfare-4 | S:Electronics*Operation/TL*Force*Shileds-4 | S:Electronics*Operation/TL*Matter*Transmitters-4 | S:Electronics*Operation/TL*Media-4 | S:Electronics*Operation/TL*Medical-4 | S:Electronics*Operation/TL*Psychotronics-4 | S:Electronics*Operation/TL*Parachronic-4 | S:Electronics*Operation/TL*Scientific-4 | S:Electronics*Operation/TL*Security-4 | S:Electronics*Operation/TL*Sensors-4 | S:Electronics*Operation/TL*Sonar-4 | S:Electronics*Operation/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Operation/TL (Temporal)",
+        "skill": "[S:Electronics*Operation/TL*Temporal*| IQ-5 | S:Electronics*Repair/TL*Temporal-3 | S:Engineer*Electronics-3 | S:Electronics*Operation/TL*Communications-4 | S:Electronics*Operation/TL*Electronic*Warfare-4 | S:Electronics*Operation/TL*Force*Shileds-4 | S:Electronics*Operation/TL*Matter*Transmitters-4 | S:Electronics*Operation/TL*Media-4 | S:Electronics*Operation/TL*Medical-4 | S:Electronics*Operation/TL*Psychotronics-4 | S:Electronics*Operation/TL*Parachronic-4 | S:Electronics*Operation/TL*Scientific-4 | S:Electronics*Operation/TL*Security-4 | S:Electronics*Operation/TL*Sensors-4 | S:Electronics*Operation/TL*Sonar-4 | S:Electronics*Operation/TL*Surveillance-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Repair/TL (Communications)",
+        "skill": "[S:Electronics*Repair/TL*Communications*| IQ-5 | S:Electronics*Operation/TL*Communications-3 | S:Engineer*Electronics-3 | S:Electronics*Repair/TL*Electronic*Warfare-4 | S:Electronics*Repair/TL*Force*Shileds-4 | S:Electronics*Repair/TL*Matter*Transmitters-4 | S:Electronics*Repair/TL*Media-4 | S:Electronics*Repair/TL*Medical-4 | S:Electronics*Repair/TL*Parachronic-4 | S:Electronics*Repair/TL*Psychotronics-4 | S:Electronics*Repair/TL*Scientific-4 | S:Electronics*Repair/TL*Security-4 | S:Electronics*Repair/TL*Sensors-4 | S:Electronics*Repair/TL*Sonar-4 | S:Electronics*Repair/TL*Surveillance-4 | S:Electronics*Repair/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Repair/TL (Electronic Warfare)",
+        "skill": "[S:Electronics*Repair/TL*Electronic*Warfare*| IQ-5 | S:Electronics*Operation/TL*Electronic*Warfare-3 | S:Engineer*Electronics-3 | S:Electronics*Repair/TL*Communications-4 | S:Electronics*Repair/TL*Force*Shileds-4 | S:Electronics*Repair/TL*Matter*Transmitters-4 | S:Electronics*Repair/TL*Media-4 | S:Electronics*Repair/TL*Medical-4 | S:Electronics*Repair/TL*Parachronic-4 | S:Electronics*Repair/TL*Psychotronics-4 | S:Electronics*Repair/TL*Scientific-4 | S:Electronics*Repair/TL*Security-4 | S:Electronics*Repair/TL*Sensors-4 | S:Electronics*Repair/TL*Sonar-4 | S:Electronics*Repair/TL*Surveillance-4 | S:Electronics*Repair/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Repair/TL (Force Shileds)",
+        "skill": "[S:Electronics*Repair/TL*Force*Shileds*| IQ-5 | S:Electronics*Operation/TL*Force*Shileds-3 | S:Engineer*Electronics-3 | S:Electronics*Repair/TL*Communications-4 | S:Electronics*Repair/TL*Electronic*Warfare-4 | S:Electronics*Repair/TL*Matter*Transmitters-4 | S:Electronics*Repair/TL*Media-4 | S:Electronics*Repair/TL*Medical-4 | S:Electronics*Repair/TL*Parachronic-4 | S:Electronics*Repair/TL*Psychotronics-4 | S:Electronics*Repair/TL*Scientific-4 | S:Electronics*Repair/TL*Security-4 | S:Electronics*Repair/TL*Sensors-4 | S:Electronics*Repair/TL*Sonar-4 | S:Electronics*Repair/TL*Surveillance-4 | S:Electronics*Repair/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Repair/TL (Matter Transmitters)",
+        "skill": "[S:Electronics*Repair/TL*Matter*Transmitters*| IQ-5 | S:Electronics*Operation/TL*Matter*Transmitters-3 | S:Engineer*Electronics-3 | S:Electronics*Repair/TL*Communications-4 | S:Electronics*Repair/TL*Electronic*Warfare-4 | S:Electronics*Repair/TL*Force*Shileds-4 | S:Electronics*Repair/TL*Media-4 | S:Electronics*Repair/TL*Medical-4 | S:Electronics*Repair/TL*Parachronic-4 | S:Electronics*Repair/TL*Psychotronics-4 | S:Electronics*Repair/TL*Scientific-4 | S:Electronics*Repair/TL*Security-4 | S:Electronics*Repair/TL*Sensors-4 | S:Electronics*Repair/TL*Sonar-4 | S:Electronics*Repair/TL*Surveillance-4 | S:Electronics*Repair/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Repair/TL (Media)",
+        "skill": "[S:Electronics*Repair/TL*Media*| IQ-5 | S:Electronics*Operation/TL*Media-3 | S:Engineer*Electronics-3 | S:Electronics*Repair/TL*Communications-4 | S:Electronics*Repair/TL*Electronic*Warfare-4 | S:Electronics*Repair/TL*Force*Shileds-4 | S:Electronics*Repair/TL*Matter*Transmitters-4 | S:Electronics*Repair/TL*Medical-4 | S:Electronics*Repair/TL*Parachronic-4 | S:Electronics*Repair/TL*Psychotronics-4 | S:Electronics*Repair/TL*Scientific-4 | S:Electronics*Repair/TL*Security-4 | S:Electronics*Repair/TL*Sensors-4 | S:Electronics*Repair/TL*Sonar-4 | S:Electronics*Repair/TL*Surveillance-4 | S:Electronics*Repair/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Repair/TL (Medical)",
+        "skill": "[S:Electronics*Repair/TL*Medical*| IQ-5 | S:Electronics*Operation/TL*Medical-3 | S:Engineer*Electronics-3 | S:Electronics*Repair/TL*Communications-4 | S:Electronics*Repair/TL*Electronic*Warfare-4 | S:Electronics*Repair/TL*Force*Shileds-4 | S:Electronics*Repair/TL*Matter*Transmitters-4 | S:Electronics*Repair/TL*Media-4 | S:Electronics*Repair/TL*Parachronic-4 | S:Electronics*Repair/TL*Psychotronics-4 | S:Electronics*Repair/TL*Scientific-4 | S:Electronics*Repair/TL*Security-4 | S:Electronics*Repair/TL*Sensors-4 | S:Electronics*Repair/TL*Sonar-4 | S:Electronics*Repair/TL*Surveillance-4 | S:Electronics*Repair/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Repair/TL (Parachronic)",
+        "skill": "[S:Electronics*Repair/TL*Parachronic*| IQ-5 | S:Electronics*Operation/TL*Parachronic-3 | S:Engineer*Electronics-3 | S:Electronics*Repair/TL*Communications-4 | S:Electronics*Repair/TL*Electronic*Warfare-4 | S:Electronics*Repair/TL*Force*Shileds-4 | S:Electronics*Repair/TL*Matter*Transmitters-4 | S:Electronics*Repair/TL*Media-4 | S:Electronics*Repair/TL*Medical-4 | S:Electronics*Repair/TL*Psychotronics-4 | S:Electronics*Repair/TL*Scientific-4 | S:Electronics*Repair/TL*Security-4 | S:Electronics*Repair/TL*Sensors-4 | S:Electronics*Repair/TL*Sonar-4 | S:Electronics*Repair/TL*Surveillance-4 | S:Electronics*Repair/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Repair/TL (Scientific)",
+        "skill": "[S:Electronics*Repair/TL*Scientific*| IQ-5 | S:Electronics*Operation/TL*Scientific-3 | S:Engineer*Electronics-3 | S:Electronics*Repair/TL*Communications-4 | S:Electronics*Repair/TL*Electronic*Warfare-4 | S:Electronics*Repair/TL*Force*Shileds-4 | S:Electronics*Repair/TL*Matter*Transmitters-4 | S:Electronics*Repair/TL*Media-4 | S:Electronics*Repair/TL*Medical-4 | S:Electronics*Repair/TL*Psychotronics-4 | S:Electronics*Repair/TL*Parachronic-4 | S:Electronics*Repair/TL*Security-4 | S:Electronics*Repair/TL*Sensors-4 | S:Electronics*Repair/TL*Sonar-4 | S:Electronics*Repair/TL*Surveillance-4 | S:Electronics*Repair/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Repair/TL (Security)",
+        "skill": "[S:Electronics*Repair/TL*Security*| IQ-5 | S:Electronics*Operation/TL*Security-3 | S:Engineer*Electronics-3 | S:Electronics*Repair/TL*Communications-4 | S:Electronics*Repair/TL*Electronic*Warfare-4 | S:Electronics*Repair/TL*Force*Shileds-4 | S:Electronics*Repair/TL*Matter*Transmitters-4 | S:Electronics*Repair/TL*Media-4 | S:Electronics*Repair/TL*Medical-4 | S:Electronics*Repair/TL*Psychotronics-4 | S:Electronics*Repair/TL*Parachronic-4 | S:Electronics*Repair/TL*Scientific-4 | S:Electronics*Repair/TL*Sensors-4 | S:Electronics*Repair/TL*Sonar-4 | S:Electronics*Repair/TL*Surveillance-4 | S:Electronics*Repair/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Repair/TL (Sensors)",
+        "skill": "[S:Electronics*Repair/TL*Sensors*| IQ-5 | S:Electronics*Operation/TL*Sensors-3 | S:Engineer*Electronics-3 | S:Electronics*Repair/TL*Communications-4 | S:Electronics*Repair/TL*Electronic*Warfare-4 | S:Electronics*Repair/TL*Force*Shileds-4 | S:Electronics*Repair/TL*Matter*Transmitters-4 | S:Electronics*Repair/TL*Media-4 | S:Electronics*Repair/TL*Medical-4 | S:Electronics*Repair/TL*Psychotronics-4 | S:Electronics*Repair/TL*Parachronic-4 | S:Electronics*Repair/TL*Scientific-4 | S:Electronics*Repair/TL*Security-4 | S:Electronics*Repair/TL*Sonar-4 | S:Electronics*Repair/TL*Surveillance-4 | S:Electronics*Repair/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Repair/TL (Sonar)",
+        "skill": "[S:Electronics*Repair/TL*Sonar*| IQ-5 | S:Electronics*Operation/TL*Sonar-3 | S:Engineer*Electronics-3 | S:Electronics*Repair/TL*Communications-4 | S:Electronics*Repair/TL*Electronic*Warfare-4 | S:Electronics*Repair/TL*Force*Shileds-4 | S:Electronics*Repair/TL*Matter*Transmitters-4 | S:Electronics*Repair/TL*Media-4 | S:Electronics*Repair/TL*Medical-4 | S:Electronics*Repair/TL*Psychotronics-4 | S:Electronics*Repair/TL*Parachronic-4 | S:Electronics*Repair/TL*Scientific-4 | S:Electronics*Repair/TL*Security-4 | S:Electronics*Repair/TL*Sensors-4 | S:Electronics*Repair/TL*Surveillance-4 | S:Electronics*Repair/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Repair/TL (Surveillance)",
+        "skill": "[S:Electronics*Repair/TL*Surveillance*| IQ-5 | S:Electronics*Operation/TL*Surveillance-3 | S:Engineer*Electronics-3 | S:Electronics*Repair/TL*Communications-4 | S:Electronics*Repair/TL*Electronic*Warfare-4 | S:Electronics*Repair/TL*Force*Shileds-4 | S:Electronics*Repair/TL*Matter*Transmitters-4 | S:Electronics*Repair/TL*Media-4 | S:Electronics*Repair/TL*Medical-4 | S:Electronics*Repair/TL*Psychotronics-4 | S:Electronics*Repair/TL*Parachronic-4 | S:Electronics*Repair/TL*Scientific-4 | S:Electronics*Repair/TL*Security-4 | S:Electronics*Repair/TL*Sensors-4 | S:Electronics*Repair/TL*Sonar-4 | S:Electronics*Repair/TL*Temporal-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Electronics Repair/TL (Temporal)",
+        "skill": "[S:Electronics*Repair/TL*Temporal*| IQ-5 | S:Electronics*Operation/TL*Temporal-3 | S:Engineer*Electronics-3 | S:Electronics*Repair/TL*Communications-4 | S:Electronics*Repair/TL*Electronic*Warfare-4 | S:Electronics*Repair/TL*Force*Shileds-4 | S:Electronics*Repair/TL*Matter*Transmitters-4 | S:Electronics*Repair/TL*Media-4 | S:Electronics*Repair/TL*Medical-4 | S:Electronics*Repair/TL*Psychotronics-4 | S:Electronics*Repair/TL*Parachronic-4 | S:Electronics*Repair/TL*Scientific-4 | S:Electronics*Repair/TL*Security-4 | S:Electronics*Repair/TL*Sensors-4 | S:Electronics*Repair/TL*Sonar-4 | S:Electronics*Repair/TL*Surveillance-4]",
+        "page": "[PDF:B189]"
+    },
+    {
+        "name": "Environment Suit/TL",
+        "skill": "[S:Environment*Suit/TL*| DX-5]",
+        "page": "[PDF:B191]"
+    },
+    {
+        "name": "Erotic Art",
+        "skill": "[S:Erotic*Art*| DX-5 | S:Acrobatics-5]",
+        "page": "[PDF:B192]"
+    },
+    {
+        "name": "Escape",
+        "skill": "[S:Escape*| DX-6]",
+        "page": "[PDF:B192]"
+    },
+    {
+        "name": "Esoteric Medicine",
+        "skill": "[S:Esoteric*Medicine*| Per-6]",
+        "page": "[PDF:B192]"
+    },
+    {
+        "name": "Exorcism",
+        "skill": "[S:Exorcism*| Will-6 | S:Religious*Ritual-3 | S:Ritual*Magic-3 | S:Ritual*Magic-3 | Theology-3]",
+        "page": "[PDF:B192]"
+    },
+    {
+        "name": "Explosives/TL (Demolition)",
+        "skill": "[S:Explosives/TL*Demolition*| IQ-5 | S:Engineer*Combat-3 | S:Engineer*Mining-3 | S:Explosives/TL*Explosive*Ordnance*Disposal-4 | S:Explosives/TL*Fireworks-4 | S:Explosives/TL*Nuclear*Ordnance*Disposal-4 | S:Explosives/TL*Underwater*Demolition-2]",
+        "page": "[PDF:B193]"
+    },
+    {
+        "name": "Explosives/TL (Explosive Ordnance Disposal)",
+        "skill": "[S:Explosives/TL*Explosive*Ordnance*Disposal*| IQ-5 | S:Explosives/TL(Demolition-4 | S:Explosives/TL*Fireworks-4 | S:Explosives/TL*Nuclear*Ordnance*Disposal-2 | S:Explosives/TL*Underwater*Demolition-4]",
+        "page": "[PDF:B194]"
+    },
+    {
+        "name": "Explosives/TL (Fireworks)",
+        "skill": "[S:Explosives/TL*Fireworks*| IQ-5 | S:Chemistry-3 | S:Explosives/TL*Demolition-4 | S:Explosives/TL*Explosive*Ordnance*Disposal-4 | S:Explosives/TL*Nuclear*Ordnance*Disposal-4 | S:Explosives/TL*Underwater*Demolition-4]",
+        "page": "[PDF:B194]"
+    },
+    {
+        "name": "Explosives/TL (Nuclear Ordnance Disposal)",
+        "skill": "[S:Explosives/TL*Nuclear*Ordnance*Disposal*| IQ-5 | S:Explosives/TL*Demolition-4 | S:Explosives/TL*Explosive*Ordnance*Disposal-2 | S:Explosives/TL*Fireworks-4 | S:Explosives/TL*Underwater*Demolition-4]",
+        "page": "[PDF:B194]"
+    },
+    {
+        "name": "Explosives/TL (Underwater Demolition)",
+        "skill": "[S:Explosives/TL*Underwater*Demolition*| IQ-5 | S:Explosives/TL*Demolition-2 | S:Explosives/TL*Explosive*Ordnance*Disposal-4 | S:Explosives/TL*Fireworks-4 | S:Explosives/TL*Nuclear*Ordnance*Disposal-4]",
+        "page": "[PDF:B194]"
+    },
+    {
+        "name": "Falconry",
+        "skill": "[S:Falconry*| IQ-5 | S:Animal*Handling*Raptors-3]",
+        "page": "[PDF:B194]"
+    },
+    {
+        "name": "Farming/TL",
+        "skill": "[S:Farming/TL*| IQ-5 | S:Biology-5 | S:Gardening-3]",
+        "page": "[PDF:B194]"
+    },
+    {
+        "name": "Fast-Talk",
+        "skill": "[S:Fast*Talk*| IQ-5 | S:Acting-5]",
+        "page": "[PDF:B194]"
+    },
+    {
+        "name": "Filch",
+        "skill": "[S:Filch*| DX-5 | S:Pickpocket-4 | S:Sleight*of*Hand-4]",
+        "page": "[PDF:B195]"
+    },
+    {
+        "name": "First Aid/TL",
+        "skill": "[S:First*Aid/TL*| IQ-4 | S:Esoteric*Medicine | S:Physician | S:Veterinary-4]",
+        "page": "[PDF:B195]"
+    },
+    {
+        "name": "Fishing",
+        "skill": "[S:Fishing*| Per-4]",
+        "page": "[PDF:B195]"
+    },
+    {
+        "name": "Flail",
+        "skill": "[S:Flail*| DX-6 | S:Axe/Mace-4 | S:Two*Handed*Flail-3]",
+        "page": "[PDF:B195]"
+    },
+    {
+        "name": "Flight",
+        "skill": "[S:Flight*| HT-5]",
+        "page": "[PDF:B208]"
+    },
+    {
+        "name": "Force Sword",
+        "skill": "[S:Force*Sword*| DX-5 | S:Broadsword-3 | S:Jitte/Sai-3 | S:Knife-3 | S:Knife-3 | S:Shortsword-3 | S:Two*Handed*Sword-3]",
+        "page": "[PDF:B196]"
+    },
+    {
+        "name": "Force Whip",
+        "skill": "[S:Force*Whip*| DX-5 | S:Kusari-3 | S:Monowire*Whip-3 | S:Whip-3]",
+        "page": "[PDF:B208]"
+    },
+    {
+        "name": "Forensics/TL",
+        "skill": "[S:Forensics/TL*| IQ-6 | S:Criminology-4]",
+        "page": "[PDF:B196]"
+    },
+    {
+        "name": "Forgery/TL",
+        "skill": "[S:Forgery/TL*| IQ-6 | S:Counterfeiting-2]",
+        "page": "[PDF:B196]"
+    },
+    {
+        "name": "Fortune Telling (Astrology)",
+        "skill": "[S:Fortune*Telling*Astrology*| IQ-5 | S:Fast*Talk-3 | S:Occultism-3]",
+        "page": "[PDF:B196]"
+    },
+    {
+        "name": "Fortune Telling (Augury)",
+        "skill": "[S:Fortune*Telling*Augury*| IQ-5 | S:Fast*Talk-3 | S:Occultism-3]",
+        "page": "[PDF:B196]"
+    },
+    {
+        "name": "Fortune Telling (Crystal Gazing)",
+        "skill": "[S:Fortune*Telling*Crystal*Gazing*| IQ-5 | S:Fast*Talk-3 | S:Occultism-3]",
+        "page": "[PDF:B196]"
+    },
+    {
+        "name": "Fortune Telling (Dream Interpretation)",
+        "skill": "[S:Fortune*Telling*Dream*Interpretation*| IQ-5 | S:Fast*Talk-3 | S:Occultism-3]",
+        "page": "[PDF:B196]"
+    },
+    {
+        "name": "Fortune Telling (Feng Shui)",
+        "skill": "[S:Fortune*Telling*Feng*Shui*| IQ-5 | S:Fast*Talk-3 | S:Occultism-3]",
+        "page": "[PDF:B196]"
+    },
+    {
+        "name": "Fortune Telling (Palmistry)",
+        "skill": "[S:Fortune*Telling*Palmistry*| IQ-5 | S:Fast*Talk-3 | S:Occultism-3]",
+        "page": "[PDF:B196]"
+    },
+    {
+        "name": "Fortune Telling (Tarot)",
+        "skill": "[S:Fortune*Telling*Tarot*| IQ-5 | S:Fast*Talk-3 | S:Occultism-3]",
+        "page": "[PDF:B196]"
+    },
+    {
+        "name": "Forward Observer/TL",
+        "skill": "[S:Forward*Observer/TL*| IQ-5 | S:Artillery/TL*Beams | S:Artillery/TL*Bombs | S:Artillery/TL*Cannon | S:Artillery/TL*Catapult | S:Artillery/TL*Guided*Missile | S:Artillery/TL*Torpedoes]",
+        "page": "[PDF:B196]"
+    },
+    {
+        "name": "Free Fall",
+        "skill": "[S:Free*Fall*| DX-5 | HT-5]",
+        "page": "[PDF:B196]"
+    },
+    {
+        "name": "Freight Handling/TL",
+        "skill": "[S:Freight*Handling/TL*| IQ-5]",
+        "page": "[PDF:B197]"
+    },
+    {
+        "name": "Gambling",
+        "skill": "[S:Gambling*| IQ-5 | S:Mathematics*Statistics-5]",
+        "page": "[PDF:B197]"
+    },
+    {
+        "name": "Games (Traditional Board Games)",
+        "skill": "[S:Games*Traditional*Board*Games*| IQ-4]",
+        "page": "[PDF:B197]"
+    },
+    {
+        "name": "Games (Card Games)",
+        "skill": "[S:Games*Card*Games*| IQ-4]",
+        "page": "[PDF:B197]"
+    },
+    {
+        "name": "Games (War Games)",
+        "skill": "[S:Games*War*Games*| IQ-4]",
+        "page": "[PDF:B197]"
+    },
+    {
+        "name": "Games (Computer Games)",
+        "skill": "[S:Games*Computer*Games*| IQ-4]",
+        "page": "[PDF:B197]"
+    },
+    {
+        "name": "Games (NFL Football)",
+        "skill": "[S:Games*NFL*Football*| IQ-4]",
+        "page": "[PDF:B197]"
+    },
+    {
+        "name": "Games (Olympic Judo)",
+        "skill": "[S:Games*Olympic*Judo*| IQ-4]",
+        "page": "[PDF:B197]"
+    },
+    {
+        "name": "Gardening",
+        "skill": "[S:Gardening*| IQ-4 | S:Farming-3]",
+        "page": "[PDF:B197]"
+    },
+    {
+        "name": "Garrote",
+        "skill": "[S:Garrote*| DX-4]",
+        "page": "[PDF:B197]"
+    },
+    {
+        "name": "Geography/TL (Physical, Earthlike)",
+        "skill": "[S:Geography/TL*Physical,*Earthlike*| IQ-6 | S:Geology/TL*Earthlike-4 | S:Meteorology*Earthlike-4]",
+        "page": "[PDF:B197]"
+    },
+    {
+        "name": "Geography/TL (Physical, Gas Giants)",
+        "skill": "[S:Geography/TL*Physical,*Gas*Giants*| IQ-6 | S:Geology/TL*Gas*Giants-4 | S:Meteorology*Gas*Giants-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Geography/TL (Physical, Hostile Terrestrial)",
+        "skill": "[S:Geography/TL*Physical,*Hostile*Terrestrial*| IQ-6 | S:Geology*Hostile*Terrestrial-4 | S:Meteorology*Hostile*Terrestrial-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Geography/TL (Physical, Ice Dwarfs)",
+        "skill": "[S:Geography/TL*Physical,*Ice*Dwarfs*| IQ-6 | S:Geology/TL*Ice*Dwarfs-4 | S:Meteorology*Ice*Dwarfs-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Geography/TL (Physical, Ice Worlds)",
+        "skill": "[S:Geography/TL*Physical,*Ice*Worlds*| IQ-6 | S:Geology/TL*Ice*Worlds-4 | S:Meteorology*Ice*Worlds-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Geography/TL (Physical, Rock Worlds)",
+        "skill": "[S:Geography/TL*Physical,*Rock*Worlds*| IQ-6 | S:Geology/TL*Rock*Worlds-4 | S:Meteorology*Rock*Worlds-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Geography/TL (Political)",
+        "skill": "[S:Geography/TL*Political*| IQ-6 | S:Economics-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Geography/TL (Regional)",
+        "skill": "[S:Geography/TL*Regional*| IQ-6 | S:Area*Knowledge-6]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Geology/TL (Earthlike)",
+        "skill": "[S:Geology/TL*Earthlike*| IQ-6 | S:Geography*Physical,*Earthlike-4 | S:Prospecting-5]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Geology/TL (Gas Giants)",
+        "skill": "[S:Geology/TL*Gas*Giants*| IQ-6 | S:Geography*Physical,*Gas*Giants-4 | S:Prospecting-5]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Geology/TL (Hostile Terrestrial)",
+        "skill": "[S:Geology/TL*Hostile*Terrestrial*| IQ-6 | S:Geography*Physical,*Hostile*Terrestrial-4 | S:Prospecting-5]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Geology/TL (Ice Dwarfs)",
+        "skill": "[S:Geology/TL*Ice*Dwarfs*| IQ-6 | S:Geography*Physical,*Ice*Dwarfs-4 | S:Prospecting-5]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Geology/TL (Ice Worlds)",
+        "skill": "[S:Geology/TL*Ice*Worlds*| IQ-6 | S:Geography*Physical,*Ice*Worlds-4 | S:Prospecting-5]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Geology/TL (Rock Worlds)",
+        "skill": "[S:Geology/TL*Rock*Worlds*| IQ-6 | S:Geography*Physical,*Rock*Worlds-4 | S:Prospecting-5]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Gesture",
+        "skill": "[S:Gesture*| IQ-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Group Performance (Choreography)",
+        "skill": "[S:Group*Performance*Choreography*| IQ-5 | S:Dancing-2]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Group Performance (Conducting)",
+        "skill": "[S:Group*Performance*Conducting*| IQ-5 | S:Musical*Instrument-2 | S:Singing-2]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Group Performance (Directing)",
+        "skill": "[S:Group*Performance*Directing*| IQ-5 | S:Performance-5]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Group Performance (Fight Choreography)",
+        "skill": "[S:Group*Performance*Fight*Choreography*| IQ-5 | S:Stage*Combat-2]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Gunner/TL (Beams)",
+        "skill": "[S:Gunner/TL*Beams*| DX-4 | S:Gunner/TL*Cannon-4 | S:Gunner/TL*Catapult-4 | S:Gunner/TL*Machine*Gun-4 | S:Gunner/TL*Rockets-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Gunner/TL (Cannon)",
+        "skill": "[S:Gunner/TL*Cannon*| DX-4 | S:Gunner/TL*Beams-4 | S:Gunner/TL*Catapult-4 | S:Gunner/TL*Machine*Gun-4 | S:Gunner/TL*Rockets-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Gunner/TL (Catapult)",
+        "skill": "[S:Gunner/TL*Catapult*| DX-4 | S:Gunner/TL*Cannon-4 | S:Gunner/TL*Beams-4 | S:Gunner/TL*Machine*Gun-4 | S:Gunner/TL*Rockets-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Gunner/TL (Machine Gun)",
+        "skill": "[S:Gunner/TL*Machine*Gun*| DX-4 | S:Gunner/TL*Cannon-4 | S:Gunner/TL*Catapult-4 | S:Gunner/TL*Beams-4 | S:Gunner/TL*Rockets-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Gunner/TL (Rockets)",
+        "skill": "[S:Gunner/TL*Rockets*| DX-4 | S:Gunner/TL*Cannon-4 | S:Gunner/TL*Catapult-4 | S:Gunner/TL*Machine*Gun-4 | S:Gunner/TL*Beams-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Guns/TL (Grenade Launcher)",
+        "skill": "[S:Guns/TL*Grenade*Launcher*| DX-4 | S:Guns/TL*Gyroc-4 | S:Guns/TL*Light*Anti*Armor*Weapon-4 | S:Guns/TL*Light*Machine*Gun-4 | S:Guns/TL*Musket-4 | S:Guns/TL*Pistol-4 | S:Guns/TL*Rifle-4 | S:Guns/TL*Shotgun-4 | S:Guns/TL*Submachine*Gun-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Guns/TL (Gyroc)",
+        "skill": "[S:Guns/TL*Gyroc*| DX-4 | S:Guns/TL*Grenade*Launcher-4 | S:Guns/TL*Light*Anti*Armor*Weapon-4 | S:Guns/TL*Light*Machine*Gun-4 | S:Guns/TL*Musket-4 | S:Guns/TL*Pistol-4 | S:Guns/TL*Rifle-4 | S:Guns/TL*Shotgun-4 | S:Guns/TL*Submachine*Gun-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Guns/TL (Light Anti-Armor Weapon)",
+        "skill": "[S:Guns/TL*Light*Anti*Armor*Weapon*| DX-4 | S:Guns/TL*Gyroc-4 | S:Guns/TL*Grenade*Launcher-4 | S:Guns/TL*Light*Machine*Gun-4 | S:Guns/TL*Musket-4 | S:Guns/TL*Pistol-4 | S:Guns/TL*Rifle-4 | S:Guns/TL*Shotgun-4 | S:Guns/TL*Submachine*Gun-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Guns/TL (Light Machine Gun)",
+        "skill": "[S:Guns/TL*Light*Machine*Gun*| DX-4 | S:Guns/TL*Gyroc-4 | S:Guns/TL*Light*Anti*Armor*Weapon-4 | S:Guns/TL*Grenade*Launcher-4 | S:Guns/TL*Musket-2 | S:Guns/TL*Pistol-2 | S:Guns/TL*Rifle-2 | S:Guns/TL*Shotgun-2 | S:Guns/TL*Submachine*Gun-2]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Guns/TL (Musket)",
+        "skill": "[S:Guns/TL*Musket*| DX-4 | S:Guns/TL*Gyroc-4 | S:Guns/TL*Light*Anti*Armor*Weapon-4 | S:Guns/TL*Light*Machine*Gun-2 | S:Guns/TL*Grenade*Launcher-4 | S:Guns/TL*Pistol-2 | S:Guns/TL*Rifle-2 | S:Guns/TL*Shotgun-2 | S:Guns/TL*Submachine*Gun-2]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Guns/TL (Pistol)",
+        "skill": "[S:Guns/TL*Pistol*| DX-4 | S:Guns/TL*Gyroc-4 | S:Guns/TL*Light*Anti*Armor*Weapon-4 | S:Guns/TL*Light*Machine*Gun-2 | S:Guns/TL*Musket-2 | S:Guns/TL*Grenade*Launcher-4 | S:Guns/TL*Rifle-2 | S:Guns/TL*Shotgun-2 | S:Guns/TL*Submachine*Gun-2]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Guns/TL (Rifle)",
+        "skill": "[S:Guns/TL*Rifle*| DX-4 | S:Guns/TL*Gyroc-4 | S:Guns/TL*Light*Anti*Armor*Weapon-4 | S:Guns/TL*Light*Machine*Gun-2 | S:Guns/TL*Musket-2 | S:Guns/TL*Pistol-2 | S:Guns/TL*Grenade*Launcher-4 | S:Guns/TL*Shotgun-2 | S:Guns/TL*Submachine*Gun-2]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Guns/TL (Shotgun)",
+        "skill": "[S:Guns/TL*Shotgun*| DX-4 | S:Guns/TL*Gyroc-4 | S:Guns/TL*Light*Anti*Armor*Weapon-4 | S:Guns/TL*Light*Machine*Gun-2 | S:Guns/TL*Musket-2 | S:Guns/TL*Pistol-2 | S:Guns/TL*Rifle-2 | S:Guns/TL*Grenade*Launcher-4 | S:Guns/TL*Submachine*Gun-2]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Guns/TL (Submachine Gun)",
+        "skill": "[S:Guns/TL*Submachine*Gun*| DX-4 | S:Guns/TL*Gyroc-4 | S:Guns/TL*Light*Anti*Armor*Weapon-4 | S:Guns/TL*Light*Machine*Gun-2 | S:Guns/TL*Musket-2 | S:Guns/TL*Pistol-2 | S:Guns/TL*Rifle-2 | S:Guns/TL*Shotgun-2 | S:Guns/TL*Grenade*Launcher-4]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Hazardous Materials/TL (Biological)",
+        "skill": "[S:Hazardous*Materials/TL*Biological*| IQ-5 | S:Hazardous*Materials/TL*Chemical-5 | S:Hazardous*Materials/TL*Nuclear-5]",
+        "page": "[PDF:B198]"
+    },
+    {
+        "name": "Hazardous Materials/TL (Chemical)",
+        "skill": "[S:Hazardous*Materials/TL*Chemical*| IQ-5 | S:Hazardous*Materials/TL*Biological-5 | S:Hazardous*Materials/TL*Nuclear-5]",
+        "page": "[PDF:B199]"
+    },
+    {
+        "name": "Hazardous Materials/TL (Nuclear)",
+        "skill": "[S:Hazardous*Materials/TL*Nuclear*| IQ-5 | S:Hazardous*Materials/TL*Biological-5 | S:Hazardous*Materials/TL*Chemical-5]",
+        "page": "[PDF:B199]"
+    },
+    {
+        "name": "Heraldry",
+        "skill": "[S:Heraldry*| IQ-5 | S:Savoir*Faire*High*Society-3]",
+        "page": "[PDF:B199]"
+    },
+    {
+        "name": "Hiking",
+        "skill": "[S:Hiking*| HT-5]",
+        "page": "[PDF:B199]"
+    },
+    {
+        "name": "History (Bavarian)",
+        "skill": "[S:History*Bavarian*| IQ-6]",
+        "page": "[PDF:B200]"
+    },
+    {
+        "name": "History (Irish)",
+        "skill": "[S:History*Irish*| IQ-6]",
+        "page": "[PDF:B200]"
+    },
+    {
+        "name": "History (New York State)",
+        "skill": "[S:History*New*York*State*| IQ-6]",
+        "page": "[PDF:B200]"
+    },
+    {
+        "name": "History (20th Century American)",
+        "skill": "[S:History*20th*Century*American*| IQ-6]",
+        "page": "[PDF:B200]"
+    },
+    {
+        "name": "History Ottoman (Muslim)",
+        "skill": "[S:History*Ottoman*Muslim*| IQ-6]",
+        "page": "[PDF:B200]"
+    },
+    {
+        "name": "History (Napoleonic Military)",
+        "skill": "[S:History*Napoleonic*Military*| IQ-6]",
+        "page": "[PDF:B200]"
+    },
+    {
+        "name": "Hobby Skill",
+        "skill": "[S:Hobby*Skill*| DX-4 | IQ-4]",
+        "page": "[PDF:B200]"
+    },
+    {
+        "name": "Holdout",
+        "skill": "[S:Holdout*| IQ-5 | S:Sleight*of*Hand-3]",
+        "page": "[PDF:B200]"
+    },
+    {
+        "name": "Housekeeping",
+        "skill": "[S:Housekeeping*| IQ-4]",
+        "page": "[PDF:B200]"
+    },
+    {
+        "name": "Innate Attack (Beam)",
+        "skill": "[S:Innate*Attack*Beam*| DX-4 | S:Innate*Attack*Breath-2 | S:Innate*Attack*Gaze-2 | S:Innate*Attack*Projectile-2]",
+        "page": "[PDF:B201]"
+    },
+    {
+        "name": "Innate Attack (Breath)",
+        "skill": "[S:Innate*Attack*Breath*| DX-4 | S:Innate*Attack*Beam-2 | S:Innate*Attack*Gaze-2 | S:Innate*Attack*Projectile-2]",
+        "page": "[PDF:B201]"
+    },
+    {
+        "name": "Innate (Attack Gaze)",
+        "skill": "[S:Innate*Attack*Gaze*| DX-4 | S:Innate*Attack*Breath-2 | S:Innate*Attack*Beam-2 | S:Innate*Attack*Projectile-2]",
+        "page": "[PDF:B201]"
+    },
+    {
+        "name": "Innate Attack (Projectile)",
+        "skill": "[S:Innate*Attack*Projectile*| DX-4 | S:Innate*Attack*Breath-2 | S:Innate*Attack*Gaze-2 | S:Innate*Attack*Beam-2]",
+        "page": "[PDF:B201]"
+    },
+    {
+        "name": "Intelligence Analysis/TL",
+        "skill": "[S:Intelligence*Analysis/TL*| IQ-6 | S:Strategy-6]",
+        "page": "[PDF:B201]"
+    },
+    {
+        "name": "Interrogation",
+        "skill": "[S:Interrogation*| IQ-5 | S:Intimidation-3 | S:Psychology-4]",
+        "page": "[PDF:B201]"
+    },
+    {
+        "name": "Intimidation",
+        "skill": "[S:Intimidation*| Will-5 | S:Acting-3]",
+        "page": "[PDF:B202]"
+    },
+    {
+        "name": "Jeweler/TL",
+        "skill": "[S:Jeweler/TL*| IQ-6 | S:Smith*Copper-4 | S:Smith*Lead*and*Tin-4]",
+        "page": "[PDF:B202]"
+    },
+    {
+        "name": "Jitte/Sai",
+        "skill": "[S:Jitte/Sai*| DX-5 | S:Force*Sword-4 | S:Main*Gauche-4 | S:Shortsword-3]",
+        "page": "[PDF:B203]"
+    },
+    {
+        "name": "Knife",
+        "skill": "[S:Knife*| DX-4 | S:Force*Sword-3 | S:Main-Gauche-3 | S:Shortsword-3]",
+        "page": "[PDF:B203]"
+    },
+    {
+        "name": "Knot Tying",
+        "skill": "[S:Knot*Tying*| DX-4 | S:Climbing-4 | S:Seamanship-4]",
+        "page": "[PDF:B208]"
+    },
+    {
+        "name": "Kusari",
+        "skill": "[S:Kusari*| DX-6 | S:Force*Whip-3 | S:Monowire*Whip-3 | S:Two*Handed*Flail-4 | S:Whip-3]",
+        "page": "[PDF:B203]"
+    },
+    {
+        "name": "Lance",
+        "skill": "[S:Lance*| DX-5 | S:Spear-3]",
+        "page": "[PDF:B209]"
+    },
+    {
+        "name": "Law (British Criminal)",
+        "skill": "[S:Law*British*Criminal*| IQ-6]",
+        "page": "[PDF:B204]"
+    },
+    {
+        "name": "Law (Canadian Constitutional)",
+        "skill": "[S:Law*Canadian*Constitutional*| IQ-6]",
+        "page": "[PDF:B204]"
+    },
+    {
+        "name": "Law (US Contract)",
+        "skill": "[S:Law*US*Contract*| IQ-6]",
+        "page": "[PDF:B204]"
+    },
+    {
+        "name": "Law (Catholic Canon)",
+        "skill": "[S:Law*Catholic*Canon*| IQ-6]",
+        "page": "[PDF:B204]"
+    },
+    {
+        "name": "Law (International)",
+        "skill": "[S:Law*International*| IQ-6]",
+        "page": "[PDF:B204]"
+    },
+    {
+        "name": "Law (Space)",
+        "skill": "[S:Law*Space*| IQ-6]",
+        "page": "[PDF:B204]"
+    },
+    {
+        "name": "Leadership",
+        "skill": "[S:Leadership*| IQ-5]",
+        "page": "[PDF:B204]"
+    },
+    {
+        "name": "Leatherworking",
+        "skill": "[S:Leatherworking*| DX-4]",
+        "page": "[PDF:B204]"
+    },
+    {
+        "name": "Lip Reading",
+        "skill": "[S:Lip*Reading*| Per-10]",
+        "page": "[PDF:B205]"
+    },
+    {
+        "name": "Liquid Projector/TL (Flamethrower)",
+        "skill": "[S:Liquid*Projector/TL*Flamethrower*| DX-4 | S:Liquid*Projector/TL*Sprayer-4 | S:Liquid*Projector/TL*Squirt*Gun-4 | S:Liquid*Projector/TL*Water*Cannon-4]",
+        "page": "[PDF:B205]"
+    },
+    {
+        "name": "Liquid Projector/TL (Sprayer)",
+        "skill": "[S:Liquid*Projector/TL*Sprayer*| DX-4 | S:Liquid*Projector/TL*Flamethrower-4 | S:Liquid*Projector/TL*Squirt*Gun-4 | S:Liquid*Projector/TL*Water*Cannon-4]",
+        "page": "[PDF:B205]"
+    },
+    {
+        "name": "Liquid Projector/TL (Squirt Gun)",
+        "skill": "[S:Liquid*Projector/TL*Squirt*Gun*| DX-4 | S:Liquid*Projector/TL*Sprayer-4 | S:Liquid*Projector/TL*Flamethrower-4 | S:Liquid*Projector/TL*Water*Cannon-4]",
+        "page": "[PDF:B205]"
+    },
+    {
+        "name": "Liquid Projector/TL (Water Cannon)",
+        "skill": "[S:Liquid*Projector/TL*Water*Cannon*| DX-4 | S:Liquid*Projector/TL*Sprayer-4 | S:Liquid*Projector/TL*Squirt-Gun-4 | S:Liquid*Projector/TL*Flamethrower-4]",
+        "page": "[PDF:B205]"
+    },
+    {
+        "name": "Literature",
+        "skill": "[S:Literature*| IQ-6]",
+        "page": "[PDF:B205]"
+    },
+    {
+        "name": "Lockpicking/TL",
+        "skill": "[S:Lockpicking/TL*| IQ-5]",
+        "page": "[PDF:B205]"
+    },
+    {
+        "name": "Machinist/TL",
+        "skill": "[S:Machinist/TL*| IQ-5 | S:Mechanic-5]",
+        "page": "[PDF:B206]"
+    },
+    {
+        "name": "Main Gauche",
+        "skill": "[S:Main*Gauche*| DX-5 | S:Jitte/Sai-4 | S:Knife-4 | S:Rapier-3 | S:Saber-3 | S:Smallsword-3]",
+        "page": "[PDF:B206]"
+    },
+    {
+        "name": "Makeup/TL",
+        "skill": "[S:Makeup/TL*| IQ-4 | S:Disguise-2]",
+        "page": "[PDF:B208]"
+    },
+    {
+        "name": "Market Analysis",
+        "skill": "[S:Market*Analysis*| IQ-6 | S:Economics-5 | S:Merchant-4]",
+        "page": "[PDF:B206]"
+    },
+    {
+        "name": "Masonry",
+        "skill": "[S:Masonry*| IQ-4]",
+        "page": "[PDF:B207]"
+    },
+    {
+        "name": "Mathematics/TL (Applied)",
+        "skill": "[S:Mathematics/TL*Applied*| IQ-6 | S:Mathematics/TL*Computer*Science-5 | S:Mathematics/TL*Cryptology-5 | S:Mathematics/TL*Pure-5 | S:Mathematics/TL*Statistics-5 | S:Mathematics/TL*Surveying-5 | S:Engineer-5 | S:Physics-5]",
+        "page": "[PDF:B207]"
+    },
+    {
+        "name": "Mathematics/TL (Computer Science)",
+        "skill": "[S:Mathematics/TL*Computer*Science*| IQ-6 | S:Mathematics/TL*Applied-5 | S:Mathematics/TL*Cryptology-5 | S:Mathematics/TL*Pure-5 | S:Mathematics/TL*Statistics-5 | S:Mathematics/TL*Surveying-5 | S:Computer*Programming-5]",
+        "page": "[PDF:B207]"
+    },
+    {
+        "name": "Mathematics/TL (Cryptology)",
+        "skill": "[S:Mathematics/TL*Cryptology*| IQ-6 | S:Mathematics/TL*Computer*Science-5 | S:Mathematics/TL*Applied-5 | S:Mathematics/TL*Pure-5 | S:Mathematics/TL*Statistics-5 | S:Mathematics/TL*Surveying-5 | S:Cryptography-5]",
+        "page": "[PDF:B207]"
+    },
+    {
+        "name": "Mathematics/TL (Pure)",
+        "skill": "[S:Mathematics/TL*Pure*| IQ-6 | S:Mathematics/TL*Computer*Science-5 | S:Mathematics/TL*Cryptology-5 | S:Mathematics/TL*Applied-5 | S:Mathematics/TL*Statistics-5 | S:Mathematics/TL*Surveying-5]",
+        "page": "[PDF:B207]"
+    },
+    {
+        "name": "Mathematics/TL (Statistics)",
+        "skill": "[S:Mathematics/TL*Statistics*| IQ-6 | S:Mathematics/TL*Computer*Science-5 | S:Mathematics/TL*Cryptology-5 | S:Mathematics/TL*Pure-5 | S:Mathematics/TL*Applied-5 | S:Mathematics/TL*Surveying-5]",
+        "page": "[PDF:B207]"
+    },
+    {
+        "name": "Mathematics/TL (Surveying)",
+        "skill": "[S:Mathematics/TL*Surveying*| IQ-6 | S:Mathematics/TL*Computer*Science-5 | S:Mathematics/TL*Cryptology-5 | S:Mathematics/TL*Pure-5 | S:Mathematics/TL*Statistics-5 | S:Mathematics/TL*Applied-5 | S:Cartography-3 | S:Navigation-4]",
+        "page": "[PDF:B207]"
+    },
+    {
+        "name": "Mechanic/TL (Aerospace)",
+        "skill": "[S:Mechanic/TL*Aerospace*| IQ-5 | S:Engineer*same-4 | S:Machinist-5]",
+        "page": "[PDF:B207]"
+    },
+    {
+        "name": "Meditation",
+        "skill": "[S:Meditation*| Will-6 | S:Autohypnosis-4]",
+        "page": "[PDF:B207]"
+    },
+    {
+        "name": "Merchant",
+        "skill": "[S:Merchant*| IQ-5 | S:Finance-6 | S:Market*Analysis-4]",
+        "page": "[PDF:B209]"
+    },
+    {
+        "name": "Meteorology/TL†",
+        "skill": "[S:Meteorology/TL†*| IQ-5]",
+        "page": "[PDF:B209]"
+    },
+    {
+        "name": "Mimicry†",
+        "skill": "[S:Mimicry†*| IQ-6]",
+        "page": "[PDF:B209]"
+    },
+    {
+        "name": "Mind Block",
+        "skill": "[S:Mind*Block*| Will-5 | S:Meditation-5]",
+        "page": "[PDF:B210]"
+    },
+    {
+        "name": "Monowire Whip",
+        "skill": "[S:Monowire*Whip*| S:Force*Whip-3 | S:Kusari-3 | S:Whip-3 | DX-6]",
+        "page": "[PDF:B210]"
+    },
+    {
+        "name": "Mount",
+        "skill": "[S:Mount*| DX-5]",
+        "page": "[PDF:B209]"
+    },
+    {
+        "name": "Musical Instrument†",
+        "skill": "[S:Musical*Instrument†*| \"Special\"]",
+        "page": "[PDF:B210]"
+    },
+    {
+        "name": "Naturalist†",
+        "skill": "[S:Naturalist†*| IQ-6 | S:Biology-3]",
+        "page": "[PDF:B211]"
+    },
+    {
+        "name": "Navigation/TL†",
+        "skill": "[S:Navigation/TL†*| \"Special\"]",
+        "page": "[PDF:B211]"
+    },
+    {
+        "name": "NBC Suit/TL",
+        "skill": "[S:NBC*Suit/TL*| DX-5 | S:Battlesuit-2 | S:Diving*Suit-4 | S:Vacc*Suit-2]",
+        "page": "[PDF:B211]"
+    },
+    {
+        "name": "Observation",
+        "skill": "[S:Observation*| Per-5 | S:Shadowing-5]",
+        "page": "[PDF:B211]"
+    },
+    {
+        "name": "Occultism",
+        "skill": "[S:Occultism*| IQ-5]",
+        "page": "[PDF:B211]"
+    },
+    {
+        "name": "Packing",
+        "skill": "[S:Packing*| IQ-5 | S:Animal*Handling*Equines-5]",
+        "page": "[PDF:B212]"
+    },
+    {
+        "name": "Panhandling",
+        "skill": "[S:Panhandling*| IQ-4 | S:Fast*Talk-2 | S:Public*Speaking-3]",
+        "page": "[PDF:B212]"
+    },
+    {
+        "name": "Parachuting/TL",
+        "skill": "[S:Parachuting/TL*| DX-4]",
+        "page": "[PDF:B212]"
+    },
+    {
+        "name": "Performance",
+        "skill": "[S:Performance*| IQ-5 | S:Acting-2 | S:Public*Speaking-2]",
+        "page": "[PDF:B212]"
+    },
+    {
+        "name": "Pharmacy/TL†",
+        "skill": "[S:Pharmacy/TL†*| IQ-6]",
+        "page": "[PDF:B212]"
+    },
+    {
+        "name": "Philosophy†",
+        "skill": "[S:Philosophy†*| IQ-6]",
+        "page": "[PDF:B213]"
+    },
+    {
+        "name": "Photography/TL",
+        "skill": "[S:Photography/TL*| IQ-5 | S:Electronics*Operation*Media-5]",
+        "page": "[PDF:B213]"
+    },
+    {
+        "name": "Physician/TL",
+        "skill": "[S:Physician/TL*| IQ-7 | S:First*Aid-11 | S:Veterinary-5]",
+        "page": "[PDF:B213]"
+    },
+    {
+        "name": "Physics/TL",
+        "skill": "[S:Physics/TL*| IQ-6]",
+        "page": "[PDF:B213]"
+    },
+    {
+        "name": "Physiology/TL†",
+        "skill": "[S:Physiology/TL†*| IQ-6 | S:Diagnosis-5 | S:Physician-5 | S:Surgery-5]",
+        "page": "[PDF:B213]"
+    },
+    {
+        "name": "Pickpocket",
+        "skill": "[S:Pickpocket*| DX-6 | S:Filch-5 | S:Sleight*of*Hand-4]",
+        "page": "[PDF:B213]"
+    },
+    {
+        "name": "Piloting/TL†",
+        "skill": "[S:Piloting/TL†*| IQ-6]",
+        "page": "[PDF:B213]"
+    },
+    {
+        "name": "Poetry",
+        "skill": "[S:Poetry*| IQ-5 | S:Writing-5]",
+        "page": "[PDF:B214]"
+    },
+    {
+        "name": "Poisons/TL",
+        "skill": "[S:Poisons/TL*| IQ-6 | S:Chemistry-5 | S:Pharmacy-3 | S:Physician-3]",
+        "page": "[PDF:B214]"
+    },
+    {
+        "name": "Polearm",
+        "skill": "[S:Polearm*| S:Spear-4 | S:Staff-4 | S:Two*Handed*Axe/Mace-4 | DX-5]",
+        "page": "[PDF:B214]"
+    },
+    {
+        "name": "Politics",
+        "skill": "[S:Politics*| IQ-5 | S:Diplomacy-5]",
+        "page": "[PDF:B208]"
+    },
+    {
+        "name": "Propaganda/TL",
+        "skill": "[S:Propaganda/TL*| IQ-5 | S:Merchant-5 | S:Psychology-4]",
+        "page": "[PDF:B215]"
+    },
+    {
+        "name": "Prospecting/TL",
+        "skill": "[S:Prospecting/TL*| IQ-5 | S:Geology-4]",
+        "page": "[PDF:B216]"
+    },
+    {
+        "name": "Psychology",
+        "skill": "[S:Psychology*| IQ-6 | S:Sociology-4]",
+        "page": "[PDF:B216]"
+    },
+    {
+        "name": "Public Speaking",
+        "skill": "[S:Public*Speaking*| IQ-5 | S:Acting-5 | S:Performance-2 | Politics-5]",
+        "page": "[PDF:B216]"
+    },
+    {
+        "name": "Rapier",
+        "skill": "[S:Rapier*| DX-5 | S:Broadsword-4 | S:Main*Gauche-3 | S:Saber-3 | S:Smallsword-3]",
+        "page": "[PDF:B216]"
+    },
+    {
+        "name": "Research/TL",
+        "skill": "[S:Research/TL*| IQ-5 | S:Writing-3]",
+        "page": "[PDF:B217]"
+    },
+    {
+        "name": "Riding†",
+        "skill": "[S:Riding†*| DX-5 | S:Animal*Handling*same-3]",
+        "page": "[PDF:B217]"
+    },
+    {
+        "name": "Running",
+        "skill": "[S:Running*| HT-5]",
+        "page": "[PDF:B218]"
+    },
+    {
+        "name": "Saber",
+        "skill": "[S:Saber*| DX-5 | S:Broadsword-4 | S:Main*Gauche-3 | S:Rapier-3 | S:Shortsword-4 | S:Smallsword-3]",
+        "page": "[PDF:B218]"
+    },
+    {
+        "name": "Savoir-Faire†",
+        "skill": "[S:Savoir-Faire†*| IQ-4]",
+        "page": "[PDF:B208]"
+    },
+    {
+        "name": "Scrounging",
+        "skill": "[S:Scrounging*| Per-4]",
+        "page": "[PDF:B218]"
+    },
+    {
+        "name": "Scuba/TL",
+        "skill": "[S:Scuba/TL*| IQ-5 | S:Diving Suit-2]",
+        "page": "[PDF:B218]"
+    },
+    {
+        "name": "Search",
+        "skill": "[S:Search*| Per-5 | S:Criminology-5]",
+        "page": "[PDF:B219]"
+    },
+    {
+        "name": "Sewing/TL",
+        "skill": "[S:Sewing/TL*| DX-4]",
+        "page": "[PDF:B219]"
+    },
+    {
+        "name": "Sex Appeal",
+        "skill": "[S:Sex*Appeal*| HT-3]",
+        "page": "[PDF:B219]"
+    },
+    {
+        "name": "Shadowing",
+        "skill": "[S:Shadowing*| IQ-5 | S:Observation-5 | S:Stealth-4]",
+        "page": "[PDF:B219]"
+    },
+    {
+        "name": "Shield†",
+        "skill": "[S:Shield†*| DX-4]",
+        "page": "[PDF:B219]"
+    },
+    {
+        "name": "Shiphandling/TL†",
+        "skill": "[S:Shiphandling/TL†*| IQ-6]",
+        "page": "[PDF:B220]"
+    },
+    {
+        "name": "Shortsword",
+        "skill": "[S:Shortsword*| S:Broadsword-2 | S:Force*Sword-4 | S:Jitte/Sai-3 | S:Knife-4 | S:Saber-4 | S:Smallsword-4 | S:Tonfa-3 | DX-5]",
+        "page": "[PDF:B220]"
+    },
+    {
+        "name": "Singing",
+        "skill": "[S:Singing*| HT-4]",
+        "page": "[PDF:B209]"
+    },
+    {
+        "name": "Skating",
+        "skill": "[S:Skating*| HT-6]",
+        "page": "[PDF:B220]"
+    },
+    {
+        "name": "Skiing",
+        "skill": "[S:Skiing*| HT-6]",
+        "page": "[PDF:B220]"
+    },
+    {
+        "name": "Sling",
+        "skill": "[S:Sling*| DX-6]",
+        "page": "[PDF:B221]"
+    },
+    {
+        "name": "Smallsword",
+        "skill": "[S:Smallsword*| S:Main*Gauche-3 | S:Rapier-3 | S:Saber-3 | S:Shortsword-4 | DX-5]",
+        "page": "[PDF:B221]"
+    },
+    {
+        "name": "Smith/TL†",
+        "skill": "[S:Smith/TL†*| IQ-5]",
+        "page": "[PDF:B208]"
+    },
+    {
+        "name": "Smuggling",
+        "skill": "[S:Smuggling*| IQ-5]",
+        "page": "[PDF:B221]"
+    },
+    {
+        "name": "Sociology",
+        "skill": "[S:Sociology*| IQ-6 | S:Anthropology-3 | S:Psychology-4]",
+        "page": "[PDF:B221]"
+    },
+    {
+        "name": "Soldier/TL",
+        "skill": "[S:Soldier/TL*| IQ-5]",
+        "page": "[PDF:B221]"
+    },
+    {
+        "name": "Spear",
+        "skill": "[S:Spear*| S:Polearm-4 | S:Staff-2 | DX-5]",
+        "page": "[PDF:B221]"
+    },
+    {
+        "name": "Spear*Thrower",
+        "skill": "[S:Spear*Thrower*| DX-5 | S:Thrown*Weapon *Spear-4]",
+        "page": "[PDF:B208]"
+    },
+    {
+        "name": "Staff",
+        "skill": "[S:Staff*| S:Polearm-4 | S:Spear-2 | DX-5]",
+        "page": "[PDF:B222]"
+    },
+    {
+        "name": "Stealth",
+        "skill": "[S:Stealth*| DX-5 | IQ-5]",
+        "page": "[PDF:B222]"
+    },
+    {
+        "name": "Strategy†",
+        "skill": "[S:Strategy†*| IQ-6 | S:Intelligence*Analysis-6 | S:Tactics-6]",
+        "page": "[PDF:B222]"
+    },
+    {
+        "name": "Streetwise",
+        "skill": "[S:Streetwise*| IQ-5]",
+        "page": "[PDF:B222]"
+    },
+    {
+        "name": "Submarine/TL†",
+        "skill": "[S:Submarine/TL†*| IQ-6]",
+        "page": "[PDF:B223]"
+    },
+    {
+        "name": "Survival†",
+        "skill": "[S:Survival†*| Per-5 | S:Naturalist*same*planet-3]",
+        "page": "[PDF:B223]"
+    },
+    {
+        "name": "Swimming",
+        "skill": "[S:Swimming*| HT-4]",
+        "page": "[PDF:B191]"
+    },
+    {
+        "name": "Tactics",
+        "skill": "[S:Tactics*| IQ-6 | S:Strategy-6]",
+        "page": "[PDF:B224]"
+    },
+    {
+        "name": "Teaching",
+        "skill": "[S:Teaching*| IQ-5]",
+        "page": "[PDF:B224]"
+    },
+    {
+        "name": "Teamster†",
+        "skill": "[S:Teamster†*| IQ-5 | S:Animal*Handling*same-4 | S:Riding*same-2]",
+        "page": "[PDF:B224]"
+    },
+    {
+        "name": "Thaumatology",
+        "skill": "[S:Thaumatology*| IQ-7]",
+        "page": "[PDF:B225]"
+    },
+    {
+        "name": "Theology†",
+        "skill": "[S:Theology†*| IQ-6 | S:Religious*Ritual*same-4]",
+        "page": "[PDF:B225]"
+    },
+    {
+        "name": "Throwing",
+        "skill": "[S:Throwing*| DX-3 | S:Dropping-4]",
+        "page": "[PDF:B226]"
+    },
+    {
+        "name": "Thrown Weapon†",
+        "skill": "[S:Thrown*Weapon†*| DX-4]",
+        "page": "[PDF:B226]"
+    },
+    {
+        "name": "Tonfa",
+        "skill": "[S:Tonfa*| S:Shortsword-3 | DX-5]",
+        "page": "[PDF:B226]"
+    },
+    {
+        "name": "Tracking",
+        "skill": "[S:Tracking*| Per-5 | S:Naturalist-5]",
+        "page": "[PDF:B209]"
+    },
+    {
+        "name": "Traps/TL",
+        "skill": "[S:Traps/TL*| IQ-5 | S:Lockpicking-3]",
+        "page": "[PDF:B226]"
+    },
+    {
+        "name": "Two-Handed Axe/Mace",
+        "skill": "[S:Two*Handed*Axe/Mace*| S:Axe/Mace-3 | S:Polearm-4 | S:Two*Handed*Flail-4 | DX-5]",
+        "page": "[PDF:B226]"
+    },
+    {
+        "name": "Two-Handed Flail",
+        "skill": "[S:Two*Handed*Flail*| S:Flail-3 | S:Kusari-4 | S:Two*Handed*Axe/Mace-4 | DX-6]",
+        "page": "[PDF:B208]"
+    },
+    {
+        "name": "Two-Handed Sword",
+        "skill": "[S:Two*Handed*Sword*| S:Broadsword-4 | S:Force*Sword-4 | DX-5]",
+        "page": "[PDF:B208]"
+    },
+    {
+        "name": "Typing",
+        "skill": "[S:Typing*| DX-4 | \"any skill requiring typing-3\"]",
+        "page": "[PDF:B209]"
+    },
+    {
+        "name": "Urban Survival",
+        "skill": "[S:Urban*Survival*| Per-5]",
+        "page": "[PDF:B228]"
+    },
+    {
+        "name": "Vacc Suit/TL",
+        "skill": "[S:Vacc*Suit/TL*| DX-5 | S:Battlesuit-2 | S:Diving*Suit-4 | S:NBC*Suit-2]",
+        "page": "[PDF:B228]"
+    },
+    {
+        "name": "Weather Sense",
+        "skill": "[S:Weather*Sense*| IQ-5]",
+        "page": "[PDF:B228]"
+    },
+    {
+        "name": "Whip",
+        "skill": "[S:Whip*| S:Force*Whip-3 | S:Kusari-3 | S:Monowire*Whip-3 | DX-5]",
+        "page": "[PDF:B228]"
+    },
+    {
+        "name": "Writing",
+        "skill": "[S:Writing*| IQ-5]",
+        "page": "[PDF:B228]"
+    }
+]

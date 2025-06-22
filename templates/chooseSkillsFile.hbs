@@ -1,6 +1,32 @@
-<p class="notes">Select an .skl file</p>
-<div class="form-group">
-  <label for="data">Source Data</label>
-  {{{inputElement}}}
+{{!-- 
+  GURPS Instant Defaults - File Chooser Template
+  Template for selecting .skl files to import skills
+  
+  @author Your Name
+  @version 1.0.0
+--}}
+
+<div class="file-chooser-container">
+  {{!-- Main file selection section --}}
+  <div class="form-group">
+    <label class="form-label">
+      {{localize "gurps-instant-defaults.dialog.fileChooser.title"}}
+    </label>
+    <p class="notes">
+      {{localize "gurps-instant-defaults.dialog.fileChooser.description"}}
+    </p>
+    {{{inputElement}}}
+  </div>
+  
+  {{!-- Help section with requirements --}}
+  <div class="help-section">
+    <div class="help-header">
+      {{localize "gurps-instant-defaults.dialog.fileChooser.requirements"}}
+    </div>
+    <ul class="help-list">
+      <li>{{localize "gurps-instant-defaults.dialog.fileChooser.req1"}}</li>
+      <li>{{localize "gurps-instant-defaults.dialog.fileChooser.req2"}}</li>
+      <li>{{localize "gurps-instant-defaults.dialog.fileChooser.req3"}}</li>
+    </ul>
+  </div>
 </div>
-<br />

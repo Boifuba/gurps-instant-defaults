@@ -6,56 +6,46 @@
     {
       "name": "Boifubá",
       "url": "https://github.com/Boifuba",
-      "discord": "Boifubá#6083",
+      "discord": "Boifubá",
       "flags": {}
     }
   ],
-  "version": "0.5.2",
+  "version": "0.5.3",
   "compatibility": {
     "minimum": "12",
     "verified": "12",
     "maximum": "13"
   },
   "url": "https://gitlab.com/boifuba/Gurps_Instant_Defaults/",
-  "manifest": "https://raw.githubusercontent.com/boifuba/Gurps-Instant-Defaults/main/module.json",
-  "download": "https://github.com/boifuba/Gurps-Instant-Defaults/archive/refs/heads/main.zip",
+  "manifest": "https://github.com/Boifuba/GURPS-Instant-Defaults/releases/download/0.5.3/module.json",
+  "download": "https://github.com/Boifuba/GURPS-Instant-Defaults/releases/download/0.5.3/gurps-instant-defaults.zip",
   "esmodules": [
     "scripts/main.js"
   ],
-  "styles": [
-    "styles/simple.css"
-  ],
- 
-  "packs": [
+    "packs": [
     {
-      "name": "Defaults",
-      "label": "GURPS Basic Set Skills",
-      "path": "packs/gurps-instant-defaults.db",
-      "type": "JournalEntry",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },      "flags": {}
-    },
-    {
-      "name": "GURPS4E-Macro",
-      "label": "GURPS Macros",
-      "path": "packs/macros.db",
+      "name": "gurps-instant-defaults",
+      "label": "Gurps Instant Defaulls",
+      "path": "packs/gurps-instant-defaults",
       "type": "Macro",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },      "flags": {}
-    },
+      },
+      "system": "gurps",
+      "flags": {}
+    }
+  ],
+  "styles": [
+    "styles/module.css"
+  ],
+    "languages": [
     {
-      "name": "GURPS4E-B-RollTables",
-      "label": "GURPS RollTables",
-      "path": "packs/gurps-4e-rolltables.db",
-      "type": "RollTable",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },      "flags": {}
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
     }
   ]
+ 
+  
 }
