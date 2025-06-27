@@ -12,8 +12,8 @@
   ],
   "version": "0.5.3",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12",
+    "minimum": "11",
+    "verified": "13",
     "maximum": "13"
   },
   "url": "https://gitlab.com/boifuba/Gurps_Instant_Defaults/",
@@ -22,7 +22,7 @@
   "esmodules": [
     "scripts/main.js"
   ],
-    "packs": [
+  "packs": [
     {
       "name": "gurps-instant-defaults",
       "label": "Gurps Instant Defaulls",
@@ -37,15 +37,16 @@
     }
   ],
   "styles": [
-    "styles/module.css"
+    {
+      "src": "styles/module.css"
+    }
   ],
-    "languages": [
+  "languages": [
     {
       "lang": "en",
       "name": "English",
-      "path": "lang/en.json"
+      "path": "lang/en.json",
+      "flags": {}
     }
   ]
- 
-  
 }

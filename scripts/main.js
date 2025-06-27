@@ -2,8 +2,8 @@
  * GURPS Instant Defaults Module
  * Modern skill chooser and defaults system for GURPS in Foundry VTT
  * 
- * @author Your Name
- * @version 1.0.0
+ * @author Boifubá
+ * @version 0.5.3
  */
 
 import GurpsWiring from "/systems/gurps/module/gurps-wiring.js";
