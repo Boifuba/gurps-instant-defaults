@@ -71,11 +71,11 @@ gurps-instant-defaults/
 ├── data/
 │   └── skills.json          # Skills database
 ├── scripts/
-│   └── main.js             # Main module code
+│   └── main.js              # Main module code
 ├── templates/
 │   └── chooseSkillsFile.hbs # File chooser template
-├── module.json             # Module manifest
-└── README.md              # This file
+├── module.json              # Module manifest
+└── README.md                # This file
 ```
 
 ## API Reference
@@ -99,9 +99,9 @@ Returns the current module version.
 
 ## Compatibility
 
-- **Foundry VTT**: v10+
-- **GURPS System**: Latest version required
-
+* **System**: GURPS  
+* **Tested Foundry VTT**: 13  
+* **Maximum Foundry VTT**: 13
 
 ## License
 
@@ -109,10 +109,7 @@ This module is released under the MIT License. See the LICENSE file for details.
 
 ## Support
 
-For issues, feature requests, or questions:
-
-1. Search existing issues on the project repository
-2. Create a new issue with detailed information
+Join us on [Discord](https://discord.gg/223PjGAM2Y), or create an [issue](https://github.com/Boifuba/mookinator/issues) here.
 
 
 ## Credits
