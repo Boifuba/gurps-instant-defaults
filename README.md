@@ -112,6 +112,10 @@ This module is released under the MIT License. See the LICENSE file for details.
 Join us on [Discord](https://discord.gg/223PjGAM2Y), or create an [issue](https://github.com/Boifuba/mookinator/issues) here.
 
 
+## Do want to support me ? 
+
+Buy me a [coffee](https://github.com/sponsors/Boifuba)
+
 ## Credits
 
 - Built for the GURPS system in Foundry VTT
