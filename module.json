@@ -12,7 +12,7 @@
   ],
   "version": "0.5.5",
   "compatibility": {
-    "minimum": "11",
+    "minimum": "13",
     "verified": "13",
     "maximum": "13"
   },
@@ -34,8 +34,14 @@
       },
       "system": "gurps",
       "flags": {}
+    },
+     {
+      "name": "GURPS4E-B-RollTables",
+      "label": "GURPS RollTables",
+      "path": "./packs/gurps-4e-rolltables",
+      "type": "RollTable"
     }
-  ],
+    ],
   "styles": [
     {
       "src": "styles/module.css"
