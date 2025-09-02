@@ -138,14 +138,14 @@
    ========================================================================== */
 
 .skill-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px 12px;
-  border-bottom: 1px solid rgba(213, 213, 197, 0.6);
-  transition: background-color 0.2s ease;
-  gap: 16px;
-  cursor: pointer;
+    display: flex;
+        /* justify-content: space-between; */
+    /* align-items: center; */
+    padding: 4px 4px;
+    /* border-bottom: 1px solid rgba(213, 213, 197, 0.6); */
+    transition: background-color 0.2s ease;
+    /* gap: 16px; */
+    cursor: pointer;
 }
 
 .skill-row:last-child {
@@ -165,6 +165,9 @@
   font-weight: 600;
   flex: 1;
   min-width: 0; /* Allows text truncation if needed */
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
 /* Reference section (right side) */
@@ -176,12 +179,46 @@
 }
 
 /* ==========================================================================
+   Favorite Star Styling
+   ========================================================================== */
+
+.favorite-star {
+  color: #ccc;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+  padding: 2px;
+  border-radius: 2px;
+}
+
+.favorite-star:hover {
+  color: #ffd700;
+  transform: scale(1.1);
+}
+
+.favorite-star.favorited {
+  color: #ffd700;
+  text-shadow: 0 0 4px rgba(255, 215, 0, 0.5);
+}
+
+.favorite-star.favorited:hover {
+  color: #ffed4e;
+  transform: scale(1.15);
+  text-shadow: 0 0 6px rgba(255, 215, 0, 0.7);
+}
+
+.favorite-star:active {
+  transform: scale(0.95);
+}
+
+/* ==========================================================================
    GURPS Link Styling (Module-Specific)
    ========================================================================== */
 
 /* Primary skill links - Orange gradient buttons */
 .skill-chooser .skill-name .gurpslink {
-  background: linear-gradient(135deg, #ffc401 0%, #ffd900 100%);
+  background: linear-gradient(135deg, #ffff7e 0%, #ffffaf 100%);
   color: #333 !important;
   padding: 4px 8px;
   border-radius: 4px;
@@ -191,7 +228,7 @@
   display: inline-block;
   transition: all 0.2s ease;
   border: none;
-  box-shadow: 0 2px 4px rgba(255, 196, 1, 0.3);
+  /* box-shadow: 0 2px 4px rgba(255, 196, 1, 0.3); */
   cursor: pointer;
 }
 
@@ -303,42 +340,7 @@
   margin-bottom: 4px;
 }
 
-/* ==========================================================================
-   Responsive Design
-   ========================================================================== */
 
-@media (max-width: 600px) {
-  .gurps-instant-defaults-dialog {
-    width: 95% !important;
-    height: 90% !important;
-  }
-  
-  .skill-chooser {
-    padding: 12px;
-  }
-  
-  .skill-row {
-    padding: 8px 10px;
-    gap: 12px;
-  }
-  
-  .skills-list {
-    max-height: 350px;
-  }
-  
-  .search-input {
-    font-size: 16px; /* Prevents zoom on iOS */
-  }
-  
-  .display-toggle-section {
-    flex-direction: column;
-    gap: 4px;
-  }
-  
-  .toggle-btn {
-    width: 100%;
-  }
-}
 
 /* ==========================================================================
    Accessibility Improvements
@@ -359,31 +361,3 @@
   /* Already handled above */
 }
 
-/* High contrast mode support */
-@media (prefers-contrast: high) {
-  .skill-chooser .gurpslink {
-    border: 1px solid currentColor;
-  }
-  
-  .skill-row {
-    border-bottom-width: 2px;
-  }
-  
-  .toggle-btn {
-    border-width: 2px;
-  }
-}
-
-/* Reduced motion support */
-@media (prefers-reduced-motion: reduce) {
-  .skill-chooser .gurpslink,
-  .skill-row,
-  .search-input,
-  .toggle-btn {
-    transition: none;
-  }
-  
-  .skill-chooser .gurpslink:hover {
-    transform: none;
-  }
-}

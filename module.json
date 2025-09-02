@@ -10,43 +10,23 @@
       "flags": {}
     }
   ],
-  "version": "0.5.5",
+  "version": "1.0.0",
   "compatibility": {
-    "minimum": "11",
+    "minimum": "13",
     "verified": "13",
     "maximum": "13"
   },
   "url": "https://gitlab.com/boifuba/Gurps_Instant_Defaults/",
-  "manifest": "https://github.com/Boifuba/GURPS-Instant-Defaults/releases/download/packs/module.json",
-  "download": "https://github.com/Boifuba/GURPS-Instant-Defaults/releases/download/packs/gurps-instant-defaults.zip",
+  "manifest": "https://github.com/Boifuba/GURPS-Instant-Defaults/releases/download/1.0.0/module.json",
+  "download": "https://github.com/Boifuba/GURPS-Instant-Defaults/releases/download/1.0.0/gurps-instant-defaults.zip",
   "esmodules": [
-    "scripts/main.js"
+"main.js"
   ],
-  "packs": [
-    {
-      "name": "gurps-instant-defaults",
-      "label": "Gurps Instant Defaulls",
-      "path": "packs/gurps-instant-defaults",
-      "type": "Macro",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "gurps",
-      "flags": {}
-    }
-  ],
+  
+  
   "styles": [
     {
-      "src": "styles/module.css"
-    }
-  ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json",
-      "flags": {}
+      "src": "module.css"
     }
   ]
 }

@@ -1,0 +1,3237 @@
+[
+  {
+    "name": "Accounting",
+    "skill": "['Accounting' SK:Accounting* | IQ-6 | SK:Finance-4 | SK:Mathematics*Statistics-5 | SK:Merchant-5]",
+    "page": "[PDF:B174]"
+  },
+  {
+    "name": "Acrobatics",
+    "skill": "['Acrobatics' SK:Acrobatics* | DX-6 | SK:Aerobatics-4 | SK:Aquabatics-4]",
+    "page": "[PDF:B174]"
+  },
+  {
+    "name": "Acting",
+    "skill": "['Acting' SK:Acting* | IQ-5 | SK:Performance-2 | SK:Public*Speaking-5]",
+    "page": "[PDF:B174]"
+  },
+  {
+    "name": "Administration",
+    "skill": "['Administration' SK:Administration* | SK:Merchant-3 | IQ-5]",
+    "page": "[PDF:B174]"
+  },
+  {
+    "name": "Aerobatics",
+    "skill": "['Aerobatics' SK:Aerobatics* | DX-6 | SK:Acrobatics-4 | SK:Aquabatics-4]",
+    "page": "[PDF:B174]"
+  },
+  {
+    "name": "Airshipman",
+    "skill": "['Airshipman' SK:Airshipman* | IQ-4]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Alchemy",
+    "skill": "['Alchemy' SK:Alchemy*]",
+    "page": "[PDF:B174]"
+  },
+  {
+    "name": "Animal Handling",
+    "skill": "['Animal Handling' SK:Animal*Handling* | IQ-5]",
+    "page": "[PDF:B175]"
+  },
+  {
+    "name": "Animal Handling (Big Cats)",
+    "skill": "['Animal Handling (Big Cats)' SK:Animal*Handling*Big*Cats* | IQ-5]",
+    "page": "[PDF:B175]"
+  },
+  {
+    "name": "Animal Handling (Dogs)",
+    "skill": "['Animal Handling (Dogs)' SK:Animal*Handling*Dogs* | IQ-5]",
+    "page": "[PDF:B175]"
+  },
+  {
+    "name": "Animal Handling (Equines)",
+    "skill": "['Animal Handling (Equines)' SK:Animal*Handling*Equines* | IQ-5]",
+    "page": "[PDF:B175]"
+  },
+  {
+    "name": "Animal Handling (Raptors)",
+    "skill": "['Animal Handling (Raptors)' SK:Animal*Handling*Raptors* | IQ-5]",
+    "page": "[PDF:B175]"
+  },
+  {
+    "name": "Anthropology (@Species@)",
+    "skill": "['Anthropology (@Species@)' SK:Anthropology*@Species@* | IQ-6 | SK:Paleontology*Paleoanthropology-2 | SK:Sociology-3]",
+    "page": "[PDF:B175]"
+  },
+  {
+    "name": "Aquabatics",
+    "skill": "['Aquabatics' SK:Aquabatics* | DX-6 | SK:Acrobatics-4 | SK:Aerobatics-4]",
+    "page": "[PDF:B174]"
+  },
+  {
+    "name": "Archaeology",
+    "skill": "['Archaeology' SK:Archaeology* | IQ-6]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Architecture",
+    "skill": "['Architecture' SK:Architecture* | IQ-5 | SK:Engineer*Civil-4]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Barony, County, Duchy, or Small Nation@)",
+    "skill": "['Area Knowledge (@Barony, County, Duchy, or Small Nation@)' SK:Area*Knowledge*@Barony*County*Duchy*or*Small*Nation@* | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Barony, County, Duchy, or Small Nation@; Lived there)",
+    "skill": "['Area Knowledge (@Barony, County, Duchy, or Small Nation@; Lived there)' SK:Area*Knowledge*@Barony*County*Duchy*or*Small*Nation@;*Lived*there* | IQ-4 | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@City@)",
+    "skill": "['Area Knowledge (@City@)' SK:Area*Knowledge*@City@* | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@City@; Lived there)",
+    "skill": "['Area Knowledge (@City@; Lived there)' SK:Area*Knowledge*@City@;*Lived*there* | IQ-4 | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Galaxy@)",
+    "skill": "['Area Knowledge (@Galaxy@)' SK:Area*Knowledge*@Galaxy@* | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Galaxy@; Lived there)",
+    "skill": "['Area Knowledge (@Galaxy@; Lived there)' SK:Area*Knowledge*@Galaxy@;*Lived*there* | IQ-4 | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Interplanetary State@)",
+    "skill": "['Area Knowledge (@Interplanetary State@)' SK:Area*Knowledge*@Interplanetary*State@* | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Interplanetary State@; Lived there)",
+    "skill": "['Area Knowledge (@Interplanetary State@; Lived there)' SK:Area*Knowledge*@Interplanetary*State@;*Lived*there* | IQ-4 | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Large Nation@)",
+    "skill": "['Area Knowledge (@Large Nation@)' SK:Area*Knowledge*@Large*Nation@* | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Large Nation@; Lived there)",
+    "skill": "['Area Knowledge (@Large Nation@; Lived there)' SK:Area*Knowledge*@Large*Nation@;*Lived*there* | IQ-4 | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Planet@)",
+    "skill": "['Area Knowledge (@Planet@)' SK:Area*Knowledge*@Planet@* | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Planet@; Lived there)",
+    "skill": "['Area Knowledge (@Planet@; Lived there)' SK:Area*Knowledge*@Planet@;*Lived*there* | IQ-4 | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Rural Area@)",
+    "skill": "['Area Knowledge (@Rural Area@)' SK:Area*Knowledge*@Rural*Area@* | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Rural Area@; Lived there)",
+    "skill": "['Area Knowledge (@Rural Area@; Lived there)' SK:Area*Knowledge*@Rural*Area@;*Lived*there* | IQ-4 | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Urban Neighborhood@)",
+    "skill": "['Area Knowledge (@Urban Neighborhood@)' SK:Area*Knowledge*@Urban*Neighborhood@* | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Urban Neighborhood@; Lived there)",
+    "skill": "['Area Knowledge (@Urban Neighborhood@; Lived there)' SK:Area*Knowledge*@Urban*Neighborhood@;*Lived*there* | IQ-4 | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Village or Town@)",
+    "skill": "['Area Knowledge (@Village or Town@)' SK:Area*Knowledge*@Village*or*Town@* | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Area Knowledge (@Village or Town@; Lived there)",
+    "skill": "['Area Knowledge (@Village or Town@; Lived there)' SK:Area*Knowledge*@Village*or*Town@;*Lived*there* | IQ-4 | SK:Geography-3]",
+    "page": "[PDF:B176]"
+  },
+  {
+    "name": "Armoury (@Armor type@)",
+    "skill": "['Armoury (@Armor type@)' SK:Armoury*@Armor*type@* | IQ-5 | SK:Engineer*Battlesuits-4]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Armoury (Battlesuits)",
+    "skill": "['Armoury (Battlesuits)' SK:Armoury*Battlesuits* | IQ-5 | SK:Engineer*Battlesuits-4]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Armoury (Body Armor)",
+    "skill": "['Armoury (Body Armor)' SK:Armoury*Body*Armor* | IQ-5 | SK:Engineer*Body*Armor-4]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Armoury (Force Shields)",
+    "skill": "['Armoury (Force Shields)' SK:Armoury*Force*Shields* | IQ-5 | SK:Engineer*Force*Shields-4]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Armoury (Heavy Weapons)",
+    "skill": "['Armoury (Heavy Weapons)' SK:Armoury*Heavy*Weapons* | IQ-5 | SK:Engineer*Heavy*Weapons-4]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Armoury (Melee Weapons)",
+    "skill": "['Armoury (Melee Weapons)' SK:Armoury*Melee*Weapons* | IQ-5 | SK:Engineer*Melee*Weapons-4]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Armoury (Missile Weapons)",
+    "skill": "['Armoury (Missile Weapons)' SK:Armoury*Missile*Weapons* | IQ-5 | SK:Engineer*Missile*Weapons-4]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Armoury (Small Arms)",
+    "skill": "['Armoury (Small Arms)' SK:Armoury*Small*Arms* | IQ-5 | SK:Engineer*Small*Arms-4]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Armoury (Vehicular Armor)",
+    "skill": "['Armoury (Vehicular Armor)' SK:Armoury*Vehicular*Armor* | IQ-5 | SK:Engineer*Vehicular*Armor-4]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Artillery (@Weapon type@)",
+    "skill": "['Artillery (@Weapon type@)' SK:Artillery*@Weapon*type@* | IQ-5]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Artillery (Beams)",
+    "skill": "['Artillery (Beams)' SK:Artillery*Beams* | IQ-5]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Artillery (Bombs)",
+    "skill": "['Artillery (Bombs)' SK:Artillery*Bombs* | IQ-5]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Artillery (Cannon)",
+    "skill": "['Artillery (Cannon)' SK:Artillery*Cannon* | IQ-5]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Artillery (Catapult)",
+    "skill": "['Artillery (Catapult)' SK:Artillery*Catapult* | IQ-5]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Artillery (Guided Missile)",
+    "skill": "['Artillery (Guided Missile)' SK:Artillery*Guided*Missile* | IQ-5]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Artillery (Torpedoes)",
+    "skill": "['Artillery (Torpedoes)' SK:Artillery*Torpedoes* | IQ-5]",
+    "page": "[PDF:B178]"
+  },
+  {
+    "name": "Artist (@Art@)",
+    "skill": "['Artist (@Art@)' SK:Artist*@Art@* | IQ-6 | SK:Artist-6]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Artist (Body Art)",
+    "skill": "['Artist (Body Art)' SK:Artist*Body*Art* | IQ-6 | SK:Artist*Calligraphy-4 | SK:Artist*Drawing-4 | SK:Artist*Illumination-4 | SK:Artist*Painting-4 | SK:Artist-6]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Artist (Calligraphy)",
+    "skill": "['Artist (Calligraphy)' SK:Artist*Calligraphy* | IQ-6 | SK:Artist*Drawing-2 | SK:Artist*Illumination-2 | SK:Artist*Painting-2 | SK:Artist*Body*Art-4 | SK:Artist-6]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Artist (Drawing)",
+    "skill": "['Artist (Drawing)' SK:Artist*Drawing* | IQ-6 | SK:Artist*Calligraphy-2 | SK:Artist*Illumination-2 | SK:Artist*Painting-2 | SK:Artist*Body*Art-4 | SK:Artist-6]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Artist (Illumination)",
+    "skill": "['Artist (Illumination)' SK:Artist*Illumination* | IQ-6 | SK:Artist*Calligraphy-2 | SK:Artist*Drawing-2 | SK:Artist*Painting-2 | SK:Artist*Body*Art-4 | SK:Artist-6]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Artist (Illusion)",
+    "skill": "['Artist (Illusion)' SK:Artist*Illusion* | IQ-6 | SK:Artist-6]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Artist (Interior Decorating)",
+    "skill": "['Artist (Interior Decorating)' SK:Artist*Interior*Decorating* | IQ-6 | SK:Architecture-3 | SK:Artist*Scene*Design-4 | SK:Artist*Woodworking-4 | SK:Artist-6]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Artist (Painting)",
+    "skill": "['Artist (Painting)' SK:Artist*Painting* | IQ-6 | SK:Artist*Calligraphy-2 | SK:Artist*Drawing-2 | SK:Artist*Illumination-2 | SK:Artist*Body*Art-4 | SK:Artist-6]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Artist (Pottery)",
+    "skill": "['Artist (Pottery)' SK:Artist*Pottery* | IQ-6 | SK:Artist-6]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Artist (Scene Design)",
+    "skill": "['Artist (Scene Design)' SK:Artist*Scene*Design* | IQ-6 | SK:Architecture-3 | SK:Artist*Interior*Decorating-4 | SK:Artist*Woodworking-4 | SK:Artist-6]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Artist (Sculpting)",
+    "skill": "['Artist (Sculpting)' SK:Artist*Sculpting* | IQ-6 | SK:Artist-6]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Artist (Woodworking)",
+    "skill": "['Artist (Woodworking)' SK:Artist*Woodworking* | IQ-6 | SK:Carpentry-3 | SK:Artist*Interior*Decorating-4 | SK:Artist*Scene*Design-4 | SK:Artist-6]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Astronomy",
+    "skill": "['Astronomy' SK:Astronomy* | IQ-6]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Autohypnosis",
+    "skill": "['Autohypnosis' SK:Autohypnosis* | SK:Meditation-4]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Axe/Mace",
+    "skill": "['Axe/Mace' SK:Axe/Mace* | DX-5 | SK:Two-Handed*Axe/Mace-3 | SK:Flail-4]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Bartender",
+    "skill": "['Bartender' SK:Bartender* | IQ-5 | SK:Carousing-3]",
+    "page": "[PDF:B216]"
+  },
+  {
+    "name": "Battlesuit",
+    "skill": "['Battlesuit' SK:Battlesuit* | DX-5 | SK:Diving*Suit-4 | SK:Vacc*Suit-2 | SK:NBC*Suit-2]",
+    "page": "[PDF:B192]"
+  },
+  {
+    "name": "Beam Weapons (@Weapon class@)",
+    "skill": "['Beam Weapons (@Weapon class@)' SK:Beam*Weapons*@Weapon*class@* | DX-4 | SK:Beam*Weapons-4 | SK:Guns*Pistol-4]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Beam Weapons (Pistol)",
+    "skill": "['Beam Weapons (Pistol)' SK:Beam*Weapons*Pistol* | DX-4 | SK:Beam*Weapons-4 | SK:Guns*Pistol-4]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Beam Weapons (Projector)",
+    "skill": "['Beam Weapons (Projector)' SK:Beam*Weapons*Projector* | DX-4 | SK:Beam*Weapons-4]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Beam Weapons (Rifle)",
+    "skill": "['Beam Weapons (Rifle)' SK:Beam*Weapons*Rifle* | DX-4 | SK:Beam*Weapons-4 | SK:Guns*Rifle-4]",
+    "page": "[PDF:B179]"
+  },
+  {
+    "name": "Bicycling",
+    "skill": "['Bicycling' SK:Bicycling* | DX-4 | SK:Driving*Motorcycle-4]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Bioengineering",
+    "skill": "['Bioengineering' SK:Bioengineering* | SK:Biology-5 | SK:Bioengineering-4]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Bioengineering (Cloning)",
+    "skill": "['Bioengineering (Cloning)' SK:Bioengineering*Cloning* | SK:Biology-5 | SK:Bioengineering-4]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Bioengineering (Genetic Engineering)",
+    "skill": "['Bioengineering (Genetic Engineering)' SK:Bioengineering*Genetic*Engineering* | SK:Biology-5 | SK:Bioengineering-4]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Bioengineering (Tissue Engineering)",
+    "skill": "['Bioengineering (Tissue Engineering)' SK:Bioengineering*Tissue*Engineering* | SK:Biology-5 | SK:Bioengineering-4]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Biology",
+    "skill": "['Biology' SK:Biology* | IQ-6 | SK:Naturalist-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Biology (Biochemistry)",
+    "skill": "['Biology (Biochemistry)' SK:Biology*Biochemistry* | IQ-6 | SK:Naturalist-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Biology (Botany)",
+    "skill": "['Biology (Botany)' SK:Biology*Botany* | IQ-6 | SK:Naturalist-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Biology (Earthlike)",
+    "skill": "['Biology (Earthlike)' SK:Biology*Earthlike* | IQ-6 | SK:Naturalist-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Biology (Ecology)",
+    "skill": "['Biology (Ecology)' SK:Biology*Ecology* | IQ-6 | SK:Naturalist-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Biology (Gas Giants)",
+    "skill": "['Biology (Gas Giants)' SK:Biology*Gas*Giants* | IQ-6 | SK:Naturalist-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Biology (Genetics)",
+    "skill": "['Biology (Genetics)' SK:Biology*Genetics* | IQ-6 | SK:Naturalist-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Biology (Hostile Terrestrial)",
+    "skill": "['Biology (Hostile Terrestrial)' SK:Biology*Hostile*Terrestrial* | IQ-6 | SK:Naturalist-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Biology (Ice Dwarfs)",
+    "skill": "['Biology (Ice Dwarfs)' SK:Biology*Ice*Dwarfs* | IQ-6 | SK:Naturalist-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Biology (Ice Worlds)",
+    "skill": "['Biology (Ice Worlds)' SK:Biology*Ice*Worlds* | IQ-6 | SK:Naturalist-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Biology (Marine Biology)",
+    "skill": "['Biology (Marine Biology)' SK:Biology*Marine*Biology* | IQ-6 | SK:Naturalist-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Biology (Microbiology)",
+    "skill": "['Biology (Microbiology)' SK:Biology*Microbiology* | IQ-6 | SK:Naturalist-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Biology (Rock Worlds)",
+    "skill": "['Biology (Rock Worlds)' SK:Biology*Rock*Worlds* | IQ-6 | SK:Naturalist-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Biology (Zoology)",
+    "skill": "['Biology (Zoology)' SK:Biology*Zoology* | IQ-6 | SK:Naturalist-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Blind Fighting",
+    "skill": "['Blind Fighting' SK:Blind*Fighting*]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Blowpipe",
+    "skill": "['Blowpipe' SK:Blowpipe* | DX-6]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Boating (@Boat class@)",
+    "skill": "['Boating (@Boat class@)' SK:Boating*@Boat*class@* | DX-5 | IQ-5 | SK:Boating*Motorboat-2 | SK:Boating*Sailboat-4 | SK:Boating*Unpowered-4 | SK:Seamanship-4]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Boating (Large Powerboat)",
+    "skill": "['Boating (Large Powerboat)' SK:Boating*Large*Powerboat* | DX-5 | IQ-5 | SK:Boating*Motorboat-2 | SK:Boating*Sailboat-4 | SK:Boating*Unpowered-4 | SK:Seamanship-4]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Boating (Motorboat)",
+    "skill": "['Boating (Motorboat)' SK:Boating*Motorboat* | DX-5 | IQ-5 | SK:Boating*Large*Powerboat-2 | SK:Boating*Sailboat-3 | SK:Boating*Unpowered-3]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Boating (Sailboat)",
+    "skill": "['Boating (Sailboat)' SK:Boating*Sailboat* | DX-5 | IQ-5 | SK:Boating*Large*Powerboat-4 | SK:Boating*Motorboat-3 | SK:Boating*Unpowered-3]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Boating (Unpowered)",
+    "skill": "['Boating (Unpowered)' SK:Boating*Unpowered* | IQ-5 | DX-5 | SK:Boating*Large*Powerboat-4 | SK:Boating*Motorboat-3 | SK:Boating*Sailboat-3]",
+    "page": "[PDF:B180]"
+  },
+  {
+    "name": "Body Control",
+    "skill": "['Body Control' SK:Body*Control*]",
+    "page": "[PDF:B181]"
+  },
+  {
+    "name": "Body Language",
+    "skill": "['Body Language' SK:Body*Language* | SK:Detect*Lies-4 | SK:Psychology-4]",
+    "page": "[PDF:B181]"
+  },
+  {
+    "name": "Body Sense",
+    "skill": "['Body Sense' SK:Body*Sense* | DX-6 | SK:Acrobatics-3]",
+    "page": "[PDF:B181]"
+  },
+  {
+    "name": "Bolas",
+    "skill": "['Bolas' SK:Bolas*]",
+    "page": "[PDF:B181]"
+  },
+  {
+    "name": "Bow",
+    "skill": "['Bow' SK:Bow* | DX-5]",
+    "page": "[PDF:B182]"
+  },
+  {
+    "name": "Boxing",
+    "skill": "['Boxing' SK:Boxing*]",
+    "page": "[PDF:B182]"
+  },
+  {
+    "name": "Brain Hacking",
+    "skill": "['Brain Hacking' SK:Brain*Hacking*]",
+    "page": "[PDF:B182]"
+  },
+  {
+    "name": "Brainwashing",
+    "skill": "['Brainwashing' SK:Brainwashing*]",
+    "page": "[PDF:B182]"
+  },
+  {
+    "name": "Brawling",
+    "skill": "['Brawling' SK:Brawling*]",
+    "page": "[PDF:B182]"
+  },
+  {
+    "name": "Breaking Blow",
+    "skill": "['Breaking Blow' SK:Breaking*Blow*]",
+    "page": "[PDF:B182]"
+  },
+  {
+    "name": "Breath Control",
+    "skill": "['Breath Control' SK:Breath*Control*]",
+    "page": "[PDF:B182]"
+  },
+  {
+    "name": "Broadsword",
+    "skill": "['Broadsword' SK:Broadsword* | SK:Force*Sword-4 | SK:Rapier-4 | SK:Saber-4 | SK:Shortsword-2 | SK:Two-Handed*Sword-4 | DX-5]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Camouflage",
+    "skill": "['Camouflage' SK:Camouflage* | IQ-4 | SK:Survival-2]",
+    "page": "[PDF:B183]"
+  },
+  {
+    "name": "Captivate",
+    "skill": "['Captivate' SK:Captivate*]",
+    "page": "[PDF:B191]"
+  },
+  {
+    "name": "Carousing",
+    "skill": "['Carousing' SK:Carousing* | HT-4]",
+    "page": "[PDF:B183]"
+  },
+  {
+    "name": "Carpentry",
+    "skill": "['Carpentry' SK:Carpentry* | IQ-4]",
+    "page": "[PDF:B183]"
+  },
+  {
+    "name": "Cartography",
+    "skill": "['Cartography' SK:Cartography* | IQ-5 | SK:Geography-2 | SK:Mathematics*Surveying-2 | SK:Navigation-4]",
+    "page": "[PDF:B183]"
+  },
+  {
+    "name": "Chemistry",
+    "skill": "['Chemistry' SK:Chemistry* | IQ-6 | SK:Alchemy-3]",
+    "page": "[PDF:B183]"
+  },
+  {
+    "name": "Climbing",
+    "skill": "['Climbing' SK:Climbing* | DX-5]",
+    "page": "[PDF:B183]"
+  },
+  {
+    "name": "Cloak",
+    "skill": "['Cloak' SK:Cloak* | DX-5 | SK:Net-4 | SK:Shield-4]",
+    "page": "[PDF:B184]"
+  },
+  {
+    "name": "Combat Art (@Average Skill@)",
+    "skill": "['Combat Art (@Average Skill@)' SK:Combat*Art*@Average*Skill@* | SK:@Average*Skill@-3 | SK:Combat*Sport*@Average*Skill@-3 | DX-5]",
+    "page": "[PDF:B184]"
+  },
+  {
+    "name": "Combat Art (@Easy Skill@)",
+    "skill": "['Combat Art (@Easy Skill@)' SK:Combat*Art*@Easy*Skill@* | SK:@Easy*Skill@-3 | SK:Combat*Sport*@Easy*Skill@-3 | DX-4]",
+    "page": "[PDF:B184]"
+  },
+  {
+    "name": "Combat Art (@Hard Skill@)",
+    "skill": "['Combat Art (@Hard Skill@)' SK:Combat*Art*@Hard*Skill@* | SK:@Hard*Skill@-3 | SK:Combat*Sport*@Hard*Skill@-3 | DX-6]",
+    "page": "[PDF:B184]"
+  },
+  {
+    "name": "Combat Sport (@Average Skill@)",
+    "skill": "['Combat Sport (@Average Skill@)' SK:Combat*Sport*@Average*Skill@* | SK:@Average*Skill@-3 | SK:Combat*Art*@Average*Skill@-3 | DX-5]",
+    "page": "[PDF:B184]"
+  },
+  {
+    "name": "Combat Sport (@Easy Skill@)",
+    "skill": "['Combat Sport (@Easy Skill@)' SK:Combat*Sport*@Easy*Skill@* | SK:@Easy*Skill@-3 | SK:Combat*Art*@Easy*Skill@-3 | DX-4]",
+    "page": "[PDF:B184]"
+  },
+  {
+    "name": "Combat Sport (@Hard Skill@)",
+    "skill": "['Combat Sport (@Hard Skill@)' SK:Combat*Sport*@Hard*Skill@* | SK:@Hard*Skill@-3 | SK:Combat*Art*@Hard*Skill@-3 | DX-6]",
+    "page": "[PDF:B184]"
+  },
+  {
+    "name": "Computer Hacking",
+    "skill": "['Computer Hacking' SK:Computer*Hacking*]",
+    "page": "[PDF:B184]"
+  },
+  {
+    "name": "Computer Operation",
+    "skill": "['Computer Operation' SK:Computer*Operation* | IQ-4]",
+    "page": "[PDF:B184]"
+  },
+  {
+    "name": "Computer Programming",
+    "skill": "['Computer Programming' SK:Computer*Programming*]",
+    "page": "[PDF:B184]"
+  },
+  {
+    "name": "Computer Programming (AI)",
+    "skill": "['Computer Programming (AI)' SK:Computer*Programming*AI*]",
+    "page": "[PDF:B184]"
+  },
+  {
+    "name": "Connoisseur (@Subject@)",
+    "skill": "['Connoisseur (@Subject@)' SK:Connoisseur*@Subject@* | IQ-5]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Connoisseur (Dance)",
+    "skill": "['Connoisseur (Dance)' SK:Connoisseur*Dance* | IQ-5]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Connoisseur (Literature)",
+    "skill": "['Connoisseur (Literature)' SK:Connoisseur*Literature* | SK:Literature-3 | SK:Poetry-3 | SK:Writing-3 | IQ-5]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Connoisseur (Music)",
+    "skill": "['Connoisseur (Music)' SK:Connoisseur*Music* | SK:Group*Performance*Conducting-3 | SK:Musical*Composition-3 | SK:Musical*Instrument-3 | IQ-5]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Connoisseur (Visual Arts)",
+    "skill": "['Connoisseur (Visual Arts)' SK:Connoisseur*Visual*Arts* | IQ-5]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Connoisseur (Wine)",
+    "skill": "['Connoisseur (Wine)' SK:Connoisseur*Wine* | IQ-5]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Cooking",
+    "skill": "['Cooking' SK:Cooking* | IQ-5 | SK:Housekeeping-5]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Cooking",
+    "skill": "['Cooking' SK:Cooking* | IQ-5 | SK:Housekeeping-5]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Cooking (Baking)",
+    "skill": "['Cooking (Baking)' SK:Cooking*Baking* | IQ-5 | SK:Housekeeping-5]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Cooking (Beverage Making)",
+    "skill": "['Cooking (Beverage Making)' SK:Cooking*Beverage*Making* | IQ-5 | SK:Housekeeping-5]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Counterfeiting",
+    "skill": "['Counterfeiting' SK:Counterfeiting* | IQ-6 | SK:Forgery-2]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Criminology",
+    "skill": "['Criminology' SK:Criminology* | IQ-5 | SK:Psychology-4]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Crossbow",
+    "skill": "['Crossbow' SK:Crossbow* | DX-4]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Cryptography",
+    "skill": "['Cryptography' SK:Cryptography* | SK:Mathematics*Cryptology-5]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Cryptography (Code Design)",
+    "skill": "['Cryptography (Code Design)' SK:Cryptography*Code*Design* | SK:Mathematics*Cryptology-5]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Cryptography (Cryptanalysis)",
+    "skill": "['Cryptography (Cryptanalysis)' SK:Cryptography*Cryptanalysis* | SK:Mathematics*Cryptology-5]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Current Affairs (@Subject@)",
+    "skill": "['Current Affairs (@Subject@)' SK:Current*Affairs*@Subject@* | IQ-4 | SK:Research-4 | SK:Current*Affairs-4]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Current Affairs (Business)",
+    "skill": "['Current Affairs (Business)' SK:Current*Affairs*Business* | IQ-4 | SK:Research-4 | SK:Current*Affairs-4]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Current Affairs (Headline News)",
+    "skill": "['Current Affairs (Headline News)' SK:Current*Affairs*Headline*News* | IQ-4 | SK:Research-4 | SK:Current*Affairs-4]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Current Affairs (High Culture)",
+    "skill": "['Current Affairs (High Culture)' SK:Current*Affairs*High*Culture* | IQ-4 | SK:Research-4 | SK:Current*Affairs-4]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Current Affairs (People)",
+    "skill": "['Current Affairs (People)' SK:Current*Affairs*People* | IQ-4 | SK:Research-4 | SK:Current*Affairs-4]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Current Affairs (Politics)",
+    "skill": "['Current Affairs (Politics)' SK:Current*Affairs*Politics* | IQ-4 | SK:Research-4 | SK:Current*Affairs-4]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Current Affairs (Popular Culture)",
+    "skill": "['Current Affairs (Popular Culture)' SK:Current*Affairs*Popular*Culture* | IQ-4 | SK:Research-4 | SK:Current*Affairs-4]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Current Affairs (Regional)",
+    "skill": "['Current Affairs (Regional)' SK:Current*Affairs*Regional* | IQ-4 | SK:Research-4 | SK:Current*Affairs-4]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Current Affairs (Science & Technology)",
+    "skill": "['Current Affairs (Science & Technology)' SK:Current*Affairs*Science*&*Technology* | IQ-4 | SK:Research-4 | SK:Current*Affairs-4]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Current Affairs (Sports)",
+    "skill": "['Current Affairs (Sports)' SK:Current*Affairs*Sports* | IQ-4 | SK:Research-4 | SK:Current*Affairs-4]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Current Affairs (Travel)",
+    "skill": "['Current Affairs (Travel)' SK:Current*Affairs*Travel* | IQ-4 | SK:Research-4 | SK:Current*Affairs-4]",
+    "page": "[PDF:B186]"
+  },
+  {
+    "name": "Dancing",
+    "skill": "['Dancing' SK:Dancing* | DX-5]",
+    "page": "[PDF:B187]"
+  },
+  {
+    "name": "Detect Lies",
+    "skill": "['Detect Lies' SK:Detect*Lies* | Per-6 | SK:Body*Language-4 | SK:Psychology-4]",
+    "page": "[PDF:B187]"
+  },
+  {
+    "name": "Diagnosis",
+    "skill": "['Diagnosis' SK:Diagnosis* | IQ-6 | SK:First*Aid-8 | SK:Physician-4 | SK:Veterinary-5]",
+    "page": "[PDF:B187]"
+  },
+  {
+    "name": "Diplomacy",
+    "skill": "['Diplomacy' SK:Diplomacy* | IQ-6 | SK:Politics-6]",
+    "page": "[PDF:B187]"
+  },
+  {
+    "name": "Disguise",
+    "skill": "['Disguise' SK:Disguise* | IQ-5 | SK:Makeup-3]",
+    "page": "[PDF:B187]"
+  },
+  {
+    "name": "Diving Suit",
+    "skill": "['Diving Suit' SK:Diving*Suit* | DX-5 | SK:Scuba-2 | SK:Battlesuit-4 | SK:NBC*Suit-4 | SK:Vacc*Suit-4]",
+    "page": "[PDF:B192]"
+  },
+  {
+    "name": "Dreaming",
+    "skill": "['Dreaming' SK:Dreaming* | Will-6]",
+    "page": "[PDF:B188]"
+  },
+  {
+    "name": "Driving (@Vehicle class@)",
+    "skill": "['Driving (@Vehicle class@)' SK:Driving*@Vehicle*class@* | DX-5 | IQ-5 | SK:Driving*Heavy*Wheeled-2 | SK:Driving-4]",
+    "page": "[PDF:B188]"
+  },
+  {
+    "name": "Driving (Automobile)",
+    "skill": "['Driving (Automobile)' SK:Driving*Automobile* | DX-5 | IQ-5 | SK:Driving*Heavy*Wheeled-2 | SK:Driving-4]",
+    "page": "[PDF:B188]"
+  },
+  {
+    "name": "Driving (Construction Equipment)",
+    "skill": "['Driving (Construction Equipment)' SK:Driving*Construction*Equipment* | DX-5 | IQ-5 | SK:Driving-5]",
+    "page": "[PDF:B188]"
+  },
+  {
+    "name": "Driving (Halftrack)",
+    "skill": "['Driving (Halftrack)' SK:Driving*Halftrack* | IQ-5 | DX-5 | SK:Driving*Tracked-2 | SK:Driving-4]",
+    "page": "[PDF:B188]"
+  },
+  {
+    "name": "Driving (Heavy Wheeled)",
+    "skill": "['Driving (Heavy Wheeled)' SK:Driving*Heavy*Wheeled* | DX-5 | IQ-5 | SK:Driving*Automobile-2 | SK:Driving-4]",
+    "page": "[PDF:B188]"
+  },
+  {
+    "name": "Driving (Hovercraft)",
+    "skill": "['Driving (Hovercraft)' SK:Driving*Hovercraft* | IQ-5 | DX-5 | SK:Driving-5]",
+    "page": "[PDF:B188]"
+  },
+  {
+    "name": "Driving (Locomotive)",
+    "skill": "['Driving (Locomotive)' SK:Driving*Locomotive* | DX-5 | IQ-5 | SK:Driving-5]",
+    "page": "[PDF:B188]"
+  },
+  {
+    "name": "Driving (Mecha)",
+    "skill": "['Driving (Mecha)' SK:Driving*Mecha* | IQ-5 | DX-5 | SK:Battlesuit-3 | SK:Driving-5]",
+    "page": "[PDF:B188]"
+  },
+  {
+    "name": "Driving (Motorcycle)",
+    "skill": "['Driving (Motorcycle)' SK:Driving*Motorcycle* | DX-5 | IQ-5 | SK:Bicycling-4]",
+    "page": "[PDF:B188]"
+  },
+  {
+    "name": "Driving (Tracked)",
+    "skill": "['Driving (Tracked)' SK:Driving*Tracked* | DX-5 | IQ-5 | SK:Driving*Halftrack-2 | SK:Driving-4]",
+    "page": "[PDF:B188]"
+  },
+  {
+    "name": "Dropping",
+    "skill": "['Dropping' SK:Dropping* | DX-3 | SK:Throwing-4]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Economics",
+    "skill": "['Economics' SK:Economics* | IQ-6 | SK:Finance-3 | SK:Market*Analysis-5 | SK:Merchant-6]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electrician",
+    "skill": "['Electrician' SK:Electrician* | IQ-5 | SK:Engineer*Electrical-3]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (@Electronics type@)",
+    "skill": "['Electronics Operation (@Electronics type@)' SK:Electronics*Operation*@Electronics*type@* | IQ-5 | SK:Electronics*Operation-4 | SK:Electronics*Repair*Communications-5 | SK:Engineer*Electronics-5]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (Communications)",
+    "skill": "['Electronics Operation (Communications)' SK:Electronics*Operation*Communications* | IQ-5 | SK:Electronics*Operation-4 | SK:Electronics*Repair*Communications-5 | SK:Engineer*Electronics-5]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (Electronic Warfare)",
+    "skill": "['Electronics Operation (Electronic Warfare)' SK:Electronics*Operation*Electronic*Warfare* | IQ-5 | SK:Electronics*Repair*Electronic*Warfare-5 | SK:Engineer*Electronics-5 | SK:Electronics*Operation-4]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (Force Shields)",
+    "skill": "['Electronics Operation (Force Shields)' SK:Electronics*Operation*Force*Shields* | IQ-5 | SK:Electronics*Repair*Force*Shields-5 | SK:Engineer*Electronics-5 | SK:Electronics*Operation-4]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (Matter Transmitters)",
+    "skill": "['Electronics Operation (Matter Transmitters)' SK:Electronics*Operation*Matter*Transmitters* | IQ-5 | SK:Electronics*Repair*Matter*Transmitters-5 | SK:Engineer*Electronics-5 | SK:Electronics*Operation-4]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (Media)",
+    "skill": "['Electronics Operation (Media)' SK:Electronics*Operation*Media* | IQ-5 | SK:Electronics*Repair*Media-5 | SK:Engineer*Electronics-5 | SK:Electronics*Operation-4]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (Medical)",
+    "skill": "['Electronics Operation (Medical)' SK:Electronics*Operation*Medical* | IQ-5 | SK:Electronics*Repair*Medical-5 | SK:Engineer*Electronics-5 | SK:Electronics*Operation-4]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (Parachronic)",
+    "skill": "['Electronics Operation (Parachronic)' SK:Electronics*Operation*Parachronic* | IQ-5 | SK:Electronics*Repair*Parachronic-5 | SK:Engineer*Electronics-5 | SK:Electronics*Operation-4]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (Psychotronics)",
+    "skill": "['Electronics Operation (Psychotronics)' SK:Electronics*Operation*Psychotronics* | IQ-5 | SK:Electronics*Repair*Psychotronics-5 | SK:Engineer*Electronics-5 | SK:Electronics*Operation-4]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (Scientific)",
+    "skill": "['Electronics Operation (Scientific)' SK:Electronics*Operation*Scientific* | IQ-5 | SK:Electronics*Repair*Scientific-5 | SK:Engineer*Electronics-5 | SK:Electronics*Operation-4]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (Security)",
+    "skill": "['Electronics Operation (Security)' SK:Electronics*Operation*Security* | IQ-5 | SK:Electronics*Operation*Security-5 | SK:Engineer*Electronics-5 | SK:Electronics*Operation-4]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (Sensors)",
+    "skill": "['Electronics Operation (Sensors)' SK:Electronics*Operation*Sensors* | IQ-5 | SK:Electronics*Repair*Sensors-5 | SK:Engineer*Electronics-5 | SK:Electronics*Operation-4]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (Sonar)",
+    "skill": "['Electronics Operation (Sonar)' SK:Electronics*Operation*Sonar* | IQ-5 | SK:Electronics*Repair*Sonar-5 | SK:Engineer*Electronics-5 | SK:Electronics*Operation-4]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (Surveillance)",
+    "skill": "['Electronics Operation (Surveillance)' SK:Electronics*Operation*Surveillance* | IQ-5 | SK:Electronics*Repair*Surveillance-5 | SK:Engineer*Electronics-5 | SK:Electronics*Operation-4]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Operation (Temporal)",
+    "skill": "['Electronics Operation (Temporal)' SK:Electronics*Operation*Temporal* | IQ-5 | SK:Electronics*Repair*Temporal-5 | SK:Engineer*Electronics-5 | SK:Electronics*Operation-4]",
+    "page": "[PDF:B189]"
+  },
+  {
+    "name": "Electronics Repair (@Electronics type@)",
+    "skill": "['Electronics Repair (@Electronics type@)' SK:Electronics*Repair*@Electronics*type@* | IQ-5 | SK:Electronics*Operation*Communications-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Communications)",
+    "skill": "['Electronics Repair (Communications)' SK:Electronics*Repair*Communications* | IQ-5 | SK:Electronics*Operation*Communications-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Computer)",
+    "skill": "['Electronics Repair (Computer)' SK:Electronics*Repair*Computer* | IQ-5 | SK:Computer*Operation-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Electronic Warfare)",
+    "skill": "['Electronics Repair (Electronic Warfare)' SK:Electronics*Repair*Electronic*Warfare* | IQ-5 | SK:Electronics*Operation*Electronic*Warfare-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Force Shields)",
+    "skill": "['Electronics Repair (Force Shields)' SK:Electronics*Repair*Force*Shields* | IQ-5 | SK:Electronics*Operation*Force*Shields-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Matter Transmitters)",
+    "skill": "['Electronics Repair (Matter Transmitters)' SK:Electronics*Repair*Matter*Transmitters* | IQ-5 | SK:Electronics*Operation*Matter*Transmitters-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Media)",
+    "skill": "['Electronics Repair (Media)' SK:Electronics*Repair*Media* | IQ-5 | SK:Electronics*Operation*Media-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Medical)",
+    "skill": "['Electronics Repair (Medical)' SK:Electronics*Repair*Medical* | IQ-5 | SK:Electronics*Operation*Medical-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Parachronic)",
+    "skill": "['Electronics Repair (Parachronic)' SK:Electronics*Repair*Parachronic* | IQ-5 | SK:Electronics*Operation*Parachronic-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Psychotronics)",
+    "skill": "['Electronics Repair (Psychotronics)' SK:Electronics*Repair*Psychotronics* | IQ-5 | SK:Electronics*Operation*Psychotronics-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Scientific)",
+    "skill": "['Electronics Repair (Scientific)' SK:Electronics*Repair*Scientific* | IQ-5 | SK:Electronics*Operation*Scientific-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Security)",
+    "skill": "['Electronics Repair (Security)' SK:Electronics*Repair*Security* | IQ-5 | SK:Electronics*Operation*Security-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Sensors)",
+    "skill": "['Electronics Repair (Sensors)' SK:Electronics*Repair*Sensors* | IQ-5 | SK:Electronics*Operation*Sensors-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Sonar)",
+    "skill": "['Electronics Repair (Sonar)' SK:Electronics*Repair*Sonar* | IQ-5 | SK:Electronics*Operation*Sonar-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Surveillance)",
+    "skill": "['Electronics Repair (Surveillance)' SK:Electronics*Repair*Surveillance* | IQ-5 | SK:Electronics*Operation*Surveillance-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Electronics Repair (Temporal)",
+    "skill": "['Electronics Repair (Temporal)' SK:Electronics*Repair*Temporal* | IQ-5 | SK:Electronics*Operation*Temporal-3 | SK:Engineer*Electronics-3 | SK:Electronics*Repair-4]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (@Field of expertise@)",
+    "skill": "['Engineer (@Field of expertise@)' SK:Engineer*@Field*of*expertise@* | SK:Armoury*Heavy*Weapons-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Artillery)",
+    "skill": "['Engineer (Artillery)' SK:Engineer*Artillery* | SK:Armoury*Heavy*Weapons-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Automobile)",
+    "skill": "['Engineer (Automobile)' SK:Engineer*Automobile* | SK:Mechanic*Automobile-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Civil)",
+    "skill": "['Engineer (Civil)' SK:Engineer*Civil* | SK:Architecture-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Clockwork)",
+    "skill": "['Engineer (Clockwork)' SK:Engineer*Clockwork* | SK:Mechanic*Clockwork-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Combat)",
+    "skill": "['Engineer (Combat)' SK:Engineer*Combat* | SK:Explosives*Demolition-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Electrical)",
+    "skill": "['Engineer (Electrical)' SK:Engineer*Electrical* | SK:Electrician-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Electronics)",
+    "skill": "['Engineer (Electronics)' SK:Engineer*Electronics* | SK:Electronics*Repair-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Materials)",
+    "skill": "['Engineer (Materials)' SK:Engineer*Materials* | SK:Chemistry-6 | SK:Metallurgy-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Microtechnology)",
+    "skill": "['Engineer (Microtechnology)' SK:Engineer*Microtechnology* | SK:Mechanic*Micromachines-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Mining)",
+    "skill": "['Engineer (Mining)' SK:Engineer*Mining* | SK:Explosives*Demolition-6 | SK:Geology-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Nanotechnology)",
+    "skill": "['Engineer (Nanotechnology)' SK:Engineer*Nanotechnology* | SK:Mechanic*Nanomachines-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Parachronic)",
+    "skill": "['Engineer (Parachronic)' SK:Engineer*Parachronic* | SK:Electronics*Operation*Parachronic-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Psychotronics)",
+    "skill": "['Engineer (Psychotronics)' SK:Engineer*Psychotronics* | SK:Electronics*Operation*Psychotronics-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Robotics)",
+    "skill": "['Engineer (Robotics)' SK:Engineer*Robotics* | SK:Mechanic*Robotics-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Ships)",
+    "skill": "['Engineer (Ships)' SK:Engineer*Ships* | SK:Mechanic*Ships-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Small Arms)",
+    "skill": "['Engineer (Small Arms)' SK:Engineer*Small*Arms* | SK:Armoury*Small*Arms-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Starships)",
+    "skill": "['Engineer (Starships)' SK:Engineer*Starships* | SK:Mechanic*Starships-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Engineer (Temporal)",
+    "skill": "['Engineer (Temporal)' SK:Engineer*Temporal* | SK:Electronics*Operation*Temporal-6]",
+    "page": "[PDF:B190]"
+  },
+  {
+    "name": "Enthrallment",
+    "skill": "['Enthrallment' SK:Enthrallment*]",
+    "page": "[PDF:B191]"
+  },
+  {
+    "name": "Environment Suit",
+    "skill": "['Environment Suit' SK:Environment*Suit* | DX-5]",
+    "page": "[PDF:B192]"
+  },
+  {
+    "name": "Erotic Art",
+    "skill": "['Erotic Art' SK:Erotic*Art* | DX-5 | SK:Acrobatics-5]",
+    "page": "[PDF:B192]"
+  },
+  {
+    "name": "Escape",
+    "skill": "['Escape' SK:Escape* | DX-6]",
+    "page": "[PDF:B192]"
+  },
+  {
+    "name": "Esoteric Medicine",
+    "skill": "['Esoteric Medicine' SK:Esoteric*Medicine* | Per-6]",
+    "page": "[PDF:B192]"
+  },
+  {
+    "name": "Exorcism",
+    "skill": "['Exorcism' SK:Exorcism* | Will-6 | SK:Religious*Ritual-3 | SK:Ritual*Magic-3 | SK:Theology-3]",
+    "page": "[PDF:B193]"
+  },
+  {
+    "name": "Expert Skill (Computer Security)",
+    "skill": "['Expert Skill (Computer Security)' SK:Expert*Skill*Computer*Security*]",
+    "page": "[PDF:B193]"
+  },
+  {
+    "name": "Expert Skill (Conspiracy Theory)",
+    "skill": "['Expert Skill (Conspiracy Theory)' SK:Expert*Skill*Conspiracy*Theory*]",
+    "page": "[PDF:B193]"
+  },
+  {
+    "name": "Expert Skill (Egyptology)",
+    "skill": "['Expert Skill (Egyptology)' SK:Expert*Skill*Egyptology*]",
+    "page": "[PDF:B193]"
+  },
+  {
+    "name": "Expert Skill (Epidemiology)",
+    "skill": "['Expert Skill (Epidemiology)' SK:Expert*Skill*Epidemiology*]",
+    "page": "[PDF:B193]"
+  },
+  {
+    "name": "Expert Skill (Hydrology)",
+    "skill": "['Expert Skill (Hydrology)' SK:Expert*Skill*Hydrology*]",
+    "page": "[PDF:B193]"
+  },
+  {
+    "name": "Expert Skill (Military Science)",
+    "skill": "['Expert Skill (Military Science)' SK:Expert*Skill*Military*Science*]",
+    "page": "[PDF:B193]"
+  },
+  {
+    "name": "Expert Skill (Natural Philosophy)",
+    "skill": "['Expert Skill (Natural Philosophy)' SK:Expert*Skill*Natural*Philosophy*]",
+    "page": "[PDF:B193]"
+  },
+  {
+    "name": "Expert Skill (Political Science)",
+    "skill": "['Expert Skill (Political Science)' SK:Expert*Skill*Political*Science*]",
+    "page": "[PDF:B193]"
+  },
+  {
+    "name": "Expert Skill (Psionics)",
+    "skill": "['Expert Skill (Psionics)' SK:Expert*Skill*Psionics*]",
+    "page": "[PDF:B193]"
+  },
+  {
+    "name": "Expert Skill (Thanatology)",
+    "skill": "['Expert Skill (Thanatology)' SK:Expert*Skill*Thanatology*]",
+    "page": "[PDF:B193]"
+  },
+  {
+    "name": "Expert Skill (Xenology)",
+    "skill": "['Expert Skill (Xenology)' SK:Expert*Skill*Xenology*]",
+    "page": "[PDF:B193]"
+  },
+  {
+    "name": "Explosives",
+    "skill": "['Explosives' SK:Explosives* | IQ-5 | SK:Engineer*Combat-3 | SK:Engineer*Mining-3 | SK:Explosives*Underwater*Demolition-2 | SK:Explosives-4]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Explosives (Demolition)",
+    "skill": "['Explosives (Demolition)' SK:Explosives*Demolition* | IQ-5 | SK:Engineer*Combat-3 | SK:Engineer*Mining-3 | SK:Explosives*Underwater*Demolition-2 | SK:Explosives-4]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Explosives (Explosive Ordnance Disposal)",
+    "skill": "['Explosives (Explosive Ordnance Disposal)' SK:Explosives*Explosive*Ordnance*Disposal* | IQ-5 | SK:Explosives*Nuclear*Ordnance*Disposal-2 | SK:Explosives-4]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Explosives (Fireworks)",
+    "skill": "['Explosives (Fireworks)' SK:Explosives*Fireworks* | IQ-5 | SK:Chemistry-3 | SK:Explosives-4]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Explosives (Nuclear Ordnance Disposal)",
+    "skill": "['Explosives (Nuclear Ordnance Disposal)' SK:Explosives*Nuclear*Ordnance*Disposal* | IQ-5 | SK:Explosives*Explosive*Ordnance*Disposal-2 | SK:Explosives-4]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Explosives (Underwater Demolition)",
+    "skill": "['Explosives (Underwater Demolition)' SK:Explosives*Underwater*Demolition* | IQ-5 | SK:Explosives*Demolition-2 | SK:Explosives-4]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Falconry",
+    "skill": "['Falconry' SK:Falconry* | IQ-5 | SK:Animal*Handling*Raptors-3]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Farming",
+    "skill": "['Farming' SK:Farming* | IQ-5 | SK:Biology-5 | SK:Gardening-3]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Fast-Draw",
+    "skill": "['Fast-Draw' SK:Fast-Draw*]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Fast-Draw (Arrow)",
+    "skill": "['Fast-Draw (Arrow)' SK:Fast-Draw*Arrow*]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Fast-Draw (Force Sword)",
+    "skill": "['Fast-Draw (Force Sword)' SK:Fast-Draw*Force*Sword*]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Fast-Draw (Knife)",
+    "skill": "['Fast-Draw (Knife)' SK:Fast-Draw*Knife*]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Fast-Draw (Long Arm)",
+    "skill": "['Fast-Draw (Long Arm)' SK:Fast-Draw*Long*Arm*]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Fast-Draw (Pistol)",
+    "skill": "['Fast-Draw (Pistol)' SK:Fast-Draw*Pistol*]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Fast-Draw (Sword)",
+    "skill": "['Fast-Draw (Sword)' SK:Fast-Draw*Sword*]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Fast-Draw (Two-Handed Sword)",
+    "skill": "['Fast-Draw (Two-Handed Sword)' SK:Fast-Draw*Two-Handed*Sword*]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Fast-Draw (Ammo)",
+    "skill": "['Fast-Draw (Ammo)' SK:Fast-Draw*Ammo*]",
+    "page": "[PDF:B194]"
+  },
+  {
+    "name": "Fast-Talk",
+    "skill": "['Fast-Talk' SK:Fast-Talk* | IQ-5 | SK:Acting-5]",
+    "page": "[PDF:B195]"
+  },
+  {
+    "name": "Filch",
+    "skill": "['Filch' SK:Filch* | DX-5 | SK:Pickpocket-4 | SK:Sleight*of*Hand-4]",
+    "page": "[PDF:B195]"
+  },
+  {
+    "name": "Finance",
+    "skill": "['Finance' SK:Finance* | SK:Accounting-4 | SK:Economics-3 | SK:Merchant-6]",
+    "page": "[PDF:B195]"
+  },
+  {
+    "name": "Fire Eating",
+    "skill": "['Fire Eating' SK:Fire*Eating*]",
+    "page": "[PDF:B195]"
+  },
+  {
+    "name": "First Aid",
+    "skill": "['First Aid' SK:First*Aid* | IQ-4 | SK:Esoteric*Medicine | SK:Physician | SK:Veterinary-4]",
+    "page": "[PDF:B195]"
+  },
+  {
+    "name": "Fishing",
+    "skill": "['Fishing' SK:Fishing* | Per-4]",
+    "page": "[PDF:B195]"
+  },
+  {
+    "name": "Flail",
+    "skill": "['Flail' SK:Flail* | DX-6 | SK:Axe/Mace-4 | SK:Two-Handed*Flail-3]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Flight",
+    "skill": "['Flight' SK:Flight* | HT-5]",
+    "page": "[PDF:B195]"
+  },
+  {
+    "name": "Flying Leap",
+    "skill": "['Flying Leap' SK:Flying*Leap*]",
+    "page": "[PDF:B196]"
+  },
+  {
+    "name": "Force Sword",
+    "skill": "['Force Sword' SK:Force*Sword* | SK:Broadsword-3 | SK:Shortsword-3 | SK:Two-Handed*Sword-3 | SK:Jitte/Sai-3 | SK:Knife-3 | DX-5]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Force Whip",
+    "skill": "['Force Whip' SK:Force*Whip* | DX-5 | SK:Kusari-3 | SK:Monowire*Whip-3 | SK:Whip-3]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Forced Entry",
+    "skill": "['Forced Entry' SK:Forced*Entry*]",
+    "page": "[PDF:B196]"
+  },
+  {
+    "name": "Forensics",
+    "skill": "['Forensics' SK:Forensics* | IQ-6 | SK:Criminology-4]",
+    "page": "[PDF:B196]"
+  },
+  {
+    "name": "Forgery",
+    "skill": "['Forgery' SK:Forgery* | IQ-6 | SK:Counterfeiting-2]",
+    "page": "[PDF:B196]"
+  },
+  {
+    "name": "Fortune-Telling (Astrology)",
+    "skill": "['Fortune-Telling (Astrology)' SK:Fortune-Telling*Astrology* | IQ-5 | SK:Fast-Talk-3 | SK:Occultism-3]",
+    "page": "[PDF:B196]"
+  },
+  {
+    "name": "Fortune-Telling (Augury)",
+    "skill": "['Fortune-Telling (Augury)' SK:Fortune-Telling*Augury* | IQ-5 | SK:Fast-Talk-3 | SK:Occultism-3]",
+    "page": "[PDF:B196]"
+  },
+  {
+    "name": "Fortune-Telling (Crystal Gazing)",
+    "skill": "['Fortune-Telling (Crystal Gazing)' SK:Fortune-Telling*Crystal*Gazing* | IQ-5 | SK:Fast-Talk-3 | SK:Occultism-3]",
+    "page": "[PDF:B196]"
+  },
+  {
+    "name": "Fortune-Telling (Dream Interpretation)",
+    "skill": "['Fortune-Telling (Dream Interpretation)' SK:Fortune-Telling*Dream*Interpretation* | IQ-5 | SK:Fast-Talk-3 | SK:Occultism-3]",
+    "page": "[PDF:B196]"
+  },
+  {
+    "name": "Fortune-Telling (Feng Shui)",
+    "skill": "['Fortune-Telling (Feng Shui)' SK:Fortune-Telling*Feng*Shui* | IQ-5 | SK:Fast-Talk-3 | SK:Occultism-3]",
+    "page": "[PDF:B196]"
+  },
+  {
+    "name": "Fortune-Telling (Palmistry)",
+    "skill": "['Fortune-Telling (Palmistry)' SK:Fortune-Telling*Palmistry* | IQ-5 | SK:Fast-Talk-3 | SK:Occultism-3]",
+    "page": "[PDF:B196]"
+  },
+  {
+    "name": "Fortune-Telling (Tarot)",
+    "skill": "['Fortune-Telling (Tarot)' SK:Fortune-Telling*Tarot* | IQ-5 | SK:Fast-Talk-3 | SK:Occultism-3]",
+    "page": "[PDF:B196]"
+  },
+  {
+    "name": "Forward Observer",
+    "skill": "['Forward Observer' SK:Forward*Observer* | IQ-5 | SK:Artillery-5]",
+    "page": "[PDF:B196]"
+  },
+  {
+    "name": "Free Fall",
+    "skill": "['Free Fall' SK:Free*Fall* | HT-5 | DX-5]",
+    "page": "[PDF:B197]"
+  },
+  {
+    "name": "Freight Handling",
+    "skill": "['Freight Handling' SK:Freight*Handling* | IQ-5]",
+    "page": "[PDF:B197]"
+  },
+  {
+    "name": "Gambling",
+    "skill": "['Gambling' SK:Gambling* | IQ-5 | SK:Mathematics*Statistics-5]",
+    "page": "[PDF:B197]"
+  },
+  {
+    "name": "Games",
+    "skill": "['Games' SK:Games* | IQ-4]",
+    "page": "[PDF:B197]"
+  },
+  {
+    "name": "Gardening",
+    "skill": "['Gardening' SK:Gardening* | IQ-4 | SK:Farming-3]",
+    "page": "[PDF:B197]"
+  },
+  {
+    "name": "Garrote",
+    "skill": "['Garrote' SK:Garrote* | DX-4]",
+    "page": "[PDF:B197]"
+  },
+  {
+    "name": "Geography (Physical, @Planet class@)",
+    "skill": "['Geography (Physical, @Planet class@)' SK:Geography*Physical*@Planet*class@* | IQ-5 | SK:Geology*Earthlike-4 | SK:Meteorology*Earthlike-4 | SK:Geography-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geography (Physical, Earthlike)",
+    "skill": "['Geography (Physical, Earthlike)' SK:Geography*Physical*Earthlike* | IQ-5 | SK:Geology*Earthlike-4 | SK:Meteorology*Earthlike-4 | SK:Geography-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geography (Physical, Gas Giants)",
+    "skill": "['Geography (Physical, Gas Giants)' SK:Geography*Physical*Gas*Giants* | IQ-6 | SK:Geology*Gas*Giants-4 | SK:Meteorology*Gas*Giants-4 | SK:Geography-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geography (Physical, Hostile Terrestrial)",
+    "skill": "['Geography (Physical, Hostile Terrestrial)' SK:Geography*Physical*Hostile*Terrestrial* | IQ-6 | SK:Geology*Hostile*Terrestrial-4 | SK:Meteorology*Hostile*Terrestrial-4 | SK:Geography-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geography (Physical, Ice Dwarfs)",
+    "skill": "['Geography (Physical, Ice Dwarfs)' SK:Geography*Physical*Ice*Dwarfs* | IQ-6 | SK:Geology*Ice*Dwarfs-4 | SK:Meteorology*Ice*Dwarfs-4 | SK:Geography-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geography (Physical, Ice Worlds)",
+    "skill": "['Geography (Physical, Ice Worlds)' SK:Geography*Physical*Ice*Worlds* | IQ-6 | SK:Geology*Ice*Worlds-4 | SK:Meteorology*Ice*Worlds-4 | SK:Geography-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geography (Physical, Rock Worlds)",
+    "skill": "['Geography (Physical, Rock Worlds)' SK:Geography*Physical*Rock*Worlds* | IQ-6 | SK:Geology*Rock*Worlds-4 | SK:Meteorology*Rock*Worlds-4 | SK:Geography-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geography (Political)",
+    "skill": "['Geography (Political)' SK:Geography*Political* | IQ-6 | SK:Economics-4 | SK:Geography-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geography (Regional)",
+    "skill": "['Geography (Regional)' SK:Geography*Regional* | IQ-6 | SK:Area*Knowledge-6 | SK:Geography-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geology (@Planet class@)",
+    "skill": "['Geology (@Planet class@)' SK:Geology*@Planet*class@* | IQ-6 | SK:Geography*Physical*Earthlike-4 | SK:Prospecting-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geology (Earthlike)",
+    "skill": "['Geology (Earthlike)' SK:Geology*Earthlike* | IQ-6 | SK:Geography*Physical*Earthlike-4 | SK:Prospecting-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geology (Gas Giants)",
+    "skill": "['Geology (Gas Giants)' SK:Geology*Gas*Giants* | IQ-6 | SK:Geography*Physical*Gas*Giants-4 | SK:Prospecting-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geology (Hostile Terrestrial)",
+    "skill": "['Geology (Hostile Terrestrial)' SK:Geology*Hostile*Terrestrial* | IQ-6 | SK:Geography*Physical*Hostile*Terrestrial-4 | SK:Prospecting-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geology (Ice Dwarfs)",
+    "skill": "['Geology (Ice Dwarfs)' SK:Geology*Ice*Dwarfs* | IQ-6 | SK:Geography*Physical*Ice*Dwarfs-4 | SK:Prospecting-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geology (Ice Worlds)",
+    "skill": "['Geology (Ice Worlds)' SK:Geology*Ice*Worlds* | IQ-6 | SK:Geography*Physical*Ice*Worlds-4 | SK:Prospecting-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Geology (Rock Worlds)",
+    "skill": "['Geology (Rock Worlds)' SK:Geology*Rock*Worlds* | IQ-6 | SK:Geography*Physical*Rock*Worlds-4 | SK:Prospecting-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Gesture",
+    "skill": "['Gesture' SK:Gesture* | IQ-4]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Group Performance (@Art@)",
+    "skill": "['Group Performance (@Art@)' SK:Group*Performance*@Art@* | IQ-5 | SK:Dancing-2]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Group Performance (Choreography)",
+    "skill": "['Group Performance (Choreography)' SK:Group*Performance*Choreography* | IQ-5 | SK:Dancing-2]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Group Performance (Conducting)",
+    "skill": "['Group Performance (Conducting)' SK:Group*Performance*Conducting* | IQ-5 | SK:Musical*Instrument-2 | SK:Singing-3]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Group Performance (Directing)",
+    "skill": "['Group Performance (Directing)' SK:Group*Performance*Directing* | IQ-5 | SK:Performance-5]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Group Performance (Fight Choreography)",
+    "skill": "['Group Performance (Fight Choreography)' SK:Group*Performance*Fight*Choreography* | IQ-5 | SK:Stage*Combat-2]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Gunner (@Gun class@)",
+    "skill": "['Gunner (@Gun class@)' SK:Gunner*@Gun*class@* | DX-4 | SK:Gunner-4]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Gunner (Beams)",
+    "skill": "['Gunner (Beams)' SK:Gunner*Beams* | DX-4 | SK:Gunner-4]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Gunner (Cannon)",
+    "skill": "['Gunner (Cannon)' SK:Gunner*Cannon* | DX-4 | SK:Gunner-4]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Gunner (Catapult)",
+    "skill": "['Gunner (Catapult)' SK:Gunner*Catapult* | DX-4 | SK:Gunner-4]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Gunner (Machine Gun)",
+    "skill": "['Gunner (Machine Gun)' SK:Gunner*Machine*Gun* | DX-4 | SK:Gunner-4]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Gunner (Rockets)",
+    "skill": "['Gunner (Rockets)' SK:Gunner*Rockets* | DX-4 | SK:Gunner-4]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Guns (@Gun class@)",
+    "skill": "['Guns (@Gun class@)' SK:Guns*@Gun*class@* | DX-4 | SK:Guns-4]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Guns (Grenade Launcher)",
+    "skill": "['Guns (Grenade Launcher)' SK:Guns*Grenade*Launcher* | DX-4 | SK:Guns-4]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Guns (Gyroc)",
+    "skill": "['Guns (Gyroc)' SK:Guns*Gyroc* | DX-4 | SK:Guns-4]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Guns (Light Anti-Armor Weapon)",
+    "skill": "['Guns (Light Anti-Armor Weapon)' SK:Guns*Light*Anti-Armor*Weapon* | DX-4 | SK:Guns-4]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Guns (Light Machine Gun)",
+    "skill": "['Guns (Light Machine Gun)' SK:Guns*Light*Machine*Gun* | DX-4 | SK:Guns*Grenade*Launcher-4 | SK:Guns*Gyroc-4 | SK:Guns*Light*Anti-Armor*Weapon-4 | SK:Guns*Musket-2 | SK:Guns*Pistol-2 | SK:Guns*Rifle-2 | SK:Guns*Shotgun-2 | SK:Guns*Submachine*Gun-2]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Guns (Musket)",
+    "skill": "['Guns (Musket)' SK:Guns*Musket* | DX-4 | SK:Guns*Grenade*Launcher-4 | SK:Guns*Gyroc-4 | SK:Guns*Light*Anti-Armor*Weapon-4 | SK:Guns*Light*Machine*Gun-2 | SK:Guns*Pistol-2 | SK:Guns*Rifle-2 | SK:Guns*Shotgun-2 | SK:Guns*Submachine*Gun-2]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Guns (Pistol)",
+    "skill": "['Guns (Pistol)' SK:Guns*Pistol* | DX-4 | SK:Guns*Grenade*Launcher-4 | SK:Guns*Gyroc-4 | SK:Guns*Light*Anti-Armor*Weapon-4 | SK:Guns*Light*Machine*Gun-2 | SK:Guns*Musket-2 | SK:Beam*Weapons*Pistol-4 | SK:Guns*Rifle-2 | SK:Guns*Shotgun-2 | SK:Guns*Submachine*Gun-2]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Guns (Rifle)",
+    "skill": "['Guns (Rifle)' SK:Guns*Rifle* | DX-4 | SK:Guns*Grenade*Launcher-4 | SK:Guns*Gyroc-4 | SK:Guns*Light*Anti-Armor*Weapon-4 | SK:Guns*Light*Machine*Gun-2 | SK:Guns*Musket-2 | SK:Guns*Pistol-2 | SK:Beam*Weapons*Rifle-4 | SK:Guns*Shotgun-2 | SK:Guns*Submachine*Gun-2]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Guns (Shotgun)",
+    "skill": "['Guns (Shotgun)' SK:Guns*Shotgun* | DX-4 | SK:Guns*Grenade*Launcher-4 | SK:Guns*Gyroc-4 | SK:Guns*Light*Anti-Armor*Weapon-4 | SK:Guns*Light*Machine*Gun-2 | SK:Guns*Musket-2 | SK:Guns*Pistol-2 | SK:Guns*Rifle-2 | SK:Guns*Submachine*Gun-2]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Guns (Submachine Gun)",
+    "skill": "['Guns (Submachine Gun)' SK:Guns*Submachine*Gun* | DX-4 | SK:Guns*Grenade*Launcher-4 | SK:Guns*Gyroc-4 | SK:Guns*Light*Anti-Armor*Weapon-4 | SK:Guns*Light*Machine*Gun-2 | SK:Guns*Musket-2 | SK:Guns*Pistol-2 | SK:Guns*Rifle-2 | SK:Guns*Shotgun-2]",
+    "page": "[PDF:B198]"
+  },
+  {
+    "name": "Hazardous Materials",
+    "skill": "['Hazardous Materials' SK:Hazardous*Materials* | IQ-5]",
+    "page": "[PDF:B199]"
+  },
+  {
+    "name": "Hazardous Materials (Biological)",
+    "skill": "['Hazardous Materials (Biological)' SK:Hazardous*Materials*Biological* | IQ-5]",
+    "page": "[PDF:B199]"
+  },
+  {
+    "name": "Hazardous Materials (Chemical)",
+    "skill": "['Hazardous Materials (Chemical)' SK:Hazardous*Materials*Chemical* | IQ-5]",
+    "page": "[PDF:B199]"
+  },
+  {
+    "name": "Hazardous Materials (Magical)",
+    "skill": "['Hazardous Materials (Magical)' SK:Hazardous*Materials*Magical* | IQ-5]",
+    "page": "[PDF:B199]"
+  },
+  {
+    "name": "Hazardous Materials (Nanotech)",
+    "skill": "['Hazardous Materials (Nanotech)' SK:Hazardous*Materials*Nanotech* | IQ-5]",
+    "page": "[PDF:B199]"
+  },
+  {
+    "name": "Hazardous Materials (Nuclear)",
+    "skill": "['Hazardous Materials (Nuclear)' SK:Hazardous*Materials*Nuclear* | IQ-5]",
+    "page": "[PDF:B199]"
+  },
+  {
+    "name": "Heraldry",
+    "skill": "['Heraldry' SK:Heraldry* | IQ-5 | SK:Savoir-Faire*High*Society-3]",
+    "page": "[PDF:B199]"
+  },
+  {
+    "name": "Herb Lore",
+    "skill": "['Herb Lore' SK:Herb*Lore*]",
+    "page": "[PDF:B199]"
+  },
+  {
+    "name": "Hidden Lore (@Subject@)",
+    "skill": "['Hidden Lore (@Subject@)' SK:Hidden*Lore*@Subject@*]",
+    "page": "[PDF:B199]"
+  },
+  {
+    "name": "Hidden Lore (Conspiracies)",
+    "skill": "['Hidden Lore (Conspiracies)' SK:Hidden*Lore*Conspiracies*]",
+    "page": "[PDF:B199]"
+  },
+  {
+    "name": "Hidden Lore (Demon Lore)",
+    "skill": "['Hidden Lore (Demon Lore)' SK:Hidden*Lore*Demon*Lore*]",
+    "page": "[PDF:B199]"
+  },
+  {
+    "name": "Hidden Lore (Earth)",
+    "skill": "['Hidden Lore (Earth)' SK:Hidden*Lore*Earth*]",
+    "page": "[PDF:B199]"
+  },
+  {
+    "name": "Hidden Lore (Faerie Lore)",
+    "skill": "['Hidden Lore (Faerie Lore)' SK:Hidden*Lore*Faerie*Lore*]",
+    "page": "[PDF:B199]"
+  },
+  {
+    "name": "Hidden Lore (Spirit Lore)",
+    "skill": "['Hidden Lore (Spirit Lore)' SK:Hidden*Lore*Spirit*Lore*]",
+    "page": "[PDF:B199]"
+  },
+  {
+    "name": "Hiking",
+    "skill": "['Hiking' SK:Hiking* | HT-5]",
+    "page": "[PDF:B200]"
+  },
+  {
+    "name": "History",
+    "skill": "['History' SK:History* | IQ-6]",
+    "page": "[PDF:B200]"
+  },
+  {
+    "name": "Hobby Skill (@Mental Hobby@)",
+    "skill": "['Hobby Skill (@Mental Hobby@)' SK:Hobby*Skill*@Mental*Hobby@* | IQ-4]",
+    "page": "[PDF:B200]"
+  },
+  {
+    "name": "Hobby Skill (@Physical Hobby@)",
+    "skill": "['Hobby Skill (@Physical Hobby@)' SK:Hobby*Skill*@Physical*Hobby@* | DX-4]",
+    "page": "[PDF:B200]"
+  },
+  {
+    "name": "Holdout",
+    "skill": "['Holdout' SK:Holdout* | IQ-5 | SK:Sleight*of*Hand-3]",
+    "page": "[PDF:B200]"
+  },
+  {
+    "name": "Housekeeping",
+    "skill": "['Housekeeping' SK:Housekeeping* | IQ-4]",
+    "page": "[PDF:B200]"
+  },
+  {
+    "name": "Hypnotism",
+    "skill": "['Hypnotism' SK:Hypnotism*]",
+    "page": "[PDF:B201]"
+  },
+  {
+    "name": "Immovable Stance",
+    "skill": "['Immovable Stance' SK:Immovable*Stance*]",
+    "page": "[PDF:B201]"
+  },
+  {
+    "name": "Innate Attack (Beam)",
+    "skill": "['Innate Attack (Beam)' SK:Innate*Attack*Beam* | DX-4 | SK:Innate*Attack-2]",
+    "page": "[PDF:B201]"
+  },
+  {
+    "name": "Innate Attack (Breath)",
+    "skill": "['Innate Attack (Breath)' SK:Innate*Attack*Breath* | DX-4 | SK:Innate*Attack-2]",
+    "page": "[PDF:B201]"
+  },
+  {
+    "name": "Innate Attack (Gaze)",
+    "skill": "['Innate Attack (Gaze)' SK:Innate*Attack*Gaze* | DX-4 | SK:Innate*Attack-2]",
+    "page": "[PDF:B201]"
+  },
+  {
+    "name": "Innate Attack (Projectile)",
+    "skill": "['Innate Attack (Projectile)' SK:Innate*Attack*Projectile* | DX-4 | SK:Innate*Attack-2]",
+    "page": "[PDF:B201]"
+  },
+  {
+    "name": "Intelligence Analysis",
+    "skill": "['Intelligence Analysis' SK:Intelligence*Analysis* | IQ-6 | SK:Strategy-6]",
+    "page": "[PDF:B201]"
+  },
+  {
+    "name": "Interrogation",
+    "skill": "['Interrogation' SK:Interrogation* | IQ-5 | SK:Intimidation-3 | SK:Psychology-4]",
+    "page": "[PDF:B202]"
+  },
+  {
+    "name": "Intimidation",
+    "skill": "['Intimidation' SK:Intimidation* | Will-5 | SK:Acting-3]",
+    "page": "[PDF:B202]"
+  },
+  {
+    "name": "Invisibility Art",
+    "skill": "['Invisibility Art' SK:Invisibility*Art*]",
+    "page": "[PDF:B202]"
+  },
+  {
+    "name": "Jeweler",
+    "skill": "['Jeweler' SK:Jeweler* | IQ-6 | SK:Smith*Copper-4 | SK:Smith*Lead*&*Tin-4]",
+    "page": "[PDF:B203]"
+  },
+  {
+    "name": "Jitte/Sai",
+    "skill": "['Jitte/Sai' SK:Jitte/Sai* | SK:Force*Sword-4 | SK:Main-Gauche-4 | SK:Shortsword-3 | DX-5]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Judo",
+    "skill": "['Judo' SK:Judo*]",
+    "page": "[PDF:B203]"
+  },
+  {
+    "name": "Jumping",
+    "skill": "['Jumping' SK:Jumping*]",
+    "page": "[PDF:B203]"
+  },
+  {
+    "name": "Karate",
+    "skill": "['Karate' SK:Karate*]",
+    "page": "[PDF:B203]"
+  },
+  {
+    "name": "Kiai",
+    "skill": "['Kiai' SK:Kiai*]",
+    "page": "[PDF:B203]"
+  },
+  {
+    "name": "Knife",
+    "skill": "['Knife' SK:Knife* | SK:Force*Sword-3 | SK:Main-Gauche-3 | SK:Shortsword-3 | DX-4]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Knot-Tying",
+    "skill": "['Knot-Tying' SK:Knot-Tying* | DX-4 | SK:Climbing-4 | SK:Seamanship-4]",
+    "page": "[PDF:B203]"
+  },
+  {
+    "name": "Kusari",
+    "skill": "['Kusari' SK:Kusari* | DX-6 | SK:Force*Whip-3 | SK:Monowire*Whip-3 | SK:Whip-3 | SK:Two-Handed*Flail-4]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Lance",
+    "skill": "['Lance' SK:Lance* | DX-5 | SK:Spear-3]",
+    "page": "[PDF:B204]"
+  },
+  {
+    "name": "Lasso",
+    "skill": "['Lasso' SK:Lasso*]",
+    "page": "[PDF:B204]"
+  },
+  {
+    "name": "Law",
+    "skill": "['Law' SK:Law* | IQ-6]",
+    "page": "[PDF:B204]"
+  },
+  {
+    "name": "Leadership",
+    "skill": "['Leadership' SK:Leadership* | IQ-5]",
+    "page": "[PDF:B204]"
+  },
+  {
+    "name": "Leatherworking",
+    "skill": "['Leatherworking' SK:Leatherworking* | DX-4]",
+    "page": "[PDF:B205]"
+  },
+  {
+    "name": "Lifting",
+    "skill": "['Lifting' SK:Lifting*]",
+    "page": "[PDF:B205]"
+  },
+  {
+    "name": "Light Walk",
+    "skill": "['Light Walk' SK:Light*Walk*]",
+    "page": "[PDF:B205]"
+  },
+  {
+    "name": "Linguistics",
+    "skill": "['Linguistics' SK:Linguistics*]",
+    "page": "[PDF:B205]"
+  },
+  {
+    "name": "Lip Reading",
+    "skill": "['Lip Reading' SK:Lip*Reading* | Per-10]",
+    "page": "[PDF:B205]"
+  },
+  {
+    "name": "Liquid Projector (@Weapon class@)",
+    "skill": "['Liquid Projector (@Weapon class@)' SK:Liquid*Projector*@Weapon*class@* | DX-4 | SK:Liquid*Projector-4]",
+    "page": "[PDF:B205]"
+  },
+  {
+    "name": "Liquid Projector (Flamethrower)",
+    "skill": "['Liquid Projector (Flamethrower)' SK:Liquid*Projector*Flamethrower* | DX-4 | SK:Liquid*Projector-4]",
+    "page": "[PDF:B205]"
+  },
+  {
+    "name": "Liquid Projector (Sprayer)",
+    "skill": "['Liquid Projector (Sprayer)' SK:Liquid*Projector*Sprayer* | DX-4 | SK:Liquid*Projector-4]",
+    "page": "[PDF:B205]"
+  },
+  {
+    "name": "Liquid Projector (Squirt Gun)",
+    "skill": "['Liquid Projector (Squirt Gun)' SK:Liquid*Projector*Squirt*Gun* | DX-4 | SK:Liquid*Projector-4]",
+    "page": "[PDF:B205]"
+  },
+  {
+    "name": "Liquid Projector (Water Cannon)",
+    "skill": "['Liquid Projector (Water Cannon)' SK:Liquid*Projector*Water*Cannon* | DX-4 | SK:Liquid*Projector-4]",
+    "page": "[PDF:B205]"
+  },
+  {
+    "name": "Literature",
+    "skill": "['Literature' SK:Literature* | IQ-6]",
+    "page": "[PDF:B205]"
+  },
+  {
+    "name": "Lockpicking",
+    "skill": "['Lockpicking' SK:Lockpicking* | IQ-5]",
+    "page": "[PDF:B206]"
+  },
+  {
+    "name": "Machinist",
+    "skill": "['Machinist' SK:Machinist* | IQ-5 | SK:Mechanic-5]",
+    "page": "[PDF:B206]"
+  },
+  {
+    "name": "Main-Gauche",
+    "skill": "['Main-Gauche' SK:Main-Gauche* | DX-5 | SK:Jitte/Sai-4 | SK:Knife-4 | SK:Rapier-3 | SK:Saber-3 | SK:Smallsword-3]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Makeup",
+    "skill": "['Makeup' SK:Makeup* | IQ-4 | SK:Disguise-2]",
+    "page": "[PDF:B206]"
+  },
+  {
+    "name": "Market Analysis",
+    "skill": "['Market Analysis' SK:Market*Analysis* | IQ-6 | SK:Economics-5 | SK:Merchant-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Masonry",
+    "skill": "['Masonry' SK:Masonry* | IQ-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mathematics",
+    "skill": "['Mathematics' SK:Mathematics* | IQ-6 | SK:Physics-5 | SK:Engineer-5]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mathematics (Applied)",
+    "skill": "['Mathematics (Applied)' SK:Mathematics*Applied* | IQ-6 | SK:Physics-5 | SK:Engineer-5]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mathematics (Computer Science)",
+    "skill": "['Mathematics (Computer Science)' SK:Mathematics*Computer*Science* | IQ-6 | SK:Computer*Programming-5]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mathematics (Cryptology)",
+    "skill": "['Mathematics (Cryptology)' SK:Mathematics*Cryptology* | IQ-6 | SK:Cryptography-5]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mathematics (Pure)",
+    "skill": "['Mathematics (Pure)' SK:Mathematics*Pure* | IQ-6]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mathematics (Pure: @Optional specialty@)",
+    "skill": "['Mathematics (Pure: @Optional specialty@)' SK:Mathematics*Pure:*@Optional*specialty@* | IQ-6]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mathematics (Statistics)",
+    "skill": "['Mathematics (Statistics)' SK:Mathematics*Statistics* | IQ-6]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mathematics (Surveying)",
+    "skill": "['Mathematics (Surveying)' SK:Mathematics*Surveying* | IQ-6 | SK:Cartography-3 | SK:Navigation-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (@Machine class@)",
+    "skill": "['Mechanic (@Machine class@)' SK:Mechanic*@Machine*class@* | IQ-5 | SK:Engineer*@Machine*class@-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Aerospace)",
+    "skill": "['Mechanic (Aerospace)' SK:Mechanic*Aerospace* | IQ-5 | SK:Engineer*Aerospace-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Antimatter Reactor)",
+    "skill": "['Mechanic (Antimatter Reactor)' SK:Mechanic*Antimatter*Reactor* | IQ-5 | SK:Engineer*Antimatter*Reactor-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Autogyro)",
+    "skill": "['Mechanic (Autogyro)' SK:Mechanic*Autogyro* | IQ-5 | SK:Engineer*Autogyro-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Automobile)",
+    "skill": "['Mechanic (Automobile)' SK:Mechanic*Automobile* | IQ-5 | SK:Engineer*Automobile-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Clockwork)",
+    "skill": "['Mechanic (Clockwork)' SK:Mechanic*Clockwork* | IQ-5 | SK:Engineer*Clockwork-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Construction Equipment)",
+    "skill": "['Mechanic (Construction Equipment)' SK:Mechanic*Construction*Equipment* | IQ-5 | SK:Engineer*Construction*Equipment-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Contragravity)",
+    "skill": "['Mechanic (Contragravity)' SK:Mechanic*Contragravity* | IQ-5 | SK:Engineer*Contragravity-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Diesel Engine)",
+    "skill": "['Mechanic (Diesel Engine)' SK:Mechanic*Diesel*Engine* | IQ-5 | SK:Engineer*Diesel*Engine-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Fission Reactor)",
+    "skill": "['Mechanic (Fission Reactor)' SK:Mechanic*Fission*Reactor* | IQ-5 | SK:Engineer*Fission*Reactor-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Flight Pack)",
+    "skill": "['Mechanic (Flight Pack)' SK:Mechanic*Flight*Pack* | IQ-5 | SK:Engineer*Flight*Pack-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Free-Flooding Sub)",
+    "skill": "['Mechanic (Free-Flooding Sub)' SK:Mechanic*Free-Flooding*Sub* | IQ-5 | SK:Engineer*Free-Flooding*Sub-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Fuel Cell)",
+    "skill": "['Mechanic (Fuel Cell)' SK:Mechanic*Fuel*Cell* | IQ-5 | SK:Engineer*Fuel*Cell-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Fusion Reactor)",
+    "skill": "['Mechanic (Fusion Reactor)' SK:Mechanic*Fusion*Reactor* | IQ-5 | SK:Engineer*Fusion*Reactor-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Gas Turbine)",
+    "skill": "['Mechanic (Gas Turbine)' SK:Mechanic*Gas*Turbine* | IQ-5 | SK:Engineer*Gas*Turbine-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Gasoline Engine)",
+    "skill": "['Mechanic (Gasoline Engine)' SK:Mechanic*Gasoline*Engine* | IQ-5 | SK:Engineer*Gasoline*Engine-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Glider)",
+    "skill": "['Mechanic (Glider)' SK:Mechanic*Glider* | IQ-5 | SK:Engineer*Glider-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Halftrack)",
+    "skill": "['Mechanic (Halftrack)' SK:Mechanic*Halftrack* | IQ-5 | SK:Engineer*Halftrack-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Heavy Airplane)",
+    "skill": "['Mechanic (Heavy Airplane)' SK:Mechanic*Heavy*Airplane* | IQ-5 | SK:Engineer*Heavy*Airplane-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Heavy Wheeled)",
+    "skill": "['Mechanic (Heavy Wheeled)' SK:Mechanic*Heavy*Wheeled* | IQ-5 | SK:Engineer*Heavy*Wheeled-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Helicopter)",
+    "skill": "['Mechanic (Helicopter)' SK:Mechanic*Helicopter* | IQ-5 | SK:Engineer*Helicopter-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (High-Performance Airplane)",
+    "skill": "['Mechanic (High-Performance Airplane)' SK:Mechanic*High-Performance*Airplane* | IQ-5 | SK:Engineer*High-Performance*Airplane-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (High-Performance Spacecraft)",
+    "skill": "['Mechanic (High-Performance Spacecraft)' SK:Mechanic*High-Performance*Spacecraft* | IQ-5 | SK:Engineer*High-Performance*Spacecraft-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Hovercraft)",
+    "skill": "['Mechanic (Hovercraft)' SK:Mechanic*Hovercraft* | IQ-5 | SK:Engineer*Hovercraft-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Large Sub)",
+    "skill": "['Mechanic (Large Sub)' SK:Mechanic*Large*Sub* | IQ-5 | SK:Engineer*Large*Sub-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Legged Drive)",
+    "skill": "['Mechanic (Legged Drive)' SK:Mechanic*Legged*Drive* | IQ-5 | SK:Engineer*Legged*Drive-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Light Airplane)",
+    "skill": "['Mechanic (Light Airplane)' SK:Mechanic*Light*Airplane* | IQ-5 | SK:Engineer*Light*Airplane-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Lighter-Than-Air)",
+    "skill": "['Mechanic (Lighter-Than-Air)' SK:Mechanic*Lighter-Than-Air* | IQ-5 | SK:Engineer*Lighter-Than-Air-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Lightsail)",
+    "skill": "['Mechanic (Lightsail)' SK:Mechanic*Lightsail* | IQ-5 | SK:Engineer*Lightsail-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Low-G Wings)",
+    "skill": "['Mechanic (Low-G Wings)' SK:Mechanic*Low-G*Wings* | IQ-5 | SK:Engineer*Low-G*Wings-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Low-Performance Spacecraft)",
+    "skill": "['Mechanic (Low-Performance Spacecraft)' SK:Mechanic*Low-Performance*Spacecraft* | IQ-5 | SK:Engineer*Low-Performance*Spacecraft-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Mecha)",
+    "skill": "['Mechanic (Mecha)' SK:Mechanic*Mecha* | IQ-5 | SK:Engineer*Mecha-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Micromachines)",
+    "skill": "['Mechanic (Micromachines)' SK:Mechanic*Micromachines* | IQ-5 | SK:Engineer*Micromachines-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Mini-Sub)",
+    "skill": "['Mechanic (Mini-Sub)' SK:Mechanic*Mini-Sub* | IQ-5 | SK:Engineer*Mini-Sub-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Motorcycle)",
+    "skill": "['Mechanic (Motorcycle)' SK:Mechanic*Motorcycle* | IQ-5 | SK:Engineer*Motorcycle-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Nanomachines)",
+    "skill": "['Mechanic (Nanomachines)' SK:Mechanic*Nanomachines* | IQ-5 | SK:Engineer*Nanomachines-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Reactionless Thrusters)",
+    "skill": "['Mechanic (Reactionless Thrusters)' SK:Mechanic*Reactionless*Thrusters* | IQ-5 | SK:Engineer*Reactionless*Thrusters-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Robotics)",
+    "skill": "['Mechanic (Robotics)' SK:Mechanic*Robotics* | IQ-5 | SK:Engineer*Robotics-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Rockets)",
+    "skill": "['Mechanic (Rockets)' SK:Mechanic*Rockets* | IQ-5 | SK:Engineer*Rockets-4 | SK:Machinist-5 | SK:Mechanic]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Steam Engine)",
+    "skill": "['Mechanic (Steam Engine)' SK:Mechanic*Steam*Engine* | IQ-5 | SK:Engineer*Steam*Engine-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Tracked Drive)",
+    "skill": "['Mechanic (Tracked Drive)' SK:Mechanic*Tracked*Drive* | IQ-5 | SK:Engineer*Tracked*Drive-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Tracked Vehicle)",
+    "skill": "['Mechanic (Tracked Vehicle)' SK:Mechanic*Tracked*Vehicle* | IQ-5 | SK:Engineer*Tracked*Vehicle-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Ultralight)",
+    "skill": "['Mechanic (Ultralight)' SK:Mechanic*Ultralight* | IQ-5 | SK:Engineer*Ultralight-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Vertol)",
+    "skill": "['Mechanic (Vertol)' SK:Mechanic*Vertol* | IQ-5 | SK:Engineer*Vertol-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mechanic (Wheeled Drive)",
+    "skill": "['Mechanic (Wheeled Drive)' SK:Mechanic*Wheeled*Drive* | IQ-5 | SK:Engineer*Wheeled*Drive-4 | SK:Machinist-5 | SK:Mechanic-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Meditation",
+    "skill": "['Meditation' SK:Meditation* | Will-6 | SK:Autohypnosis-4]",
+    "page": "[PDF:B207]"
+  },
+  {
+    "name": "Mental Strength",
+    "skill": "['Mental Strength' SK:Mental*Strength*]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Merchant",
+    "skill": "['Merchant' SK:Merchant* | IQ-5 | SK:Finance-6 | SK:Market*Analysis-4]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Metallurgy",
+    "skill": "['Metallurgy' SK:Metallurgy* | SK:Chemistry-5 | SK:Jeweler-8 | SK:Smith-8]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Meteorology (@Planet type@)",
+    "skill": "['Meteorology (@Planet type@)' SK:Meteorology*@Planet*type@* | IQ-5]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Meteorology (Earthlike)",
+    "skill": "['Meteorology (Earthlike)' SK:Meteorology*Earthlike* | IQ-5]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Meteorology (Gas Giants)",
+    "skill": "['Meteorology (Gas Giants)' SK:Meteorology*Gas*Giants* | IQ-5]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Meteorology (Hostile Terrestrial)",
+    "skill": "['Meteorology (Hostile Terrestrial)' SK:Meteorology*Hostile*Terrestrial* | IQ-5]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Meteorology (Ice Dwarfs)",
+    "skill": "['Meteorology (Ice Dwarfs)' SK:Meteorology*Ice*Dwarfs* | IQ-5]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Meteorology (Ice Worlds)",
+    "skill": "['Meteorology (Ice Worlds)' SK:Meteorology*Ice*Worlds* | IQ-5]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Meteorology (Rock Worlds)",
+    "skill": "['Meteorology (Rock Worlds)' SK:Meteorology*Rock*Worlds* | IQ-5]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Mimicry (Animal Sounds)",
+    "skill": "['Mimicry (Animal Sounds)' SK:Mimicry*Animal*Sounds* | IQ-6 | SK:Naturalist-6 | SK:Mimicry*Bird*Calls-6]",
+    "page": "[PDF:B210]"
+  },
+  {
+    "name": "Mimicry (Bird Calls)",
+    "skill": "['Mimicry (Bird Calls)' SK:Mimicry*Bird*Calls* | IQ-6 | SK:Naturalist-6 | SK:Mimicry*Animal*Sounds-6]",
+    "page": "[PDF:B210]"
+  },
+  {
+    "name": "Mimicry (Speech)",
+    "skill": "['Mimicry (Speech)' SK:Mimicry*Speech* | IQ-6 | SK:Acting-6 | SK:Linguistics-4]",
+    "page": "[PDF:B210]"
+  },
+  {
+    "name": "Mind Block",
+    "skill": "['Mind Block' SK:Mind*Block* | Will-5 | SK:Meditation-5]",
+    "page": "[PDF:B210]"
+  },
+  {
+    "name": "Monowire Whip",
+    "skill": "['Monowire Whip' SK:Monowire*Whip* | DX-6 | SK:Force*Whip-3 | SK:Kusari-3 | SK:Whip-3]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Mount",
+    "skill": "['Mount' SK:Mount* | DX-5]",
+    "page": "[PDF:B210]"
+  },
+  {
+    "name": "Musical Composition",
+    "skill": "['Musical Composition' SK:Musical*Composition* | SK:Musical*Instrument-2 | SK:Poetry-2]",
+    "page": "[PDF:B210]"
+  },
+  {
+    "name": "Musical Influence",
+    "skill": "['Musical Influence' SK:Musical*Influence*]",
+    "page": "[PDF:B210]"
+  },
+  {
+    "name": "Musical Instrument",
+    "skill": "['Musical Instrument' SK:Musical*Instrument*]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Naturalist (@Planet type@)",
+    "skill": "['Naturalist (@Planet type@)' SK:Naturalist*@Planet*type@* | IQ-6 | SK:Biology-3]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Naturalist (Earthlike)",
+    "skill": "['Naturalist (Earthlike)' SK:Naturalist*Earthlike* | IQ-6 | SK:Biology-3]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Naturalist (Gas Giants)",
+    "skill": "['Naturalist (Gas Giants)' SK:Naturalist*Gas*Giants* | IQ-6 | SK:Biology-3]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Naturalist (Hostile Terrestrial)",
+    "skill": "['Naturalist (Hostile Terrestrial)' SK:Naturalist*Hostile*Terrestrial* | IQ-6 | SK:Biology-3]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Naturalist (Ice Dwarfs)",
+    "skill": "['Naturalist (Ice Dwarfs)' SK:Naturalist*Ice*Dwarfs* | IQ-6 | SK:Biology-3]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Naturalist (Ice Worlds)",
+    "skill": "['Naturalist (Ice Worlds)' SK:Naturalist*Ice*Worlds* | IQ-6 | SK:Biology-3]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Naturalist (Rock Worlds)",
+    "skill": "['Naturalist (Rock Worlds)' SK:Naturalist*Rock*Worlds* | IQ-6 | SK:Biology-3]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Navigation (@Environment@)",
+    "skill": "['Navigation (@Environment@)' SK:Navigation*@Environment@* | SK:Astronomy-5 | SK:Navigation*Land-2 | SK:Navigation*Sea-2]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Navigation (Air)",
+    "skill": "['Navigation (Air)' SK:Navigation*Air* | SK:Astronomy-5 | SK:Navigation*Land-2 | SK:Navigation*Sea-2]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Navigation (Hyperspace)",
+    "skill": "['Navigation (Hyperspace)' SK:Navigation*Hyperspace* | SK:Astronomy-4 | SK:Mathematics*Applied-4 | SK:Navigation*Space-5]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Navigation (Land)",
+    "skill": "['Navigation (Land)' SK:Navigation*Land* | IQ-5 | SK:Cartography-4 | SK:Mathematics*Surveying-4 | SK:Navigation*Air-2 | SK:Navigation*Sea-2 | SK:Navigation*Underground-2]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Navigation (Sea)",
+    "skill": "['Navigation (Sea)' SK:Navigation*Sea* | SK:Astronomy-5 | SK:Seamanship-5 | SK:Navigation*Air-2 | SK:Navigation*Land-2]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Navigation (Space)",
+    "skill": "['Navigation (Space)' SK:Navigation*Space* | SK:Astronomy-4 | SK:Mathematics*Applied-4 | SK:Navigation*Hyperspace-5]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "NBC Suit",
+    "skill": "['NBC Suit' SK:NBC*Suit* | DX-5 | SK:Battlesuit-2 | SK:Diving*Suit-4 | SK:Vacc*Suit-2]",
+    "page": "[PDF:B192]"
+  },
+  {
+    "name": "Net",
+    "skill": "['Net' SK:Net* | SK:Cloak-5]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Observation",
+    "skill": "['Observation' SK:Observation* | Per-5 | SK:Shadowing-5]",
+    "page": "[PDF:B211]"
+  },
+  {
+    "name": "Occultism",
+    "skill": "['Occultism' SK:Occultism* | IQ-5]",
+    "page": "[PDF:B212]"
+  },
+  {
+    "name": "Packing",
+    "skill": "['Packing' SK:Packing* | IQ-5 | SK:Animal*Handling*Equines-5]",
+    "page": "[PDF:B212]"
+  },
+  {
+    "name": "Paleontology",
+    "skill": "['Paleontology' SK:Paleontology* | SK:Biology-4 | SK:Paleontology-2]",
+    "page": "[PDF:B212]"
+  },
+  {
+    "name": "Paleontology (Micropaleontology)",
+    "skill": "['Paleontology (Micropaleontology)' SK:Paleontology*Micropaleontology* | SK:Biology-4 | SK:Paleontology-2]",
+    "page": "[PDF:B212]"
+  },
+  {
+    "name": "Paleontology (Paleoanthropology)",
+    "skill": "['Paleontology (Paleoanthropology)' SK:Paleontology*Paleoanthropology* | SK:Biology-4 | SK:Paleontology-2 | SK:Anthropology-2]",
+    "page": "[PDF:B212]"
+  },
+  {
+    "name": "Paleontology (Paleobotany)",
+    "skill": "['Paleontology (Paleobotany)' SK:Paleontology*Paleobotany* | SK:Biology-4 | SK:Paleontology-2]",
+    "page": "[PDF:B212]"
+  },
+  {
+    "name": "Paleontology (Paleozoology)",
+    "skill": "['Paleontology (Paleozoology)' SK:Paleontology*Paleozoology* | SK:Biology-4 | SK:Paleontology-2]",
+    "page": "[PDF:B212]"
+  },
+  {
+    "name": "Panhandling",
+    "skill": "['Panhandling' SK:Panhandling* | IQ-4 | SK:Fast-Talk-2 | SK:Public*Speaking-3]",
+    "page": "[PDF:B212]"
+  },
+  {
+    "name": "Parachuting",
+    "skill": "['Parachuting' SK:Parachuting* | DX-4]",
+    "page": "[PDF:B212]"
+  },
+  {
+    "name": "Parry Missile-Weapons",
+    "skill": "['Parry Missile-Weapons' SK:Parry*Missile-Weapons*]",
+    "page": "[PDF:B212]"
+  },
+  {
+    "name": "Performance",
+    "skill": "['Performance' SK:Performance* | IQ-5 | SK:Acting-2 | SK:Public*Speaking-2]",
+    "page": "[PDF:B212]"
+  },
+  {
+    "name": "Persuade",
+    "skill": "['Persuade' SK:Persuade*]",
+    "page": "[PDF:B191]"
+  },
+  {
+    "name": "Pharmacy (Herbal)",
+    "skill": "['Pharmacy (Herbal)' SK:Pharmacy*Herbal* | IQ-6 | SK:Biology-5 | SK:Herb*Lore-5 | SK:Naturalist-5]",
+    "page": "[PDF:B213]"
+  },
+  {
+    "name": "Pharmacy (Synthetic)",
+    "skill": "['Pharmacy (Synthetic)' SK:Pharmacy*Synthetic* | IQ-6 | SK:Chemistry-5 | SK:Physician-5]",
+    "page": "[PDF:B213]"
+  },
+  {
+    "name": "Philosophy",
+    "skill": "['Philosophy' SK:Philosophy* | IQ-6]",
+    "page": "[PDF:B213]"
+  },
+  {
+    "name": "Photography",
+    "skill": "['Photography' SK:Photography* | IQ-5 | SK:Electronics*Operation*Media-5]",
+    "page": "[PDF:B213]"
+  },
+  {
+    "name": "Physician",
+    "skill": "['Physician' SK:Physician* | IQ-7 | SK:First*Aid-11 | SK:Veterinary-5]",
+    "page": "[PDF:B213]"
+  },
+  {
+    "name": "Physics",
+    "skill": "['Physics' SK:Physics* | IQ-6]",
+    "page": "[PDF:B213]"
+  },
+  {
+    "name": "Physics (@TL 6+ Optional Specialty@)",
+    "skill": "['Physics (@TL 6+ Optional Specialty@)' SK:Physics*@TL*6+*Optional*Specialty@* | IQ-6]",
+    "page": "[PDF:B213]"
+  },
+  {
+    "name": "Physiology",
+    "skill": "['Physiology' SK:Physiology* | IQ-6 | SK:Diagnosis-5 | SK:Physician-5 | SK:Surgery-5]",
+    "page": "[PDF:B213]"
+  },
+  {
+    "name": "Pickpocket",
+    "skill": "['Pickpocket' SK:Pickpocket* | DX-6 | SK:Filch-5 | SK:Sleight*of*Hand-4]",
+    "page": "[PDF:B213]"
+  },
+  {
+    "name": "Piloting (@Flying vehicle class@)",
+    "skill": "['Piloting (@Flying vehicle class@)' SK:Piloting*@Flying*vehicle*class@* | IQ-6 | SK:Piloting*High-Performance*Airplane-2 | SK:Piloting-4]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (Aerospace)",
+    "skill": "['Piloting (Aerospace)' SK:Piloting*Aerospace* | IQ-6 | SK:Piloting*High-Performance*Airplane-2 | SK:Piloting-4]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (Autogyro)",
+    "skill": "['Piloting (Autogyro)' SK:Piloting*Autogyro* | SK:Piloting*Helicopter-3 | SK:Piloting*Heavy*Airplane-4 | SK:Piloting-5 | IQ-6 | SK:Piloting*Light*Airplane-4 | SK:Piloting*High-Performance*Airplane-4]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (Contragravity)",
+    "skill": "['Piloting (Contragravity)' SK:Piloting*Contragravity* | IQ-6 | SK:Piloting*Vertol-3 | SK:Piloting-5]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (Flight Pack)",
+    "skill": "['Piloting (Flight Pack)' SK:Piloting*Flight*Pack* | IQ-6 | SK:Piloting*Vertol-4 | SK:Piloting-5]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (Glider)",
+    "skill": "['Piloting (Glider)' SK:Piloting*Glider* | IQ-6 | SK:Piloting*Light*Airplane-2 | SK:Piloting*Ultralight-2 | SK:Piloting-4]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (Heavy Airplane)",
+    "skill": "['Piloting (Heavy Airplane)' SK:Piloting*Heavy*Airplane* | IQ-6 | SK:Piloting*High-Performance*Airplane-2 | SK:Piloting*Light*Airplane-2 | SK:Piloting-4]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (Helicopter)",
+    "skill": "['Piloting (Helicopter)' SK:Piloting*Helicopter* | IQ-6 | SK:Piloting*Autogyro-2 | SK:Piloting*Vertol-4 | SK:Piloting-5]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (High-Performance Airplane)",
+    "skill": "['Piloting (High-Performance Airplane)' SK:Piloting*High-Performance*Airplane* | IQ-6 | SK:Piloting*Aerospace-2 | SK:Piloting*Heavy*Airplane-2 | SK:Piloting*Light*Airplane-2 | SK:Piloting-5]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (High-Performance Spacecraft)",
+    "skill": "['Piloting (High-Performance Spacecraft)' SK:Piloting*High-Performance*Spacecraft* | IQ-6 | SK:Piloting*Aerospace-4 | SK:Piloting*Low-Performance*Spacecraft-2]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (Light Airplane)",
+    "skill": "['Piloting (Light Airplane)' SK:Piloting*Light*Airplane* | IQ-6 | SK:Piloting*Glider-2 | SK:Piloting*Heavy*Airplane-2 | SK:Piloting*High-Performance*Airplane-2 | SK:Piloting-4 | SK:Piloting*Ultralight-2]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (Lighter-Than-Air)",
+    "skill": "['Piloting (Lighter-Than-Air)' SK:Piloting*Lighter-Than-Air* | IQ-6 | SK:Piloting-5]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (Lightsail)",
+    "skill": "['Piloting (Lightsail)' SK:Piloting*Lightsail* | IQ-6 | SK:Piloting*Low-Performance*Spacecraft-4]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (Low-G Wings)",
+    "skill": "['Piloting (Low-G Wings)' SK:Piloting*Low-G*Wings* | IQ-6 | SK:Piloting*Glider-4]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (Low-Performance Spacecraft)",
+    "skill": "['Piloting (Low-Performance Spacecraft)' SK:Piloting*Low-Performance*Spacecraft* | IQ-6 | SK:Piloting*Aerospace-4 | SK:Piloting*High-Performance*Spacecraft-2]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (Ultralight)",
+    "skill": "['Piloting (Ultralight)' SK:Piloting*Ultralight* | IQ-6 | SK:Piloting*Gilder-2 | SK:Piloting*Light*Airplane-2 | SK:Piloting*Heavy*Airplane-4 | SK:Piloting-5 | SK:Piloting*High-Performance*Airplane-4]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Piloting (Vertol)",
+    "skill": "['Piloting (Vertol)' SK:Piloting*Vertol* | IQ-6 | SK:Piloting*Contragravity-3 | SK:Piloting*Helicopter-4 | SK:Piloting-5]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Poetry",
+    "skill": "['Poetry' SK:Poetry* | IQ-5 | SK:Writing-5]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Poisons",
+    "skill": "['Poisons' SK:Poisons* | IQ-6 | SK:Chemistry-5 | SK:Pharmacy-3 | SK:Physician-3]",
+    "page": "[PDF:B214]"
+  },
+  {
+    "name": "Polearm",
+    "skill": "['Polearm' SK:Polearm* | DX-5 | SK:Spear-4 | SK:Staff-4 | SK:Two-Handed*Axe/Mace-4]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Politics",
+    "skill": "['Politics' SK:Politics* | IQ-5 | SK:Diplomacy-5]",
+    "page": "[PDF:B215]"
+  },
+  {
+    "name": "Power Blow",
+    "skill": "['Power Blow' SK:Power*Blow*]",
+    "page": "[PDF:B215]"
+  },
+  {
+    "name": "Pressure Points",
+    "skill": "['Pressure Points' SK:Pressure*Points*]",
+    "page": "[PDF:B215]"
+  },
+  {
+    "name": "Pressure Secrets",
+    "skill": "['Pressure Secrets' SK:Pressure*Secrets*]",
+    "page": "[PDF:B215]"
+  },
+  {
+    "name": "Professional Skill (@Mental Skill@)",
+    "skill": "['Professional Skill (@Mental Skill@)' SK:Professional*Skill*@Mental*Skill@* | IQ-5]",
+    "page": "[PDF:B215]"
+  },
+  {
+    "name": "Professional Skill (@Physical Skill@)",
+    "skill": "['Professional Skill (@Physical Skill@)' SK:Professional*Skill*@Physical*Skill@* | DX-5]",
+    "page": "[PDF:B215]"
+  },
+  {
+    "name": "Propaganda",
+    "skill": "['Propaganda' SK:Propaganda* | IQ-5 | SK:Merchant-5 | SK:Psychology-4]",
+    "page": "[PDF:B216]"
+  },
+  {
+    "name": "Prospecting",
+    "skill": "['Prospecting' SK:Prospecting* | IQ-5 | SK:Geology-4]",
+    "page": "[PDF:B216]"
+  },
+  {
+    "name": "Psychology",
+    "skill": "['Psychology' SK:Psychology* | IQ-6 | SK:Sociology-4]",
+    "page": "[PDF:B216]"
+  },
+  {
+    "name": "Public Speaking",
+    "skill": "['Public Speaking' SK:Public*Speaking* | IQ-5 | SK:Acting-5 | SK:Performance-2 | SK:Politics-5]",
+    "page": "[PDF:B216]"
+  },
+  {
+    "name": "Push",
+    "skill": "['Push' SK:Push*]",
+    "page": "[PDF:B216]"
+  },
+  {
+    "name": "Rapier",
+    "skill": "['Rapier' SK:Rapier* | DX-5 | SK:Broadsword-4 | SK:Main-Gauche-3 | SK:Saber-3 | SK:Smallsword-3]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Religious Ritual",
+    "skill": "['Religious Ritual' SK:Religious*Ritual* | SK:Ritual*Magic-6 | SK:Theology-4]",
+    "page": "[PDF:B217]"
+  },
+  {
+    "name": "Research",
+    "skill": "['Research' SK:Research* | IQ-5 | SK:Writing-3]",
+    "page": "[PDF:B217]"
+  },
+  {
+    "name": "Riding",
+    "skill": "['Riding' SK:Riding* | DX-5 | SK:Animal*Handling-3]",
+    "page": "[PDF:B217]"
+  },
+  {
+    "name": "Riding (Camel)",
+    "skill": "['Riding (Camel)' SK:Riding*Camel* | DX-5 | SK:Animal*Handling*Camel-3]",
+    "page": "[PDF:B217]"
+  },
+  {
+    "name": "Riding (Dolphin)",
+    "skill": "['Riding (Dolphin)' SK:Riding*Dolphin* | DX-5 | SK:Animal*Handling*Dolphin-3]",
+    "page": "[PDF:B217]"
+  },
+  {
+    "name": "Riding (Dragon)",
+    "skill": "['Riding (Dragon)' SK:Riding*Dragon* | DX-5 | SK:Animal*Handling*Dragon-3]",
+    "page": "[PDF:B217]"
+  },
+  {
+    "name": "Riding (Equines)",
+    "skill": "['Riding (Equines)' SK:Riding*Equines* | DX-5 | SK:Animal*Handling*Equines-3]",
+    "page": "[PDF:B217]"
+  },
+  {
+    "name": "Ritual Magic",
+    "skill": "['Ritual Magic' SK:Ritual*Magic* | SK:Ritual*Magic-6]",
+    "page": "[PDF:B218]"
+  },
+  {
+    "name": "Running",
+    "skill": "['Running' SK:Running* | HT-5]",
+    "page": "[PDF:B218]"
+  },
+  {
+    "name": "Saber",
+    "skill": "['Saber' SK:Saber* | DX-5 | SK:Broadsword-4 | SK:Shortsword-4 | SK:Main-Gauche-3 | SK:Rapier-3 | SK:Smallsword-3]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Savoir-Faire (@Social group@)",
+    "skill": "['Savoir-Faire (@Social group@)' SK:Savoir-Faire*@Social*group@* | IQ-4 | SK:Games-3]",
+    "page": "[PDF:B218]"
+  },
+  {
+    "name": "Savoir-Faire (Dojo)",
+    "skill": "['Savoir-Faire (Dojo)' SK:Savoir-Faire*Dojo* | IQ-4 | SK:Games-3]",
+    "page": "[PDF:B218]"
+  },
+  {
+    "name": "Savoir-Faire (High Society)",
+    "skill": "['Savoir-Faire (High Society)' SK:Savoir-Faire*High*Society* | IQ-4 | SK:Savoir-Faire*Servant-2]",
+    "page": "[PDF:B218]"
+  },
+  {
+    "name": "Savoir-Faire (Mafia)",
+    "skill": "['Savoir-Faire (Mafia)' SK:Savoir-Faire*Mafia* | IQ-4 | SK:Streetwise-3]",
+    "page": "[PDF:B218]"
+  },
+  {
+    "name": "Savoir-Faire (Military)",
+    "skill": "['Savoir-Faire (Military)' SK:Savoir-Faire*Military* | IQ-4]",
+    "page": "[PDF:B218]"
+  },
+  {
+    "name": "Savoir-Faire (Police)",
+    "skill": "['Savoir-Faire (Police)' SK:Savoir-Faire*Police* | IQ-4]",
+    "page": "[PDF:B218]"
+  },
+  {
+    "name": "Savoir-Faire (Servant)",
+    "skill": "['Savoir-Faire (Servant)' SK:Savoir-Faire*Servant* | IQ-4 | SK:Savoir-Faire*High*Society-2]",
+    "page": "[PDF:B218]"
+  },
+  {
+    "name": "Scrounging",
+    "skill": "['Scrounging' SK:Scrounging* | Per-4]",
+    "page": "[PDF:B218]"
+  },
+  {
+    "name": "Scuba",
+    "skill": "['Scuba' SK:Scuba* | IQ-5 | SK:Diving*Suit-2]",
+    "page": "[PDF:B219]"
+  },
+  {
+    "name": "Seamanship",
+    "skill": "['Seamanship' SK:Seamanship* | IQ-4]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Search",
+    "skill": "['Search' SK:Search* | Per-5 | SK:Criminology-5]",
+    "page": "[PDF:B219]"
+  },
+  {
+    "name": "Sewing",
+    "skill": "['Sewing' SK:Sewing* | DX-4]",
+    "page": "[PDF:B219]"
+  },
+  {
+    "name": "Sex Appeal",
+    "skill": "['Sex Appeal' SK:Sex*Appeal* | HT-3]",
+    "page": "[PDF:B219]"
+  },
+  {
+    "name": "Shadowing",
+    "skill": "['Shadowing' SK:Shadowing* | IQ-5 | SK:Observation-5 | SK:Stealth-4]",
+    "page": "[PDF:B219]"
+  },
+  {
+    "name": "Shield (Buckler)",
+    "skill": "['Shield (Buckler)' SK:Shield*Buckler* | DX-4 | SK:Shield*Force-2]",
+    "page": "[PDF:B220]"
+  },
+  {
+    "name": "Shield (Force Shield)",
+    "skill": "['Shield (Force Shield)' SK:Shield*Force*Shield* | DX-4 | SK:Shield*Buckler-2]",
+    "page": "[PDF:B220]"
+  },
+  {
+    "name": "Shield (Shield)",
+    "skill": "['Shield (Shield)' SK:Shield*Shield* | DX-4]",
+    "page": "[PDF:B220]"
+  },
+  {
+    "name": "Shiphandling (@Ship class@)",
+    "skill": "['Shiphandling (@Ship class@)' SK:Shiphandling*@Ship*class@* | IQ-6 | SK:Airshipman-5 | SK:Piloting*Lighter-Than-Air-5]",
+    "page": "[PDF:B220]"
+  },
+  {
+    "name": "Shiphandling (Airship)",
+    "skill": "['Shiphandling (Airship)' SK:Shiphandling*Airship* | IQ-6 | SK:Airshipman-5 | SK:Piloting*Lighter-Than-Air-5]",
+    "page": "[PDF:B220]"
+  },
+  {
+    "name": "Shiphandling (Ship)",
+    "skill": "['Shiphandling (Ship)' SK:Shiphandling*Ship* | IQ-6 | SK:Seamanship-5 | SK:Boating*Large*Powerboat-5 | SK:Boating*Sailboat-5]",
+    "page": "[PDF:B220]"
+  },
+  {
+    "name": "Shiphandling (Spaceship)",
+    "skill": "['Shiphandling (Spaceship)' SK:Shiphandling*Spaceship* | IQ-6 | SK:Spacer-5 | SK:Piloting*Low-Performance*Spacecraft-5 | SK:Piloting*High-Performance*Spacecraft-5]",
+    "page": "[PDF:B220]"
+  },
+  {
+    "name": "Shiphandling (Starship)",
+    "skill": "['Shiphandling (Starship)' SK:Shiphandling*Starship* | IQ-6 | SK:Spacer-5 | SK:Piloting*Low-Performance*Spacecraft-5 | SK:Piloting*High-Performance*Spacecraft-5]",
+    "page": "[PDF:B220]"
+  },
+  {
+    "name": "Shiphandling (Submarine)",
+    "skill": "['Shiphandling (Submarine)' SK:Shiphandling*Submarine* | IQ-6 | SK:Submariner-5 | SK:Submarine*Large*Sub-5]",
+    "page": "[PDF:B220]"
+  },
+  {
+    "name": "Shortsword",
+    "skill": "['Shortsword' SK:Shortsword* | SK:Broadsword-2 | SK:Force*Sword-4 | SK:Jitte/Sai-3 | SK:Knife-4 | SK:Saber-4 | SK:Smallsword-4 | SK:Tonfa-3 | DX-5]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Singing",
+    "skill": "['Singing' SK:Singing* | HT-4]",
+    "page": "[PDF:B220]"
+  },
+  {
+    "name": "Skating",
+    "skill": "['Skating' SK:Skating* | HT-6]",
+    "page": "[PDF:B220]"
+  },
+  {
+    "name": "Skiing",
+    "skill": "['Skiing' SK:Skiing* | HT-6]",
+    "page": "[PDF:B221]"
+  },
+  {
+    "name": "Sleight of Hand",
+    "skill": "['Sleight of Hand' SK:Sleight*of*Hand* | SK:Filch-5]",
+    "page": "[PDF:B221]"
+  },
+  {
+    "name": "Sling",
+    "skill": "['Sling' SK:Sling* | DX-6]",
+    "page": "[PDF:B221]"
+  },
+  {
+    "name": "Smallsword",
+    "skill": "['Smallsword' SK:Smallsword* | DX-5 | SK:Shortsword-4 | SK:Main-Gauche-3 | SK:Rapier-3 | SK:Saber-3]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Smith (Copper)",
+    "skill": "['Smith (Copper)' SK:Smith*Copper* | IQ-6 | SK:Jeweler-4 | SK:Smith-4]",
+    "page": "[PDF:B221]"
+  },
+  {
+    "name": "Smith (Iron)",
+    "skill": "['Smith (Iron)' SK:Smith*Iron* | IQ-5 | SK:Smith-4]",
+    "page": "[PDF:B221]"
+  },
+  {
+    "name": "Smith (Lead & Tin)",
+    "skill": "['Smith (Lead & Tin)' SK:Smith*Lead*&*Tin* | IQ-5 | SK:Jeweler-4 | SK:Smith-4]",
+    "page": "[PDF:B221]"
+  },
+  {
+    "name": "Smuggling",
+    "skill": "['Smuggling' SK:Smuggling* | IQ-5]",
+    "page": "[PDF:B221]"
+  },
+  {
+    "name": "Sociology",
+    "skill": "['Sociology' SK:Sociology* | IQ-6 | SK:Anthropology-3 | SK:Psychology-4]",
+    "page": "[PDF:B221]"
+  },
+  {
+    "name": "Soldier",
+    "skill": "['Soldier' SK:Soldier* | IQ-5]",
+    "page": "[PDF:B221]"
+  },
+  {
+    "name": "Spacer",
+    "skill": "['Spacer' SK:Spacer* | IQ-4]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Spear",
+    "skill": "['Spear' SK:Spear* | DX-5 | SK:Polearm-4 | SK:Staff-2]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Spear Thrower",
+    "skill": "['Spear Thrower' SK:Spear*Thrower* | DX-5 | SK:Thrown*Weapon*Spear-4]",
+    "page": "[PDF:B222]"
+  },
+  {
+    "name": "Speed-Reading",
+    "skill": "['Speed-Reading' SK:Speed-Reading*]",
+    "page": "[PDF:B222]"
+  },
+  {
+    "name": "Sports",
+    "skill": "['Sports' SK:Sports* | DX-5]",
+    "page": "[PDF:B222]"
+  },
+  {
+    "name": "Staff",
+    "skill": "['Staff' SK:Staff* | DX-5 | SK:Polearm-4 | SK:Spear-2]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Stage Combat",
+    "skill": "['Stage Combat' SK:Stage*Combat* | SK:Performance-3]",
+    "page": "[PDF:B222]"
+  },
+  {
+    "name": "Stealth",
+    "skill": "['Stealth' SK:Stealth* | IQ-5 | DX-5]",
+    "page": "[PDF:B222]"
+  },
+  {
+    "name": "Strategy (Air)",
+    "skill": "['Strategy (Air)' SK:Strategy*Air* | IQ-6 | SK:Intelligence*Analysis-6 | SK:Tactics-6 | SK:Strategy-4]",
+    "page": "[PDF:B222]"
+  },
+  {
+    "name": "Strategy (Land)",
+    "skill": "['Strategy (Land)' SK:Strategy*Land* | IQ-6 | SK:Intelligence*Analysis-6 | SK:Tactics-6 | SK:Strategy-4]",
+    "page": "[PDF:B222]"
+  },
+  {
+    "name": "Strategy (Naval)",
+    "skill": "['Strategy (Naval)' SK:Strategy*Naval* | IQ-6 | SK:Intelligence*Analysis-6 | SK:Tactics-6 | SK:Strategy-4]",
+    "page": "[PDF:B222]"
+  },
+  {
+    "name": "Strategy (Space)",
+    "skill": "['Strategy (Space)' SK:Strategy*Space* | IQ-6 | SK:Intelligence*Analysis-6 | SK:Tactics-6 | SK:Strategy-4]",
+    "page": "[PDF:B222]"
+  },
+  {
+    "name": "Streetwise",
+    "skill": "['Streetwise' SK:Streetwise* | IQ-5]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Submarine (Free-Flooding Sub)",
+    "skill": "['Submarine (Free-Flooding Sub)' SK:Submarine*Free-Flooding*Sub* | IQ-6 | SK:Submarine*Large*Sub-5 | SK:Submarine*Mini-Sub-4]",
+    "page": "[PDF:B222]"
+  },
+  {
+    "name": "Submarine (Large Sub)",
+    "skill": "['Submarine (Large Sub)' SK:Submarine*Large*Sub* | IQ-6 | SK:Submarine*Free-Flooding*Sub-5 | SK:Submarine*Mini-Sub-4]",
+    "page": "[PDF:B222]"
+  },
+  {
+    "name": "Submarine (Mini-Sub)",
+    "skill": "['Submarine (Mini-Sub)' SK:Submarine*Mini-Sub* | IQ-6 | SK:Submarine-4]",
+    "page": "[PDF:B222]"
+  },
+  {
+    "name": "Submariner",
+    "skill": "['Submariner' SK:Submariner* | IQ-4]",
+    "page": "[PDF:B185]"
+  },
+  {
+    "name": "Suggest",
+    "skill": "['Suggest' SK:Suggest*]",
+    "page": "[PDF:B191]"
+  },
+  {
+    "name": "Sumo Wrestling",
+    "skill": "['Sumo Wrestling' SK:Sumo*Wrestling*]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Surgery",
+    "skill": "['Surgery' SK:Surgery* | SK:First*Aid-12 | SK:Physician-5 | SK:Physiology-8 | SK:Veterinary-5]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (@Any Aquatic@)",
+    "skill": "['Survival (@Any Aquatic@)' SK:Survival*@Any*Aquatic@* | Per-5 | SK:Naturalist-3 | SK:Survival*Bank-4 | SK:Survival*Deep*Ocean*Vent-4 | SK:Survival*Fresh-Water*Lake-4 | SK:Survival*Open*Ocean-4 | SK:Survival*Reef-4 | SK:Survival*River/Stream-4 | SK:Survival*Salt-Water*Sea-4 | SK:Survival*Tropical*Lagoon-4]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (@Any Environment@)",
+    "skill": "['Survival (@Any Environment@)' SK:Survival*@Any*Environment@* | Per-5 | SK:Naturalist-3]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (@Any Land@)",
+    "skill": "['Survival (@Any Land@)' SK:Survival*@Any*Land@* | Per-5 | SK:Naturalist-3 | SK:Survival*Arctic-3 | SK:Survival*Desert-3 | SK:Survival*Island/Beach-3 | SK:Survival*Jungle-3 | SK:Survival*Mountain-3 | SK:Survival*Plains-3 | SK:Survival*Swamplands-3 | SK:Survival*Woodlands-3]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Arctic)",
+    "skill": "['Survival (Arctic)' SK:Survival*Arctic* | Per-5 | SK:Naturalist-3 | SK:Survival*Desert-3 | SK:Survival*Island/Beach-3 | SK:Survival*Jungle-3 | SK:Survival*Mountain-3 | SK:Survival*Plains-3 | SK:Survival*Swamplands-3 | SK:Survival*Woodlands-3]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Bank)",
+    "skill": "['Survival (Bank)' SK:Survival*Bank* | Per-5 | SK:Naturalist-3 | SK:Survival*Deep*Ocean*Vent-4 | SK:Survival*Fresh-Water*Lake-4 | SK:Survival*Open*Ocean-4 | SK:Survival*Reef-4 | SK:Survival*River/Stream-4 | SK:Survival*Salt-Water*Sea-4 | SK:Survival*Tropical*Lagoon-4]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Deep Ocean Vent)",
+    "skill": "['Survival (Deep Ocean Vent)' SK:Survival*Deep*Ocean*Vent* | Per-5 | SK:Naturalist-3 | SK:Survival*Bank-4 | SK:Survival*Fresh-Water*Lake-4 | SK:Survival*Open*Ocean-4 | SK:Survival*Reef-4 | SK:Survival*River/Stream-4 | SK:Survival*Salt-Water*Sea-4 | SK:Survival*Tropical*Lagoon-4]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Desert)",
+    "skill": "['Survival (Desert)' SK:Survival*Desert* | Per-5 | SK:Naturalist-3 | SK:Survival*Arctic-3 | SK:Survival*Island/Beach-3 | SK:Survival*Jungle-3 | SK:Survival*Mountain-3 | SK:Survival*Plains-3 | SK:Survival*Swampland-3 | SK:Survival*Woodlands-3]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Fresh-Water Lake)",
+    "skill": "['Survival (Fresh-Water Lake)' SK:Survival*Fresh-Water*Lake* | Per-5 | SK:Naturalist-3 | SK:Survival*Bank-4 | SK:Survival*Deep*Ocean*Vent-4 | SK:Survival*Open*Ocean-4 | SK:Survival*Reef-4 | SK:Survival*River/Stream-4 | SK:Survival*Salt-Water*Sea-4 | SK:Survival*Tropical*Lagoon-4]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Island/Beach)",
+    "skill": "['Survival (Island/Beach)' SK:Survival*Island/Beach* | Per-5 | SK:Naturalist-3 | SK:Survival*Tropical*Lagoon-4 | SK:Survival*Arctic-3 | SK:Survival*Desert-3 | SK:Survival*Jungle-3 | SK:Survival*Mountain-3 | SK:Survival*Plains-3 | SK:Survival*Swampland-3 | SK:Survival*Woodlands-3]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Jungle)",
+    "skill": "['Survival (Jungle)' SK:Survival*Jungle* | Per-5 | SK:Naturalist-3 | SK:Survival*Arctic-3 | SK:Survival*Desert-3 | SK:Survival*Mountain-3 | SK:Survival*Plains-3 | SK:Survival*Swampland-3 | SK:Survival*Island/Beach-3 | SK:Survival*Woodlands-3]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Mountain)",
+    "skill": "['Survival (Mountain)' SK:Survival*Mountain* | Per-5 | SK:Naturalist-3 | SK:Survival*Arctic-3 | SK:Survival*Desert-3 | SK:Survival*Island/Beach-3 | SK:Survival*Jungle-3 | SK:Survival*Plains-3 | SK:Survival*Swampland-3 | SK:Survival*Woodlands-3]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Open Ocean)",
+    "skill": "['Survival (Open Ocean)' SK:Survival*Open*Ocean* | Per-5 | SK:Naturalist-3 | SK:Survival*Bank-4 | SK:Survival*Deep*Ocean*Vent-4 | SK:Survival*Fresh-Water*Lake-4 | SK:Survival*Reef-4 | SK:Survival*River/Stream-4 | SK:Survival*Salt-Water*Sea-4 | SK:Survival*Tropical*Lagoon-4]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Plains)",
+    "skill": "['Survival (Plains)' SK:Survival*Plains* | Per-5 | SK:Naturalist-3 | SK:Survival*Arctic-3 | SK:Survival*Desert-3 | SK:Survival*Island/Beach-3 | SK:Survival*Jungle-3 | SK:Survival*Mountain-3 | SK:Survival*Swampland-3 | SK:Survival*Woodlands-3]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Reef)",
+    "skill": "['Survival (Reef)' SK:Survival*Reef* | Per-5 | SK:Naturalist-3 | SK:Survival*Bank-4 | SK:Survival*Deep*Ocean*Vent-4 | SK:Survival*Fresh-Water*Lake-4 | SK:Survival*Open*Ocean-4 | SK:Survival*River/Stream-4 | SK:Survival*Salt-Water*Sea-4 | SK:Survival*Tropical*Lagoon-4]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (River/Stream)",
+    "skill": "['Survival (River/Stream)' SK:Survival*River/Stream* | Per-5 | SK:Naturalist-3 | SK:Survival*Swampland-4 | SK:Survival*Bank-4 | SK:Survival*Deep*Ocean*Vent-4 | SK:Survival*Fresh-Water*Lake-4 | SK:Survival*Open*Ocean-4 | SK:Survival*Reef-4 | SK:Survival*Salt-Water*Sea-4 | SK:Survival*Tropical*Lagoon-4]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Salt-Water Sea)",
+    "skill": "['Survival (Salt-Water Sea)' SK:Survival*Salt-Water*Sea* | Per-5 | SK:Naturalist-3 | SK:Survival*Bank-4 | SK:Survival*Deep*Ocean*Vent-4 | SK:Survival*Fresh-Water*Lake-4 | SK:Survival*Open*Ocean-4 | SK:Survival*Reef-4 | SK:Survival*River/Stream-4 | SK:Survival*Tropical*Lagoon-4]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Swampland)",
+    "skill": "['Survival (Swampland)' SK:Survival*Swampland* | Per-6 | SK:Naturalist-3 | SK:Survival*River/Stream-4 | SK:Survival*Arctic-3 | SK:Survival*Desert-3 | SK:Survival*Jungle-3 | SK:Survival*Mountain-3 | SK:Survival*Plains-3 | SK:Survival*Island/Beach-3 | SK:Survival*Woodlands-3]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Tropical Lagoon)",
+    "skill": "['Survival (Tropical Lagoon)' SK:Survival*Tropical*Lagoon* | Per-5 | SK:Naturalist-3 | SK:Survival*Island/Beach-4 | SK:Survival*Bank-4 | SK:Survival*Deep*Ocean*Vent-4 | SK:Survival*Fresh-Water*Lake-4 | SK:Survival*Open*Ocean-4 | SK:Survival*Reef-4 | SK:Survival*Salt-Water*Sea-4 | SK:Survival*River/Stream-4]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Survival (Woodlands)",
+    "skill": "['Survival (Woodlands)' SK:Survival*Woodlands* | Per-5 | SK:Naturalist-3 | SK:Survival*Arctic-3 | SK:Survival*Desert-3 | SK:Survival*Island/Beach-3 | SK:Survival*Jungle-3 | SK:Survival*Mountain-3 | SK:Survival*Plains-3 | SK:Survival*Swampland-3]",
+    "page": "[PDF:B223]"
+  },
+  {
+    "name": "Sway Emotions",
+    "skill": "['Sway Emotions' SK:Sway*Emotions*]",
+    "page": "[PDF:B192]"
+  },
+  {
+    "name": "Swimming",
+    "skill": "['Swimming' SK:Swimming* | HT-4]",
+    "page": "[PDF:B224]"
+  },
+  {
+    "name": "Symbol Drawing",
+    "skill": "['Symbol Drawing' SK:Symbol*Drawing*]",
+    "page": "[PDF:B224]"
+  },
+  {
+    "name": "Tactics",
+    "skill": "['Tactics' SK:Tactics* | IQ-6 | SK:Strategy-6]",
+    "page": "[PDF:B224]"
+  },
+  {
+    "name": "Teaching",
+    "skill": "['Teaching' SK:Teaching* | IQ-5]",
+    "page": "[PDF:B224]"
+  },
+  {
+    "name": "Teamster",
+    "skill": "['Teamster' SK:Teamster* | IQ-5 | SK:Animal*Handling-4 | SK:Riding-2 | SK:Teamster-3]",
+    "page": "[PDF:B225]"
+  },
+  {
+    "name": "Teamster (Equines)",
+    "skill": "['Teamster (Equines)' SK:Teamster*Equines* | IQ-5 | SK:Animal*Handling*Equines-4 | SK:Riding*Equines-2]",
+    "page": "[PDF:B225]"
+  },
+  {
+    "name": "Thaumatology",
+    "skill": "['Thaumatology' SK:Thaumatology* | IQ-7]",
+    "page": "[PDF:B225]"
+  },
+  {
+    "name": "Theology",
+    "skill": "['Theology' SK:Theology* | IQ-6 | SK:Religious*Ritual-4]",
+    "page": "[PDF:B226]"
+  },
+  {
+    "name": "Throwing",
+    "skill": "['Throwing' SK:Throwing* | DX-3 | SK:Dropping-4]",
+    "page": "[PDF:B226]"
+  },
+  {
+    "name": "Throwing Art",
+    "skill": "['Throwing Art' SK:Throwing*Art*]",
+    "page": "[PDF:B226]"
+  },
+  {
+    "name": "Thrown Weapon",
+    "skill": "['Thrown Weapon' SK:Thrown*Weapon* | DX-4]",
+    "page": "[PDF:B226]"
+  },
+  {
+    "name": "Thrown Weapon (Axe/Mace)",
+    "skill": "['Thrown Weapon (Axe/Mace)' SK:Thrown*Weapon*Axe/Mace* | DX-4]",
+    "page": "[PDF:B226]"
+  },
+  {
+    "name": "Thrown Weapon (Dart)",
+    "skill": "['Thrown Weapon (Dart)' SK:Thrown*Weapon*Dart* | DX-4 | SK:Throwing-2]",
+    "page": "[PDF:B226]"
+  },
+  {
+    "name": "Thrown Weapon (Harpoon)",
+    "skill": "['Thrown Weapon (Harpoon)' SK:Thrown*Weapon*Harpoon* | DX-4 | SK:Thrown*Weapon*Spear-2]",
+    "page": "[PDF:B226]"
+  },
+  {
+    "name": "Thrown Weapon (Knife)",
+    "skill": "['Thrown Weapon (Knife)' SK:Thrown*Weapon*Knife* | DX-4]",
+    "page": "[PDF:B226]"
+  },
+  {
+    "name": "Thrown Weapon (Shuriken)",
+    "skill": "['Thrown Weapon (Shuriken)' SK:Thrown*Weapon*Shuriken* | DX-4 | SK:Throwing-2]",
+    "page": "[PDF:B226]"
+  },
+  {
+    "name": "Thrown Weapon (Spear)",
+    "skill": "['Thrown Weapon (Spear)' SK:Thrown*Weapon*Spear* | DX-4 | SK:Spear*Thrower-4 | SK:Thrown*Weapon*Harpoon-2]",
+    "page": "[PDF:B226]"
+  },
+  {
+    "name": "Thrown Weapon (Stick)",
+    "skill": "['Thrown Weapon (Stick)' SK:Thrown*Weapon*Stick* | DX-4]",
+    "page": "[PDF:B226]"
+  },
+  {
+    "name": "Tonfa",
+    "skill": "['Tonfa' SK:Tonfa* | DX-5 | SK:Shortsword-3]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Tracking",
+    "skill": "['Tracking' SK:Tracking* | Per-5 | SK:Naturalist-5]",
+    "page": "[PDF:B226]"
+  },
+  {
+    "name": "Traps",
+    "skill": "['Traps' SK:Traps* | IQ-5 | SK:Lockpicking-3]",
+    "page": "[PDF:B226]"
+  },
+  {
+    "name": "Two-Handed Axe/Mace",
+    "skill": "['Two-Handed Axe/Mace' SK:Two-Handed*Axe/Mace* | DX-5 | SK:Axe/Mace-3 | SK:Polearm-4 | SK:Two-Handed*Flail-4]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Two-Handed Flail",
+    "skill": "['Two-Handed Flail' SK:Two-Handed*Flail* | DX-6 | SK:Flail-3 | SK:Kusari-4 | SK:Two-Handed*Axe/Mace-4]",
+    "page": "[PDF:B208]"
+  },
+  {
+    "name": "Two-Handed Sword",
+    "skill": "['Two-Handed Sword' SK:Two-Handed*Sword* | SK:Broadsword-4 | SK:Force*Sword-4 | DX-5]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Typing",
+    "skill": "['Typing' SK:Typing* | DX-4]",
+    "page": "[PDF:B228]"
+  },
+  {
+    "name": "Urban Survival",
+    "skill": "['Urban Survival' SK:Urban*Survival* | Per-5]",
+    "page": "[PDF:B228]"
+  },
+  {
+    "name": "Vacc Suit",
+    "skill": "['Vacc Suit' SK:Vacc*Suit* | DX-5 | SK:Diving*Suit-4 | SK:NBC*Suit-2 | SK:Battlesuit-2]",
+    "page": "[PDF:B192]"
+  },
+  {
+    "name": "Ventriloquism",
+    "skill": "['Ventriloquism' SK:Ventriloquism*]",
+    "page": "[PDF:B228]"
+  },
+  {
+    "name": "Veterinary",
+    "skill": "['Veterinary' SK:Veterinary* | SK:Animal*Handling-6 | SK:Physician-5 | SK:Surgery-5]",
+    "page": "[PDF:B228]"
+  },
+  {
+    "name": "Weather Sense",
+    "skill": "['Weather Sense' SK:Weather*Sense* | IQ-5]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Weird Science",
+    "skill": "['Weird Science' SK:Weird*Science*]",
+    "page": "[PDF:B228]"
+  },
+  {
+    "name": "Whip",
+    "skill": "['Whip' SK:Whip* | DX-5 | SK:Force*Whip-3 | SK:Kusari-3 | SK:Monowire*Whip-3]",
+    "page": "[PDF:B209]"
+  },
+  {
+    "name": "Wrestling",
+    "skill": "['Wrestling' SK:Wrestling*]",
+    "page": "[PDF:B228]"
+  },
+  {
+    "name": "Writing",
+    "skill": "['Writing' SK:Writing* | IQ-5]",
+    "page": "[PDF:B228]"
+  },
+  {
+    "name": "Zen Archery",
+    "skill": "['Zen Archery' SK:Zen*Archery*]",
+    "page": "[PDF:B228]"
+  }
+]

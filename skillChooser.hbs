@@ -1,0 +1,22 @@
+{{!-- 
+  GURPS Instant Defaults - Skill Chooser Application Template
+  Modern skill chooser interface using Application v2
+  
+  @author Boifubá
+  @version 0.5.8
+--}}
+
+<div class="skill-chooser">
+  <div class="search-section">
+    <input type="text" id="skill-filter" class="search-input" placeholder="Filter skills..." autocomplete="off"/>
+    <div class="skill-count"><span id="skill-count">{{skills.length}}</span> skills found</div>
+  </div>
+  <div class="display-toggle-section">
+    <button id="toggle-name" class="toggle-btn active" type="button">Show Name</button>
+    <button id="toggle-otf" class="toggle-btn" type="button">Show OTF</button>
+  </div>
+  <div id="skills-result" class="skills-list"></div>
+  <div class="help-text">
+    <p><i class="fas fa-info-circle"></i> Click on a skill to add it to your character sheet. Click the star to favorite/unfavorite.</p>
+  </div>
+</div>

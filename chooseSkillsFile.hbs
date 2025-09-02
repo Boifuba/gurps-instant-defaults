@@ -10,10 +10,10 @@
   {{!-- Main file selection section --}}
   <div class="form-group">
     <label class="form-label">
-      {{localize "gurps-instant-defaults.dialog.fileChooser.title"}}
+      Select Skill File
     </label>
     <p class="notes">
-      {{localize "gurps-instant-defaults.dialog.fileChooser.description"}}
+      Choose a .skl file to import skills from. This file should contain a JSON array of skill objects.
     </p>
     {{{inputElement}}}
   </div>
@@ -21,12 +21,12 @@
   {{!-- Help section with requirements --}}
   <div class="help-section">
     <div class="help-header">
-      {{localize "gurps-instant-defaults.dialog.fileChooser.requirements"}}
+      File Requirements:
     </div>
     <ul class="help-list">
-      <li>{{localize "gurps-instant-defaults.dialog.fileChooser.req1"}}</li>
-      <li>{{localize "gurps-instant-defaults.dialog.fileChooser.req2"}}</li>
-      <li>{{localize "gurps-instant-defaults.dialog.fileChooser.req3"}}</li>
+      <li>Must be a .skl file.</li>
+      <li>Must be a valid JSON file.</li>
+      <li>Must contain a 'rows' array with skill data.</li>
     </ul>
   </div>
 </div>

@@ -1,3 +1,6 @@
+[![Donate](https://img.shields.io/badge/Donate-Sponsor%20on%20GitHub-black?logo=github)](https://github.com/sponsors/Boifuba)
+
+@ -1,123 +0,0 @@
 # GURPS Instant Defaults
 
 A modern skill chooser and defaults system for GURPS in Foundry VTT. This module provides an intuitive interface for browsing skills with their default values and page references, making character creation and skill management much easier.
@@ -121,3 +124,10 @@ For issues, feature requests, or questions:
 ## More Legal 
 
 The material presented here is our original creation, deployed as On the Fly formulas made by Gurps Game Aid and is intended for use with the GURPS system by Steve Jackson Games. This material is not official and is not endorsed by Steve Jackson Games. GURPS is a trademark of Steve Jackson Games, and its rules and art are copyrighted by Steve Jackson Games. All rights are reserved by Steve Jackson Games. The GURPS Instant Defaults was released for free distribution, and not for resale, under the permissions granted in the Steve Jackson Games Online Policy this module DOES NOT provide information contained in paid publications. It is only intended to allow people to play GURPS online using their GURPS books/PDFs.
+
+
+<p align="center">
+  <a href="https://github.com/sponsors/Boifuba">
+    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/Boifuba" width="200" alt="Apoie este projeto"/>
+  </a>
+</p>
