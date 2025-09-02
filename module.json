@@ -20,10 +20,9 @@
   "manifest": "https://github.com/Boifuba/GURPS-Instant-Defaults/releases/download/1.0.0/module.json",
   "download": "https://github.com/Boifuba/GURPS-Instant-Defaults/releases/download/1.0.0/gurps-instant-defaults.zip",
   "esmodules": [
-"main.js"
+    "scripts/main.js"
   ],
-  
-  
+ 
   "styles": [
     {
       "src": "module.css"

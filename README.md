@@ -1,6 +1,6 @@
 [![Donate](https://img.shields.io/badge/Donate-Sponsor%20on%20GitHub-black?logo=github)](https://github.com/sponsors/Boifuba)
 
-@ -1,123 +0,0 @@
+
 # GURPS Instant Defaults
 
 A modern skill chooser and defaults system for GURPS in Foundry VTT. This module provides an intuitive interface for browsing skills with their default values and page references, making character creation and skill management much easier.
