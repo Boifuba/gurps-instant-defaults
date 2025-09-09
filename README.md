@@ -3,8 +3,7 @@
 
 # GURPS Instant Defaults
 
-A modern skill chooser and defaults system for GURPS in Foundry VTT. This module provides an intuitive interface for browsing skills with their default values and page references, making character creation and skill management much easier.
-
+A module developed for GURPS to make using skill defaults easier, featuring a quick search list and a favorites system for faster access. You can click and scroll, send to chat, or request private or blind tests!
 ## Features
 
 - **Skill Browser**: Browse through all GURPS skills with an easy-to-use interface
@@ -17,15 +16,6 @@ A modern skill chooser and defaults system for GURPS in Foundry VTT. This module
   - Right-click for context menus
   - Drag & drop functionality
 - **Page References**: Quick access to rulebook page references
-
-## Installation
-
-1. In Foundry VTT, go to the **Add-on Modules** tab
-2. Click **Install Module**
-3. Paste the manifest URL or search for "GURPS Instant Defaults"
-4. Click **Install**
-5. Enable the module in your world's **Module Settings**
-
 
 ## Usage
 
@@ -98,8 +88,8 @@ Returns the current module version.
 
 ## Compatibility
 
-- **Foundry VTT**: v10+
-- **GURPS System**: Latest version required
+- **Foundry VTT**: v13
+
 
 
 ## License
@@ -114,20 +104,15 @@ For issues, feature requests, or questions:
 2. Create a new issue with detailed information
 
 
-## Credits
-
-- Built for the GURPS system in Foundry VTT
-- Uses GURPS system's built-in wiring and link functions
-- Skill data compiled from GURPS Basic Set and supplements
-
-
 ## More Legal 
 
 The material presented here is our original creation, deployed as On the Fly formulas made by Gurps Game Aid and is intended for use with the GURPS system by Steve Jackson Games. This material is not official and is not endorsed by Steve Jackson Games. GURPS is a trademark of Steve Jackson Games, and its rules and art are copyrighted by Steve Jackson Games. All rights are reserved by Steve Jackson Games. The GURPS Instant Defaults was released for free distribution, and not for resale, under the permissions granted in the Steve Jackson Games Online Policy this module DOES NOT provide information contained in paid publications. It is only intended to allow people to play GURPS online using their GURPS books/PDFs.
 
 
-<p align="center">
-  <a href="https://github.com/sponsors/Boifuba">
-    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/Boifuba" width="200" alt="Apoie este projeto"/>
-  </a>
-</p>
+### Support the Project
+
+Consider supporting the project to help ongoing development.
+
+<a href="https://www.buymeacoffee.com/boifuba" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
+</a>

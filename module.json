@@ -1,7 +1,7 @@
 {
   "id": "gurps-instant-defaults",
   "title": "GURPS Instant Defaults",
-  "description": "A bunch of tools to you play GURPS on GGA",
+  "description": "A modern skill chooser and defaults system for GURPS in Foundry VTT. This module provides an intuitive interface for browsing skills with their default values and page references, making character creation and skill management much easier.",
   "authors": [
     {
       "name": "Boifubá",
@@ -10,15 +10,15 @@
       "flags": {}
     }
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13",
     "maximum": "13"
   },
   "url": "https://gitlab.com/boifuba/Gurps_Instant_Defaults/",
-  "manifest": "https://github.com/Boifuba/GURPS-Instant-Defaults/releases/download/1.0.0/module.json",
-  "download": "https://github.com/Boifuba/GURPS-Instant-Defaults/releases/download/1.0.0/gurps-instant-defaults.zip",
+  "manifest": "https://raw.githubusercontent.com/Boifuba/gurps-instant-defaults/refs/heads/main/module.json",
+  "download": "https://github.com/Boifuba/GURPS-Instant-Defaults/releases/download/1.0.1/gurps-instant-defaults.zip",
   "esmodules": [
     "scripts/main.js"
   ],
