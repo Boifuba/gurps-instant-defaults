@@ -12,7 +12,7 @@ import { UniversalFileHandler } from "/systems/gurps/module/file-handlers/univer
 const CONFIG = {
   SKILLS_DATA_PATH: "modules/gurps-instant-defaults/skills.json",
   TEMPLATE_PATH: "modules/gurps-instant-defaults/skillChooser.hbs",
-  DIALOG_DIMENSIONS: { width: 450, height: 570 },
+  DIALOG_DIMENSIONS: { width: 450 },
   MAX_SKILLS_HEIGHT: 420,
   SEARCH_DEBOUNCE: 100
 };

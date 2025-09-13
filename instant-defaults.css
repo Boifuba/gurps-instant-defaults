@@ -14,6 +14,11 @@
   font-family: "Signika", sans-serif;
 }
 
+#gurps-skill-chooser .window-content {
+  background: var(--color-bg-primary, #f0f0e0);
+}
+
+
 .skill-chooser {
   padding: 10px;
   background: var(--color-bg-primary, #f0f0e0);
