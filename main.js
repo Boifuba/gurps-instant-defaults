@@ -1,5 +1,5 @@
 /**
- * GURPS Instant Defaults Module
+ *  Instant Defaults Module
  * Modern skill chooser and defaults system for GURPS in Foundry VTT
  * 
  * @author Boifubá
@@ -136,7 +136,7 @@ async function loadSkillsData() {
     if (!Array.isArray(skillsData)) throw new Error("Invalid skills data format");
     return skillsData;
   } catch (error) {
-    console.error("GURPS Instant Defaults: Error loading skills data", error);
+    console.error(" Instant Defaults: Error loading skills data", error);
     ui.notifications.error("Failed to load skills data. Check console for details.");
     throw error;
   }
@@ -157,7 +157,7 @@ class SkillChooserApplication extends Application {
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
       id: "gurps-skill-chooser",
-      title: "GURPS Instant Defaults",
+      title: "Instant Defaults",
       template: CONFIG.TEMPLATE_PATH,
       width: CONFIG.DIALOG_DIMENSIONS.width,
       height: CONFIG.DIALOG_DIMENSIONS.height,
@@ -282,7 +282,7 @@ async function skillChooser() {
     skillChooserApp.render(true);
 
   } catch (error) {
-    console.error("GURPS Instant Defaults: Error in skillChooser", error);
+    console.error(" Instant Defaults: Error in skillChooser", error);
     ui.notifications.error("Failed to load skill chooser. Check console for details.");
   }
 }
@@ -320,7 +320,7 @@ async function skillsImport() {
 
     ui.notifications.info(`Successfully imported ${uniqueSkills.length} skills to journal "${journalName}"`);
   } catch (error) {
-    console.error("GURPS Instant Defaults: Error in skillsImport", error);
+    console.error(" Instant Defaults: Error in skillsImport", error);
     ui.notifications.error("Failed to import skills. Check console for details.");
   }
 }
@@ -341,7 +341,7 @@ Hooks.on("getSceneControlButtons", (controls) => {
   if (tokenControls && tokenControls.tools) {
     tokenControls.tools["instant-defaults-button"] = {
       name: "instant-defaults-button",
-      title: "Gurps Instant Defaults",
+      title: "Instant Defaults",
       icon: 'fa-solid fa-comment-nodes',
       button: true,
       onClick: () => {
@@ -359,8 +359,8 @@ Hooks.on("chatMessage", (chatLog, message, chatData) => {
   }
 });
 function setupApi() {
-  window.InstantDefaults = { skillChooser, skillsImport, version: "1.0.0" };
-  console.log("GURPS Instant Defaults module loaded successfully");
+  window.InstantDefaults = { skillChooser, skillsImport, version: "1.0.2" };
+  console.log(" 🐮 Instant Defaults module loaded successfully");
 }
 
 Hooks.once('init', initializeModule);

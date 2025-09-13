@@ -107,29 +107,32 @@ Returns the current module version.
 
 This module is released under the MIT License. See the LICENSE file for details.
 
+
 ## Support
 
 Join us on [Discord](https://discord.gg/223PjGAM2Y), or create an [issue](https://github.com/Boifuba/mookinator/issues) here.
 
+## Looking for more modules for GURPS?
 
-## Do want to support me ? 
+- [Instant Bazaar](https://github.com/Boifuba/gurps-instant-bazaar)
+- [Instant Defaults](https://github.com/Boifuba/gurps-instant-defaults)
+- [Instant Counter](https://github.com/Boifuba/gurps-counter)
+- [Mookinator](https://github.com/Boifuba/mookinator)
+- [Size Matters](https://github.com/Boifuba/size-matters)
+- [Grapple Party](https://github.com/Boifuba/gurps-grapple-party)
+- [Roll Stats](https://github.com/Boifuba/gurps-rolls-stats)
 
-Buy me a [coffee](https://github.com/sponsors/Boifuba)
+### Support the Project
 
-## Credits
+Consider supporting the project to help ongoing development.
 
-- Built for the GURPS system in Foundry VTT
-- Uses GURPS system's built-in wiring and link functions
-- Skill data compiled from GURPS Basic Set and supplements
+<a href="https://www.buymeacoffee.com/boifuba" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
+</a>
+
 
 
 ## More Legal 
 
-The material presented here is our original creation, deployed as On the Fly formulas made by Gurps Game Aid and is intended for use with the GURPS system by Steve Jackson Games. This material is not official and is not endorsed by Steve Jackson Games. GURPS is a trademark of Steve Jackson Games, and its rules and art are copyrighted by Steve Jackson Games. All rights are reserved by Steve Jackson Games. The GURPS Instant Defaults was released for free distribution, and not for resale, under the permissions granted in the Steve Jackson Games Online Policy this module DOES NOT provide information contained in paid publications. It is only intended to allow people to play GURPS online using their GURPS books/PDFs.
+The material presented here is our original creation, deployed as On the Fly formulas made by Gurps Game Aid and is intended for use with the GURPS system by Steve Jackson Games. This material is not official and is not endorsed by Steve Jackson Games. GURPS is a trademark of Steve Jackson Games, and its rules and art are copyrighted by Steve Jackson Games. All rights are reserved by Steve Jackson Games. The Instant Defaults was released for free distribution, and not for resale, under the permissions granted in the Steve Jackson Games Online Policy this module DOES NOT provide information contained in paid publications. It is only intended to allow people to play GURPS online using their GURPS books/PDFs.
 
-
-<p align="center">
-  <a href="https://github.com/sponsors/Boifuba">
-    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/Boifuba" width="200" alt="Apoie este projeto"/>
-  </a>
-</p>
