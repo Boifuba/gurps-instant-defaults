@@ -2,7 +2,7 @@
 
 
 
-# GURPS Instant Defaults
+#  Instant Defaults
 
 A modern skill chooser and defaults system for GURPS in Foundry VTT. This module provides an intuitive interface for browsing skills with their default values and page references, making character creation and skill management much easier.
 
@@ -23,7 +23,7 @@ A modern skill chooser and defaults system for GURPS in Foundry VTT. This module
 
 1. In Foundry VTT, go to the **Add-on Modules** tab
 2. Click **Install Module**
-3. Paste the manifest URL or search for "GURPS Instant Defaults"
+3. Paste the manifest URL or search for " Instant Defaults"
 4. Click **Install**
 5. Enable the module in your world's **Module Settings**
 

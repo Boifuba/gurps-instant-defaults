@@ -20,7 +20,7 @@
 
 
 .skill-chooser {
-  padding: 10px;
+  /* padding: 10px; */
   background: var(--color-bg-primary, #f0f0e0);
   color: var(--color-text-primary, #191813);
 }
@@ -110,7 +110,7 @@
    ========================================================================== */
 
 .skills-list {
-  max-height: 346px;
+  max-height: 440px;
   overflow-y: auto;
   border: 1px solid var(--color-border-dark, #7a7971);
   border-radius: 3px;

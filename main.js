@@ -12,8 +12,8 @@ import { UniversalFileHandler } from "/systems/gurps/module/file-handlers/univer
 const CONFIG = {
   SKILLS_DATA_PATH: "modules/gurps-instant-defaults/skills.json",
   TEMPLATE_PATH: "modules/gurps-instant-defaults/skillChooser.hbs",
-  DIALOG_DIMENSIONS: { width: 450 },
-  MAX_SKILLS_HEIGHT: 420,
+  DIALOG_DIMENSIONS: { width: 500, height: 600 },
+  MAX_SKILLS_HEIGHT: 720,
   SEARCH_DEBOUNCE: 100
 };
 
@@ -326,6 +326,7 @@ async function skillsImport() {
 }
 
 function initializeModule() {
+  // Setting para controlar habilidades favoritas
   game.settings.register("gurps-instant-defaults", "favoriteSkills", {
     name: "Favorite Skills",
     hint: "List of favorited skill OTFs",
@@ -334,9 +335,28 @@ function initializeModule() {
     type: Array,
     default: []
   });
+
+  // Setting para controlar visibilidade do botão no Scene Controls
+  game.settings.register("gurps-instant-defaults", "showSceneButton", {
+    name: "Show Instant Defaults Button",
+    hint: "Display the Instant Defaults button in the Scene Controls toolbar",
+    scope: "client",
+    config: true,
+    type: Boolean,
+    default: true,
+    requiresReload: true,
+    onChange: () => {
+      // Força a atualização dos controles da cena
+      ui.controls.render();
+    }
+  });
 }
+
 Hooks.on("getSceneControlButtons", (controls) => {
   const tokenControls = controls.tokens;
+  
+  // Verifica se a setting está habilitada
+  const showButton = game.settings.get("gurps-instant-defaults", "showSceneButton");
 
   if (tokenControls && tokenControls.tools) {
     tokenControls.tools["instant-defaults-button"] = {
@@ -347,7 +367,7 @@ Hooks.on("getSceneControlButtons", (controls) => {
       onClick: () => {
         InstantDefaults.skillChooser();
       },
-      visible: true
+      visible: showButton
     };
   }
 });
@@ -358,6 +378,7 @@ Hooks.on("chatMessage", (chatLog, message, chatData) => {
     return false; // Impede a mensagem de aparecer no chat
   }
 });
+
 function setupApi() {
   window.InstantDefaults = { skillChooser, skillsImport, version: "1.0.2" };
   console.log(" 🐮 Instant Defaults module loaded successfully");
