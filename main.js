@@ -20,8 +20,7 @@ const CONFIG = {
 const DISPLAY_MODES = { NAME: 'name', OTF: 'otf' };
 
 function setupGurpsInteractions(html) {
-  GurpsWiring.hookupGurps(html);
-  GurpsWiring.hookupGurpsRightClick(html);
+  GurpsWiring.hookupAllEvents(html);
   
   const links = html.find(".gurpslink");
   links.each((_, linkElement) => {
